@@ -8,21 +8,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Encoding template for inscription</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
+                <title>DHARMA_INSKarnataka00001</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:ants"><!-- Update the id -->
+                    <persName ref="part:ants">
                         <forename>Antonella</forename>
                         <surname>Santoro</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:ants"><!-- Update the id -->
+                    <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
+                    <persName ref="part:ants">
                         <forename>Antonella</forename>
                         <surname>Santoro</surname>
                     </persName>
@@ -30,9 +27,8 @@
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Napoli</pubPlace>
                 <idno type="filename">DHARMA_INSKarnataka00001</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -41,28 +37,23 @@
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
                         <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                            Doe.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date when="2024-01-26">2024-01-26</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <msDesc>
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
+                        <idno/>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <summary>this inscription is referd to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal. At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>slab consisting of 60 lines in Kannada language with some damaged parts</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -72,7 +63,7 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
                 <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
@@ -83,12 +74,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
-            <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-            <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
-            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+            <change who="part:axja" when="2024-01-26">Version 3.2 : moving the xml:lang to the root</change>
+           
         </revisionDesc>
     </teiHeader>
     
@@ -97,9 +84,41 @@
       
 <body>
          
-<div type="edition" xml:lang="san-Latn">
-    <!-- update the @xml:lang value, see EGD §7.2-->
-    <!--edition encoded as per EGD §§2−7-->
+<div type="edition" xml:lang="kan-Latn">
+    <p>
+        <ab>
+            <lg n="1" met="anuṣṭubh">
+               <l n="1"><g type="spiral"></g>oṁ-namaḥ-śivāyaḥ<supplied reason="omitted"><g type="daṇḍa">.</g></supplied>nama<unclear>stuṁ</unclear><gap reason="lost" quantity="17" unit="character"></gap>gara-āraṁbhe-mūlastamṁbhāya-sa<unclear>ṃbhavē</unclear>
+               </l>
+                </lg>
+        </ab>
+        
+        <ab>
+            <lg n="2" met="anuṣṭubh">
+            <l n="2">jayati-ānanda<gap reason="lost" quantity="17" unit="character"></gap>nna samasta-bhuvanē-śivaḥ <g type="ddaṇḍa">.</g><g type="spiral"></g></l>
+            </lg>
+        </ab>
+
+        <l n="3"><g type="spiral">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="daṇḍa">.</g> kramadiṁdaṃ pa<unclear>labar</unclear></l>
+        
+        <l n="4">jagaj-jana<unclear>nu</unclear>tar cāḷekya-bhūpar parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpa-ōttama-ratnaṁ jayasiṁhan apratima-tējaṃ <unclear>tā</unclear></l>
+       
+        <lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhauta-āśēṣa-dhātrī-taḷaṁ<g type="ddaṇḍa">.</g> ene negaḻda bhūpaniṁ tattaneyaṁ dhātrīśan-ādanāhava-kēḷī-vinu<unclear>ta</unclear>
+       
+       <lg n="6" met="vṛttaṁ"/>
+        <l n="6">bhuja-darpa-vīra avani-vallabha nikara-mallan-āhava-mallaṁ<g type="daṇḍa">.</g></l>ā bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
+   
+    
+        <l n="7">kṣamaṁ catur-upāy-ōpēta paṁcāṁga-maṁtrābhidyōtita-rāja-nīti-vinutaṁ tī<choice><orig>b</orig><reg>v</reg></choice>rapratāpā-
+va-lēpa ābhīḷaṁ bhuvanaikamallan-esedaṁ prakhyāta-vīra-uttamaṁ<g type="ddaṇḍa">.</g>aṁtā</l>
+        
+        <l n="8">bhūpanin avanī-kāntā-patiy-ādan-ātan-anujaṃ ghanavikrāṁtaṁ tribhuvanamallaṁ kauṁtēya-bhuja-pratāpan-apratirūpaṁ<g type="ddaṇḍa">.</g> taṁnājñe taṁna tējaṁ taṁna-uṁnati nagaḷe rājya</l>
+        
+        <lb break="no" n="9"/>r- iṁnuṁ muṁnaṃ taṁna dorey-enipar-illa-eṁbu-aṁnaṃ permāḍirājyan-esedaṁ jagadōḷ<g type="ddaṇḍa">.</g><g type="spiral"></g> svasti samasta bhuvanāśraya śrīpṛṭhvīvallabha mahā<unclear>ra</unclear>
+        
+        <lb break="no" n="10"/>jādhirāja paramēśvara parama-bhaṭṭaraka satyāśrayakuḷa-tiḷaka chaḷukya-ābharaṇa śrīmạtrībhuva-namalladēvara vijayarā<unclear>jya</unclear>
+
+ </p>   
 </div>
          
 <div type="apparatus">
@@ -113,7 +132,17 @@
 </div>
     
 <div type="translation" resp="part:ants">
- 	<!--translation encoded as per EGD §9.2 -->
+    <p>
+       <p n="1">oṃ Praise to Śiva!</p>
+        <p n="2"><gap reason="lost"></gap></p>
+        <p n="3"> The Caḷukya family, whose wife is the Fortune, the glorious abode in the succession, the spreading of spotless fame, the support of the entire world, shines on earth.</p>
+        <p n="4-5">The Caḷukya kings, praised by many people, in succession: Jayasimha, the best jewel among kings, he who was born in that family in order to proceed and keep the earth protected with heroism, he who was famous for his  incomparable strength, he who had a vast kingdom<supplied reason="subaudible">which is</supplied>the surface of the entire earth, purified with the water of a sacred ford which is his own conduct.</p><p n="6">From that famous king, his son Ahavamalla became king: the proud hero, whose arm was praised in the game of the battle, beloved to the earth, the best among the warriors</p><p n="7-8">From that king <supplied reason="explanation">Ahavamalla</supplied>, his son Sōmēśvara, devoted to the kingdom, who was capable of lifting the weight of the earth, who had forgiveness, who was praised for <supplied reason="explanation">his</supplied>regal conduct, considered in the assembly, praised for <supplied reason="explanation">his knowledge of</supplied>astrology, who possessed of the four means <supplied reason="explanation">of success</supplied>, who was formidable by reason of being endowed with fierce valour, the famous Bhuvanaikamalla, the best among the best heroes. Thus, from that king, his younger brother Tribhuvanamalla became the the beautiful husband of earth, who had a great prowess, incomparable for the power of the arm of Kauntēya</p><p n="9"> Permāḍirājya  shone on the earth to be well know for his order, his splendor, his greatness when
+there were no kings like him in the past, present and future</p><p n="9-10">Hail! The victorious reign of the glorious Tribhuvanamalladēva, who was the ornament of Cāḷukya, the distinctive mark of Satyāśrayakuḷa, the supreme venerable, the supreme Lord, the great king of the kings, the glorious <foreign>pṛthivīvallabha</foreign>, support of the earth</p>     
+        
+
+        
+    </p>
+ 	
 </div>
     
 <div type="commentary">
@@ -121,11 +150,12 @@
 </div>
     
 <div type="bibliography">
-    <!--bibliography encoded as per section §9.4 -->
+
     <p>Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on ...</p>
     
     <listBibl type="primary">
-        <bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        <bibl n="siglum"/><bib><cited range="133-136"></cited>South Indian Inscriptions vol. XI (pt.2)</bib>
+        <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
     </listBibl>
     <listBibl type="secondary">
         <bibl/><!-- one <bibl/> per item of secondary bibliography -->
