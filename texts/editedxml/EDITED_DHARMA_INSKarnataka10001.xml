@@ -185,8 +185,8 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> </p> <ab>{spiral}</ab>
 		<bibl n="EC">
 			<ptr target="bib:Rice1902_01"/>
 			<citedRange unit="page">111–113 (text)</citedRange>
-			<citedRange unit="page">59–60 (translation)</citedRange>
-			<citedRange unit="page">174–175 (text in Kannada characters)</citedRange> 
+			<!--<citedRange unit="page">59–60 (translation)</citedRange>
+			<citedRange unit="page">174–175 (text in Kannada characters)</citedRange> -->
 		</bibl>		
 	</listBibl>
 	
