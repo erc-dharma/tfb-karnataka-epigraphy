@@ -93,16 +93,9 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-10-12"
-				>Version 3.2 : moving the xml:lang to the root</change>
-			<change who="part:axja" when="2020-07-02"
-				>Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-			<change who="part:axja" when="2020-03-18"
-				>Version 2: addition of handDesc and summary</change>
-			<change who="part:axja" when="2019-12-18" status="draft"
-				>Creation of the
-                template</change>
-			<!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+			<change who="part:flde" when="2024-02-01"
+				>Creation of the file</change>
+		
 		</revisionDesc>
 	</teiHeader>
 
@@ -111,7 +104,7 @@
 <body>
          
 <div type="edition" xml:lang="kan-Latn">
- <ab>auspicious symbol</ab>   
+ <ab>{spiral}</ab>   
 <p xml:lang="san-Latn"> 
     <lb n="1"/><milestone n="1" unit="segment"/> 
      oṃ namaḥ śivāya</p> 
@@ -131,7 +124,7 @@
         </lg>
      <p>namo rājagurave ||</p> <!--not in the printed edition!-->
   
-<ab>auspicious symbol</ab>
+<ab>{spiral}</ab>
    <p xml:lang="kan-Latn">
 <lb n="3"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
 raka kāḷaṁjara-pu
@@ -143,13 +136,13 @@ curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
 <lb n="6" break="no"/> para-nārī-suhōdara <!-- read: sahōdara -->śanivāra-
 siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
-anubhavisidan ent endaḍe ǁ </p> <ab>auspicious symbol</ab> 
-<ab>vṛ ||</ab>
+anubhavisidan ent endaḍe <g type="ddanda">.</g> </p> <ab>{spiral}</ab> 
+<ab>vṛ <g type="ddanda">.</g></ab>
     <lg n="3" met="vṛttam"> 
-    <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā |</l>
-    <l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē |</l>
-    <l n="c">ra<lb n="8" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē |</l>
-    <l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā ǁ</l>    
+    <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
+    <l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē <g type="danda">.</g></l>
+    <l n="c">ra<lb n="8" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē <g type="danda">.</g></l>
+    <l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā <g type="ddanda">.</g></l>    
     </lg>
 <ab>va</ab>
 
@@ -168,10 +161,10 @@ anubhavisidan ent endaḍe ǁ </p> <ab>auspicious symbol</ab>
          
 <div type="translation" resp="part:flde">
     <!--translation encoded as per EGD §9.2 -->
-    <head>English Translation</head> <note type="credit">previous translation by Rice, EC 7 Sk 92</note>
+    <head>English Translation</head> 
     <p>Oṃ, praise to Śiva</p>
     <p n="I">Praise to Śambhu, beautified by the chowrie moon kissing his lofty head; like a foundation pillar of a city that is the three worlds.</p>
-    <p n="II">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā's pillar, bearing the fruits of [his] will.  </p>
+    <p n="II">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā's pillar, bearing the fruits of [his] will.</p>
 
 <p>Praise to the king's teacher!</p>
    <p/>
@@ -186,10 +179,10 @@ anubhavisidan ent endaḍe ǁ </p> <ab>auspicious symbol</ab>
 <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
     
-           <p>revised edition by FDS based on photos Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Florinda De Simini (2024), based on ...</p>
+           <p>First edited and translated in <bibl><ptr target="bib:Rice1902_01"/></bibl>. Revised edition and translation by FDS based on photos Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Florinda De Simini (2024), based on ...</p>
         	
     <listBibl type="primary">
-        <bibl><ptr target="bib:Rice1902_01"/><citedRange unit="page">111–113(text)</citedRange><citedRange unit="page">59–60 (translation)</citedRange> <citedRange unit="page">174–175 (text in Kannada characters)</citedRange>  </bibl>
+        <bibl><ptr target="bib:Rice1902_01"/><citedRange unit="page">111–113 (text)</citedRange><citedRange unit="page">59–60 (translation)</citedRange> <citedRange unit="page">174–175 (text in Kannada characters)</citedRange>  </bibl>
 				<bibl n="siglum"/><!-- EC 7 edition, check if it's on Zotero  --><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
