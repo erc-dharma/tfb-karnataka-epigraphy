@@ -103,10 +103,10 @@
 <body>
          
 <div type="edition" xml:lang="kan-Latn">
- <ab>{spiral}</ab>   
+   
 <p xml:lang="san-Latn"> 
-    <lb n="1"/><milestone n="1" unit="segment"/> 
-     oṃ namaḥ śivāya</p> 
+    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/> 
+    <g type="SpiraIL"/> oṃ namaḥ śivāya</p> 
     
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"> 
         <l n="a">namas tuṁga-śiraś-cuṁbi</l>
@@ -123,19 +123,18 @@
         </lg>
      <p>namo rājagurave ||</p> <!--not in the printed edition!-->
   
-<ab>{spiral}</ab>
    <p xml:lang="kan-Latn">
-<lb n="3"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
+<lb n="3"/> <g type="SpiraIL"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
 raka kāḷaṁjara-pu
 <lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇu <!-- correct to: nirghoṣaṇa --> kaḷa-
 curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
 
-<milestone n="2" unit="segment"/> 
+<milestone type="pagelike" unit="zone" n="B"/> 
 <lb n="5" break="no"/> pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
 <lb n="6" break="no"/> para-nārī-suhōdara <!-- read: sahōdara -->śanivāra-
 siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
-anubhavisidan ent endaḍe <g type="ddanda">.</g> </p> <ab>{spiral}</ab> 
+anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>  
 <ab>vṛ <g type="ddanda">.</g></ab>
     <lg n="3" met="vṛttam"> 
     <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
@@ -166,7 +165,11 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> </p> <ab>{spiral}</ab>
     <p n="II">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā's pillar, bearing the fruits of [his] will.</p>
 
 <p>Praise to the king's teacher!</p>
-   <p>Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka, munificient Lord of Kalañjarapura, whose banner is the golden bull, accompanied by the sound of ḍamarukas and tūryyas, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, a mount Sumeru of pride, sun of the good warriors, elephant-driver's hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, a brother to other men's wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names the strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth</p>
+<p n="3">Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka,  Kalañjarapura's</p>
+<p n="4">munificient Lord, whose banner is the golden bull, accompanied by the sound of <foreign>ḍamaruka</foreign>s and <foreign>tūryya</foreign>s, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, </p> 
+<p n="5"> a mount Sumeru of pride, sun of the good warriors, elephant-driver's hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, </p>
+<p n="6"> a brother to other men's wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names </p>
+<p n="7">the glorious strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth</p>
 
 </div>
     
