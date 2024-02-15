@@ -126,12 +126,12 @@
    <p xml:lang="kan-Latn">
 <lb n="3"/> <g type="SpiraIL"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
 raka kāḷaṁjara-pu
-<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇu <!-- correct to: nirghoṣaṇa --> kaḷa-
+<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-<choice><sic>nirghōṣaṇu</sic><corr>nirghoṣaṇa</corr></choice> kaḷa-
 curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
 
 <milestone type="pagelike" unit="zone" n="B"/> 
 <lb n="5" break="no"/> pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
-<lb n="6" break="no"/> para-nārī-suhōdara <!-- read: sahōdara -->śanivāra-
+<lb n="6" break="no"/> para-nārī-<choice><sic>suhōdara</sic><corr>sahōdara</corr></choice> śanivāra-
 siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
 anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>  
@@ -193,6 +193,7 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>
 	</listBibl>
 	
 	<listBibl type="secondary">
+		<bibl><ptr target="bib:Lorenzen1991_01"/></bibl>
 		<bibl/>
 	</listBibl>
 	
