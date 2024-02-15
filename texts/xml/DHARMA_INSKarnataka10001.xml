@@ -63,7 +63,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreadsheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
 							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -166,7 +166,7 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> </p> <ab>{spiral}</ab>
     <p n="II">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā's pillar, bearing the fruits of [his] will.</p>
 
 <p>Praise to the king's teacher!</p>
-   <p/>
+   <p>Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka, munificient Lord of Kalañjarapura, whose banner is the golden bull, accompanied by the sound of ḍamarukas and tūryyas, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, a mount Sumeru of pride, sun of the good warriors, elephant-driver's hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, a brother to other men's wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names the strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth</p>
 
 </div>
     
