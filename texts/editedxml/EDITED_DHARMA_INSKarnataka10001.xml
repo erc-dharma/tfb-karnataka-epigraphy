@@ -125,9 +125,9 @@
      <p>namo rājagurave ||</p> <!--not in the printed edition!-->
   
    <p xml:lang="kan-Latn">
-<lb n="3"/> <g type="SpiraIL"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
+<lb n="3"/><g type="SpiraIL"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
 raka kāḷaṁjara-pu
-<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-<choice><sic>nirghōṣaṇu</sic><corr>nirghoṣaṇa</corr></choice> kaḷa-
+<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-<choice><sic>nirghōṣaṇu</sic><corr>nirghōṣaṇa</corr></choice> kaḷa-
 curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
 
 <milestone type="pagelike" unit="zone" n="B"/> 
@@ -137,7 +137,7 @@ siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁ
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
 anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>  
 <ab>vṛ <g type="ddanda">.</g></ab>
-    <lg n="3" met="vṛttam"> 
+    <lg n="3" met="vṛttam" xml:lang="san-Latn"> 
     <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
     <l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē <g type="danda">.</g></l>
     <l n="c">ra<lb n="8" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē <g type="danda">.</g></l>
