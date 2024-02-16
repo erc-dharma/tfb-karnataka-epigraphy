@@ -8,13 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kedareśvara Temple inscription, year 16 of the Kalachuri </title>
+            <title>Balligavē, Kedareśvara Temple inscription, Kalacuri era, year 16</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:flde"><!-- Update the id -->
+               <persName ref="part:flde">
                   <forename>Florinda</forename>
                   <surname>De Simini</surname>
                </persName>
@@ -107,35 +107,38 @@
    
 <p xml:lang="san-Latn"> 
     <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/> 
-    <g type="SpiraIL"/> oṃ namaḥ śivāya</p> 
+    <g type="SpiraIL"/> Oṃ namaḥ śivāya</p> 
     
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"> 
         <l n="a">namas tuṁga-śiraś-cuṁbi</l>
         <l n="b">caṁdra-cāmara-cāravē</l>
         <l n="c">trailokya-nagarāraṁbha</l>
-        <l n="d">mūla-staṁbhāya śaṁbhavē ||</l>
+        <l n="d">mūla-staṁbhāya śaṁbhavē <g type="ddanda">.</g></l>
     </lg>
- <lb n="2"/>
-        <lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
-            <l n="a">namaś śāśvatikānanta</l>
+ 
+<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
+	<l n="a"><lb n="2"/>namaś śāśvatikānanta</l>
             <l n="b">jñānaiśvarya-mayātmanē</l>  
             <l n="c">saṁkalpa-saphala-brahma</l>
             <l n="d">stambhārambhāya śambhavē</l>
         </lg>
-     <p>namo rājagurave ||</p> <!--not in the printed edition!-->
+     
+	<p>namo rājagurave <g type="ddanda">.</g></p> <!--not in the printed edition!-->
   
    <p xml:lang="kan-Latn">
-<lb n="3"/><g type="SpiraIL"/>svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
+<lb n="3"/><g type="SpiraIL"/> svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
 raka kāḷaṁjara-pu
-<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-<choice><sic>nirghōṣaṇu</sic><corr>nirghōṣaṇa</corr></choice> kaḷa-
+<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice> kaḷa-
 curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
 
 <milestone type="pagelike" unit="zone" n="B"/> 
-<lb n="5" break="no"/> pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
-<lb n="6" break="no"/> para-nārī-<choice><sic>suhōdara</sic><corr>sahōdara</corr></choice> śanivāra-
+<lb n="5" break="no"/>pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
+<lb n="6" break="no"/>para-nārī-<choice><sic>suhōdara</sic><corr>sahōdara</corr></choice> śanivāra-
 siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
-anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>  
+anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
+   </p>  
+	
 <ab>vṛ <g type="ddanda">.</g></ab>
     <lg n="3" met="vṛttam" xml:lang="san-Latn"> 
     <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
@@ -149,34 +152,57 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>
 </div>
     
 <div type="apparatus">
-           <!--<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="line"><!-\- update the value of @loc.-\->
-                     <lem><!-\- fill in a lemma here -\-></lem>
-                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
-                  </app>
-               </listApp>-->
+           
+	<listApp><!-- one <app> for each apparatus entry -->
+		
+		<app loc="2"><!-- update the value of @loc.-->
+			<lem>namo rājagurave</lem>
+			<note>This phrase is not found in <ptr target="bib:Rice1902_01"/> (p. 232), where we find instead a verse (see commentary below).</note>
+		</app>
+		
+		<app loc="4">
+			<lem>°nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice></lem>
+			<rdg source="bib:Rice1902_01">nirghōṣaṇa</rdg>			
+		</app>
+		
+		<!--
+			<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Rice1902_01">..</rdg>
+			<note>...</note
+		</app>-->
+		
+	</listApp>
 </div>
          
 <div type="translation" resp="part:flde">
     <!--translation encoded as per EGD §9.2 -->
     <head>English Translation</head> 
-    <p>Oṃ, praise to Śiva</p>
-    <p n="I">Praise to Śambhu, beautified by the chowrie moon kissing his lofty head; like a foundation pillar of a city that is the three worlds.</p>
-    <p n="II">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā’s pillar, bearing the fruits of [his] will.</p>
+    
+	<p n="1">Oṃ, praise to Śiva</p>
+    
+	<p rend="stanza" n="1">Praise to Śambhu, beautified by the chowrie moon kissing his lofty head; like a foundation pillar of a city that is the three worlds.</p>
+	
+	<p rend="stanza" n="2">Praise to Śambhu, whose Self consists of perpetual, eternal knowledge and sovereignty, who is the foundation of Brahmā’s pillar, bearing the fruits of [his] will.</p>
 
-<p>Praise to the king’s teacher!</p>
-<p n="3">Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka,  Kalañjarapura’s</p>
-<p n="4">munificient Lord, whose banner is the golden bull, accompanied by the sound of <foreign>ḍamaruka</foreign>s and <foreign>tūryya</foreign>s, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, </p> 
-<p n="5"> a mount Sumeru of pride, sun of the good warriors, elephant-driver’s hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, </p>
-<p n="6"> a brother to other men’s wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names </p>
-<p n="7">the glorious strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth</p>
+<p n="2">Praise to the king’s teacher!</p>
+	
+<p n="3-7">Be it well! Refuge of the entire world, beloved of the glorious Earth, the Mahārājādhirāja Paramēśvara Paramabhaṭṭāraka,  Kalañjarapura’s
+munificient Lord, whose banner is the golden bull, accompanied by the sound of <foreign>ḍamaruka</foreign>s and <foreign>tūryya</foreign>s, sun to the lotus flower which is the Kaḷacuryya family, impetuous on the battle field, 
+a mount Sumeru of pride, sun of the good warriors, elephant-driver’s hook of heros, a leader of elephants, a diamond-cage for refugees, the Lord of Laṅka for splendour, 
+ a brother to other men’s wives, Śanivārasiddhi, powerful on the hill-fortress, Rāma, whose hallmark is being energetic, a lion against the elephant-enemies, Niśśankamalla: with such suitable names
+the glorious strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday experienced the love of the Earth
+</p>
 
 </div>
     
 <div type="commentary">
-    <!--commentary encoded as per section §9.3 -->
-    <p> <!-- iconography --></p>
+	<!--commentary encoded as per section §9.3 -->
+	<p><!-- iconography --></p>
+	<p n="2"><bibl><ptr target="bib:Rice1902_01"/></bibl>, in line ***, has a verse which actually is not found:
+	<lg met="anuṣṭubh" n="3">
+		<l>retre</l>
+	</lg></p>
 </div>
     
 <div type="bibliography">
@@ -194,7 +220,10 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/></p>
 	</listBibl>
 	
 	<listBibl type="secondary">
-		<bibl><ptr target="bib:Lorenzen1991_01"/></bibl>
+		<bibl>
+			<ptr target="bib:Lorenzen1991_01"/>
+		<!--<citedRange unit="page">5445</citedRange>-->
+		</bibl>
 		<bibl/>
 	</listBibl>
 	
