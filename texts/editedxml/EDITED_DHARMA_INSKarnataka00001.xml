@@ -49,11 +49,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>this inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal. At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti</summary>
+                  <summary>This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>slab consisting of 60 lines in Kannada language with some damaged parts</p>
+                     <p>...</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -90,21 +90,22 @@
 <div type="edition" xml:lang="kan-Latn">
 	
 	<p>
-		<lb n="1"/><g type="spiral"/> Oṁ namaḥ śivāya<surplus>ḥ</surplus>
+		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ śivāya<surplus>ḥ</surplus>
 	</p>
 	
 	<lg n="1" met="anuṣṭubh">
 		
-		<l n="a">nama</l>
+		<l n="a">nama<supplied reason="lost">s tuṁga-śiraś-cuṁbi</supplied></l>
 		<l n="b"><unclear>stuṁ</unclear><gap reason="lost" quantity="7" unit="character"/></l>
 		<l n="c"><gap reason="lost" quantity="4" unit="character"/>gara-āraṁbhe-</l>
 		<l n="d">mūlastamṁbhāya-sa<unclear>ṃbhavē</unclear></l>
+		
 	</lg>   
 	
 	<lg n="2" met="anuṣṭubh">
 		
 		<l n="a"><lb n="2"/>jayati-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
-	         <l n="b"><gap reason="lost" quantity="8" unit="character"/></l>
+		<l n="b"><gap reason="lost" quantity="8" unit="character"/></l>
 		<l n="c"><gap reason="lost" quantity="7" unit="character"/></l>
 		<l n="d">samasta-bhuvanē-śivaḥ <g type="ddaṇḍa">.</g><g type="spiral"/></l>
 		
@@ -112,7 +113,7 @@
 	
 	<p>  
 		
-		<lb n="3"/><g type="spiral">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="daṇḍa">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="spiral">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="daṇḍa">.</g>
 	</p>
 	
 	<p>
@@ -120,19 +121,16 @@
 		
 		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar cāḷekya-bhūpar parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpa-ōttama-ratnaṁ jayasiṁhan apratima-tējaṁ <unclear>tā</unclear>
 		
-		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhauta-āśēṣa-dhātrī-taḷaṁ<g type="ddaṇḍa">.</g> </p>
-    <p>
-	    	<lg n="3" met="vṛttaṁ">
-	    	    <l n="a">ene negaḻda bhūpaniṁ tattaneyaṁ dhātrīśan-ādanāhava-kēḷī-vinu<unclear>ta</unclear></l>
+		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhauta-āśēṣa-dhātrī-taḷaṁ<g type="ddanda">.</g> 
+	</p>
 	
-	
-
-		
-		<l n="b"><lb n="6"/>bhuja-darpa-vīra avani-vallabha nikara-mallan-āhava-mallaṁ<g type="daṇḍa">.</g></l>
-	    	</lg>
-    </p>
-    <p>
-	ā bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
+	<lg n="3" met="vṛttaṁ">
+			<l n="a">ene negaḻda bhūpaniṁ tattaneyaṁ dhātrīśan-ādanāhava-kēḷī-vinu<unclear>ta</unclear></l>
+			<l n="b"><lb n="6"/>bhuja-darpa-vīra avani-vallabha nikara-mallan-āhava-mallaṁ <g type="danda">.</g></l>
+	</lg>
+    
+	<p>
+		ā bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
 	
 		<lb n="7"/>kṣamaṁ catur-upāy-ōpēta paṁcāṁga-maṁtrābhidyōtita-rāja-nīti-vinutaṁ tī<choice><orig>b</orig><reg>v</reg></choice>rapratāpā-
 		va-lēpa ābhīḷaṁ bhuvanaikamallan-esedaṁ prakhyāta-vīra-uttamaṁ<g type="ddaṇḍa">.</g>aṁtā
@@ -142,53 +140,56 @@
 	<p>
 		taṁnājñe taṁna tējaṁ taṁna-uṁnati nagaḷe rājya
 		
-		<lb break="no" n="9"/>r- iṁnuṁ muṁnaṃ taṁna dorey-enipar-illa-eṁbu-aṁnaṃ permāḍirājyan-esedaṁ jagadōḷ<g type="ddaṇḍa">.</g><g type="spiral"/>
-		</p>
+		<lb break="no" n="9"/>r- iṁnuṁ muṁnaṃ taṁna dorey-enipar-illa-eṁbu-aṁnaṃ permāḍirājyan-esedaṁ jagadōḷ<g type="ddaṇḍa">.</g><g type="spiral"/>		
+	</p>
+	
 	<p>
-	<g type="spiral"/>svasti samasta bhuvanāśraya śrīpṛṭhvīvallabha mahā<unclear>ra</unclear>
+		<g type="spiral"/>svasti samasta bhuvanāśraya śrīpṛṭhvīvallabha mahā<unclear>ra</unclear>
 		
-	    <lb break="no" n="10"/>jādhirāja paramēśvara parama-bhaṭṭaraka satyāśrayakuḷa-tiḷaka chaḷukya-ābharaṇa śrīmạtrībhuva-namalladēvara vijayarā<unclear>jya</unclear>
-	    <lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam ā c-chaṃdra-arkka-tāraṃ saluttamire<g type="danda">.</g>ā cāḷukya kulakke bhaktar enisirdatyaṃta vikrāṃta-līla-ācāry<unclear>rkka</unclear>
-	    <lb break="no" n="12"/>danaikadhuṛyar-avanī-prastutya śuddha-prasiddh-ācārar-jagad-ēkavīra<unclear>r-sa</unclear>sadṛkṣa-kṣatra saṃvēdya vidy-ācāturyya rudagra-dhairyya r-eseda<unclear>ṛ-siṃ</unclear>
-	    <lb break="no" n="13"/>dānvayōrvvībhujar<g type="ddanda">.</g>tad-vaṃśa-prabhavaṃ prabhūta-vibhavaṃ nānākaḷā-kōvidaṃ vidviṣṭa-avani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n-udya</unclear>
-	    <lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṃ siṃda-ānvaya-khyāti-saṃpad-vistāri-caritran-ācugi-nṛpaṃ prakhyā-
-tiyaṃ tāḷdidaṃ<g type="ddanda">.</g>anupama-śauṛyyaṃ cā<unclear>ḷu</unclear>
-<lb break="no" n="15"/>kya-narēṃdrana-muṃde haṭṭigāḷegadōḷ paṃpanapapaṃ parapindenaṃdanan subhaṭar-ddoreyi bagevaḍa ā
-cugi-nrpanōḷ<g type="ddanda">.</g>ene nega
-	   <lb break="no" n="16"/>rdda ācugi-bhūmipan anujātar nnākanṛpati siṃganṛpaṃ dāsanṛpaṃ dāvanṛpaṃ cauṇdanṛpaṃ
-cāvanṛpan-ene guṇōnnatar-esedar<g type="ddanda">.</g>avar-o<unclear>ḷa</unclear>
-	  <lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan-ene nagaḻdan akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṃ yaśtrībhavanaṃ kadana pracaṇḍa cāvuṃḍanṛpaṃ<g type="ddanda"/>ene<unclear>si</unclear>
-	  <lb break="no" n="18"/>dā ābhūpaniṃḍaṃ negaḻdan akhiḷarājyāṃ ganā-vallabhaṃ tān ene dōṛ vikrāṃtadiṃda ācuginṛpa
-	    tanayaṃ baṃmabhūpaṃ raṇa-ābhīḷa-nṛpā<unclear>ḷ ō</unclear>
-           <lb break="no" n="19"/>ttaṃsan uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-pada abjā-vana-madbhṛṃgaṃ guṇa-aṃbhōnidhi budhajana-labdha-praśaṃsā-avataṃsaṃ<g type="ddanda">.</g>ā nṛpatiyiṃda rā<unclear>jya</unclear>
-	   <lb break="no" n="20"/>śrīnārīramaṇan enisidaṃ guṇaniḷayaṃ bhūnutaśastrakaḷāvijñānaṃ maṇḍaḷikatiḷakan ācugidēvaṃ<g type="ddanda">.</g>palavuṃ duṛgaṃgaḷaṃ koṇḍa
-	   <lb break="no" n="21"/>vinatanṛparaṃ tū<unclear>ḷdi</unclear> beṃkoṃḍu daṛppāviḷaraṃ māṛkkoṃḍu arāti-kṣitipatigaḷa-dēśaṃgaḷaṃ kūḍekaikoṃḍu lasat-puṇya-kriyā saṃbhava-vi<unclear>bha</unclear>
-	   <lb break="no" n="22"/>vaman aṃtōccataṃ goṃḍu lakṣmīlalanākāntaṃ samaṃto ācarasan akhiḷa-saukhy-āspada khyātanādaṃ<g type="ddanda">.</g>caṃḍāṃśu-pratibhāsi pōysaḷanan ā<unclear>ṛddē</unclear>
-	   <lb break="no" n="23"/>r vaṭṭedaṃ gōviyaṃ koṃḍaṃ lakṣmanan ājiyoḷ tavisidaṃ vikrāṃtadiṃde eydi beṃkoṃḍaṃ pāṃḍyanan āvagaṃ malavaraṃ tūḷdaṭṭidaṃ koṃkaṇaṃ goṃ
-	   <lb break="no" n="24"/>ḍaṃ vikramacakravaṛtti besasalu saṃgrāmakaṇṭhīravaṃ<g type="ddanda">.</g></p>
-    <p>iṃtu dhaṛmmaniṛmmaṇa tatparan enisida mahāmaṇḍaḷēśvaraṃ ācarasan ā<unclear>ma</unclear>
-	<lb break="no" n="25"/>hāsati<g type="ddanda">.</g> paramapatibrate niṛmaḷacarite mahāpuṇyasati mahādēvi jagadvara maṇḍaḷēśa rājñīśirōvibhūṣaṇavenalke ja<unclear>sa</unclear>
-         <lb break="no" n="26"/>maṃ taḷidaḷ<g type="ddanda">.</g>enisida mādīviga vājananaṃta nṛpatiḷaka<choice><sic>n</sic><corr>ṃ</corr></choice> enisida ācarasaṃgaṃ janiyisidaṃ sakaḷajagajjanahaṛṣaṃ janiyisalke <unclear>peṛmmā</unclear>
-        <lb break="no" n="27"/>ḍinṛpaṃ<g type="ddanda">.</g>jitavīra-dviṭpuraṃ niṛjita samada mahīnāthayūthaṃ bhujōpāṛjjita nānā maṇḍaḷaṃ tarjita ripu nṛpa tībra pratāpō<unclear>da</unclear>
-        <lb break="no" n="28"/>yaṃ vaṛjjitakāḷē<gap reason="illegible"/>rabhāvaprabhavakaluṣan asphuṛjjita ārāti lōkōṛjjita cāritraṃ mahāmaṃḍaḷika timira caṃ<unclear>ḍāṃ</unclear>
-        <lb break="no" n="29"/>tu peṛmmaḍidēvaṃ<g type="ddanda">.</g><gap reason="illegible"/>peṛmmāḍabhūpaṃge ene sucicarita snāna dēva ārcchanā hōma mahādāna bratagha dvijagu<unclear>ru</unclear>
-        <lb break="no" n="30"/>muni pūjādipuṇyakriyā prakramadiṃ dharmmārtṭhaśastraśrutiyin akhiḷadivya-aṃna-dānaṃgaḷiṃ 
-d uttama nānānavyakāvyaśravaṇa
-        <lb break="no" n="31"/>sarasagōṣṭhī viḷāsaṃagaḷiṃdaṃ<g type="ddanda">.</g>sale saphaḷa venisi davasaṃ divasaṃ saluttamira sadvinōdadi rājyaśrīla<supplied reason="undefined">la</supplied>neyūḍagūḍi sukha<unclear>diṃ </unclear>
-        <lb break="no" n="32"/>naliyutirppa salīlan abhinavabhōjaṃ<g type="ddanda">.</g><g type="spiral"/>svasti samadhigata paṃcamahāśabda mahāmaṃḍaḷēśvara |udāravīralakṣmīśvara<g type="danda">.</g>sinda ku
-        <lb break="no" n="33"/>
-
+		<lb break="no" n="10"/>jādhirāja paramēśvara parama-bhaṭṭaraka satyāśrayakuḷa-tiḷaka chaḷukya-ābharaṇa śrīmạtrībhuva-namalladēvara vijayarā<unclear>jya</unclear>
+		<lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam ā c-chaṃdra-arkka-tāraṃ saluttamire<g type="danda">.</g>ā cāḷukya kulakke bhaktar enisirdatyaṃta vikrāṃta-līla-ācāry<unclear>rkka</unclear>
+		<lb break="no" n="12"/>danaikadhuṛyar-avanī-prastutya śuddha-prasiddh-ācārar-jagad-ēkavīra<unclear>r-sa</unclear>sadṛkṣa-kṣatra saṃvēdya vidy-ācāturyya rudagra-dhairyya r-eseda<unclear>ṛ-siṃ</unclear>
+		<lb break="no" n="13"/>dānvayōrvvībhujar<g type="ddanda">.</g>tad-vaṃśa-prabhavaṃ prabhūta-vibhavaṃ nānākaḷā-kōvidaṃ vidviṣṭa-avani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n-udya</unclear>
+		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṃ siṃda-ānvaya-khyāti-saṃpad-vistāri-caritran-ācugi-nṛpaṃ prakhyā-
+		tiyaṃ tāḷdidaṃ<g type="ddanda">.</g>anupama-śauṛyyaṃ cā<unclear>ḷu</unclear>
+		<lb break="no" n="15"/>kya-narēṃdrana-muṃde haṭṭigāḷegadōḷ paṃpanapapaṃ parapindenaṃdanan subhaṭar-ddoreyi bagevaḍa ā
+		cugi-nrpanōḷ<g type="ddanda">.</g>ene nega
+		<lb break="no" n="16"/>rdda ācugi-bhūmipan anujātar nnākanṛpati siṃganṛpaṃ dāsanṛpaṃ dāvanṛpaṃ cauṇdanṛpaṃ
+		cāvanṛpan-ene guṇōnnatar-esedar<g type="ddanda">.</g>avar-o<unclear>ḷa</unclear>
+		<lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan-ene nagaḻdan akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṃ yaśtrībhavanaṃ kadana pracaṇḍa cāvuṃḍanṛpaṃ<g type="ddanda"/>ene<unclear>si</unclear>
+		<lb break="no" n="18"/>dā ābhūpaniṃḍaṃ negaḻdan akhiḷarājyāṃ ganā-vallabhaṃ tān ene dōṛ vikrāṃtadiṃda ācuginṛpa
+		tanayaṃ baṃmabhūpaṃ raṇa-ābhīḷa-nṛpā<unclear>ḷ ō</unclear>
+		<lb break="no" n="19"/>ttaṃsan uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-pada abjā-vana-madbhṛṃgaṃ guṇa-aṃbhōnidhi budhajana-labdha-praśaṃsā-avataṃsaṃ<g type="ddanda">.</g>ā nṛpatiyiṃda rā<unclear>jya</unclear>
+		<lb break="no" n="20"/>śrīnārīramaṇan enisidaṃ guṇaniḷayaṃ bhūnutaśastrakaḷāvijñānaṃ maṇḍaḷikatiḷakan ācugidēvaṃ<g type="ddanda">.</g>palavuṃ duṛgaṃgaḷaṃ koṇḍa
+		<lb break="no" n="21"/>vinatanṛparaṃ tū<unclear>ḷdi</unclear> beṃkoṃḍu daṛppāviḷaraṃ māṛkkoṃḍu arāti-kṣitipatigaḷa-dēśaṃgaḷaṃ kūḍekaikoṃḍu lasat-puṇya-kriyā saṃbhava-vi<unclear>bha</unclear>
+		<lb break="no" n="22"/>vaman aṃtōccataṃ goṃḍu lakṣmīlalanākāntaṃ samaṃto ācarasan akhiḷa-saukhy-āspada khyātanādaṃ<g type="ddanda">.</g>caṃḍāṃśu-pratibhāsi pōysaḷanan ā<unclear>ṛddē</unclear>
+		<lb break="no" n="23"/>r vaṭṭedaṃ gōviyaṃ koṃḍaṃ lakṣmanan ājiyoḷ tavisidaṃ vikrāṃtadiṃde eydi beṃkoṃḍaṃ pāṃḍyanan āvagaṃ malavaraṃ tūḷdaṭṭidaṃ koṃkaṇaṃ goṃ
+		<lb break="no" n="24"/>ḍaṃ vikramacakravaṛtti besasalu saṃgrāmakaṇṭhīravaṃ<g type="ddanda">.</g></p>
+	<p>iṃtu dhaṛmmaniṛmmaṇa tatparan enisida mahāmaṇḍaḷēśvaraṃ ācarasan ā<unclear>ma</unclear>
+		<lb break="no" n="25"/>hāsati<g type="ddanda">.</g> paramapatibrate niṛmaḷacarite mahāpuṇyasati mahādēvi jagadvara maṇḍaḷēśa rājñīśirōvibhūṣaṇavenalke ja<unclear>sa</unclear>
+		<lb break="no" n="26"/>maṃ taḷidaḷ<g type="ddanda">.</g>enisida mādīviga vājananaṃta nṛpatiḷaka<choice><sic>n</sic><corr>ṃ</corr></choice> enisida ācarasaṃgaṃ janiyisidaṃ sakaḷajagajjanahaṛṣaṃ janiyisalke <unclear>peṛmmā</unclear>
+		<lb break="no" n="27"/>ḍinṛpaṃ<g type="ddanda">.</g>jitavīra-dviṭpuraṃ niṛjita samada mahīnāthayūthaṃ bhujōpāṛjjita nānā maṇḍaḷaṃ tarjita ripu nṛpa tībra pratāpō<unclear>da</unclear>
+		<lb break="no" n="28"/>yaṃ vaṛjjitakāḷē<gap reason="illegible"/>rabhāvaprabhavakaluṣan asphuṛjjita ārāti lōkōṛjjita cāritraṃ mahāmaṃḍaḷika timira caṃ<unclear>ḍāṃ</unclear>
+		<lb break="no" n="29"/>tu peṛmmaḍidēvaṃ<g type="ddanda">.</g><gap reason="illegible"/>peṛmmāḍabhūpaṃge ene sucicarita snāna dēva ārcchanā hōma mahādāna bratagha dvijagu<unclear>ru</unclear>
+		<lb break="no" n="30"/>muni pūjādipuṇyakriyā prakramadiṃ dharmmārtṭhaśastraśrutiyin akhiḷadivya-aṃna-dānaṃgaḷiṃ 
+		d uttama nānānavyakāvyaśravaṇa
+		<lb break="no" n="31"/>sarasagōṣṭhī viḷāsaṃagaḷiṃdaṃ<g type="ddanda">.</g>sale saphaḷa venisi davasaṃ divasaṃ saluttamira sadvinōdadi rājyaśrīla<supplied reason="undefined">la</supplied>neyūḍagūḍi sukha<unclear>diṃ </unclear>
+		<lb break="no" n="32"/>naliyutirppa salīlan abhinavabhōjaṃ<g type="ddanda">.</g><g type="spiral"/>svasti samadhigata paṃcamahāśabda mahāmaṃḍaḷēśvara |udāravīralakṣmīśvara<g type="danda">.</g>sinda ku
+		<lb break="no" n="33"/>
    </p>
 </div>
          
 <div type="apparatus">
-           <!--<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="line"><!-\- update the value of @loc.-\->
-                     <lem><!-\- fill in a lemma here -\-></lem>
-                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
-                  </app>
-               </listApp>-->
+	
+               <listApp><!-- one <app> for each apparatus entry -->
+               	
+               	<app loc="line"><!-- update the value of @loc.-->
+               		<lem><!-- fill in a lemma here --></lem>
+               		<rdg source="bib:LakshminarayaRao1952_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               		<note>...</note>
+               	</app>
+               	
+               </listApp>
 </div>
     
 <div type="translation" resp="part:ants">
@@ -197,23 +198,23 @@ d uttama nānānavyakāvyaśravaṇa
 		Oṃ! Praise to Śiva!
 	</p>
 	
-	<p n="1"><supplied reason="lost" evidence="parallel">Obeisance to Śambhu, beauteous with the cāmara like crescent moon kissing his lofty head, the original foundation-pillar of the city of the three worlds</supplied>
-</p>
+	<p rend="stanza" n="1">
+		Obeisance to Śambhu, beauteous with the <foreign>cāmara</foreign> like crescent moon kissing his lofty head, the original foundation-pillar of the city of the three worlds.<note>This is the translation here complete, from a well-known verse by Harṣa.</note>
+	</p>
 		
-	<p n="2">The joy wins<gap reason="lost"/>the whole earth Śiva</p>
+	<p rend="stanza" n="2">The joy wins <gap reason="lost"/> the whole earth Śiva</p>
 		
 	<p n="3">The Caḷukya family, whose wife is the Fortune, the glorious abode in the succession, the spreading of spotless fame, the support of the entire world, shines on earth.</p>		
 	
-	<p n="3-5">The Caḷukya kings, praised by many people, in succession: Jayasimha, the best jewel among kings, he who was born in that family in order to proceed and keep the earth protected with heroism, he who was famous for his  incomparable strength, he who had a vast kingdom<supplied reason="subaudible">which is</supplied>the surface of the entire earth, purified with the water of a sacred ford which is his own conduct.</p>
+	<p n="3-5">The Caḷukya kings, praised by many people, in succession: Jayasimha, the best jewel among kings, he who was born in that family in order to proceed and keep the earth protected with heroism, he who was famous for his  incomparable strength, he who had a vast kingdom <supplied reason="subaudible">which is</supplied> the surface of the entire earth, purified with the water of a sacred ford which is his own conduct.</p>
 	
 	<p n="6">From that famous king, his son Ahavamalla became king: the proud hero, whose arm was praised in the game of the battle, beloved to the earth, the best among the warriors</p>
 	
-        <p n="7-8">From that king <supplied reason="explanation">Ahavamalla</supplied>, his son Sōmēśvara, devoted to the kingdom, who was capable of lifting the weight of the earth, who had forgiveness, who was praised for <supplied reason="explanation">his</supplied>regal conduct, considered in the assembly, praised for <supplied reason="explanation">his knowledge of</supplied>astrology, who possessed of the four means <supplied reason="explanation">of success</supplied>, who was formidable by reason of being endowed with fierce valour, the famous Bhuvanaikamalla, the best among the best heroes. Thus, from that king, his younger brother Tribhuvanamalla became the the beautiful husband of earth, who had a great prowess, incomparable for the power of the arm of Kauntēya</p>
+	<p n="7-8">From that king <supplied reason="explanation">Ahavamalla</supplied>, his son Sōmēśvara, devoted to the kingdom, who was capable of lifting the weight of the earth, who had forgiveness, who was praised for <supplied reason="explanation">his</supplied> regal conduct, considered in the assembly, praised for <supplied reason="subaudible">his knowledge of</supplied> astrology, who possessed of the four means <supplied reason="subaudible">of success</supplied>, who was formidable by reason of being endowed with fierce valour, the famous Bhuvanaikamalla, the best among the best heroes. Thus, from that king, his younger brother Tribhuvanamalla became the the beautiful husband of earth, who had a great prowess, incomparable for the power of the arm of Kauntēya</p>
 	
-        <p n="8-9"> Permāḍirājya  shone on the earth to be well know for his order, his splendor, his greatness when
-there were no kings like him in the past, present and future</p>
+	<p n="8-9">Permāḍirājya  shone on the earth to be well know for his order, his splendor, his greatness when there were no kings like him in the past, present and future</p>
 	
-        <p n="9-10">Hail! The victorious reign of the glorious Tribhuvanamalladēva, who was the ornament of the Cāḷukyas, the distinctive mark of the Satyāśrayakuḷa, the supreme venerable, the supreme Lord, the great king of the kings, the glorious <foreign>pṛthivīvallabha</foreign>, support of the earth</p>      
+	<p n="9-10">Hail! The victorious reign of the glorious Tribhuvanamalladēva, who was the ornament of the Cāḷukyas, the distinctive mark of the Satyāśrayakuḷa, the supreme venerable, the supreme Lord, the great king of the kings, the glorious <foreign>pṛthivīvallabha</foreign>, support of the earth</p>      
  	
 </div>
     
@@ -227,7 +228,7 @@ there were no kings like him in the past, present and future</p>
 	
 	<listBibl type="primary">
 		
-		<bibl>
+		<bibl n="LR">
 			<ptr target="bib:LakshminarayaRao1952_01"/>
 			<citedRange unit="page">133-136</citedRange>
 			<citedRange unit="item">119</citedRange>
@@ -246,3 +247,7 @@ there were no kings like him in the past, present and future</p>
 </body>
   </text>
 </TEI>
+<!--
+	MEATADATA:
+	Slab consisting of 60 lines in Kannada language with some damaged parts
+At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti -->
