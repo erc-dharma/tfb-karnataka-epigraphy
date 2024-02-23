@@ -283,7 +283,8 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
 <div type="bibliography">
 
 	<p>First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/></bibl> (SII 11, no. 119).</p>
-	<p>Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the ASI estampage, kindly supplied by the Director of epigraphy. <!--Thanks to ... for reading the text with me.--></p>
+	<p>First translated in <bibl><ptr target="bib:Fleet1875_05"/></bibl>.</p>
+	<p>Re-edited an re-translated here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the ASI estampage, kindly supplied by the Director of epigraphy. <!--Thanks to ... for reading the text with me.--></p>
 	
 	<listBibl type="primary">
 		
@@ -295,13 +296,14 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
 		
 	</listBibl>
 	
-<!--	<listBibl type="secondary">
+	<listBibl type="secondary">
+	
 		<bibl>
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="figure">...</citedRange>
+			<ptr target="bib:Fleet1875_05"/>
+			<citedRange unit="page">231-238</citedRange>
 		</bibl>
-	</listBibl>-->
+		
+	</listBibl>
 </div>
 </body>
   </text>
