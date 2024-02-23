@@ -203,7 +203,7 @@ dhaṛmmaṃgaḷaṃ pratipāḷi<unclear>su</unclear>
    	<lb break="yes" n="45"/>aṃtoppuva narayaṃgall   eraḍuṃ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇyapuṛuṣariṃda dhaṛmmaprati<unclear>pā</unclear>
    	<lb break="no" n="46"/>ḷanāpararappa prabhugāvuṃḍugaḷiṃdav-esadum alli taṃkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṃ mā<unclear>ḍi</unclear>
    	<lb break="no" n="47"/>si devar-aṃgabhōgakke sakavaṛṣa 872 deneya saumya saṃvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
-   	<lb break="no" n="48"/>saṃkrāntiyaṃdu muṃḍeyaraśrīvantagāvuṃḍa[ṃ] nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṃ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
+   	<lb break="no" n="48"/>saṃkrāntiyaṃdu muṃḍeyaraśrīvantagāvuṃḍa<unclear>ṃ</unclear> nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṃ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
    	<lb break="yes" n="49"/>biṭṭa bhūmiya sthaḷa muduvoḷaladāriyiṃ baḍaga navayavaḷadiṃ teṃka vāsigāvuṃḍanabaḷediṃmūḍa karabhūmiyiṃ paḍuva
    	<lb break="yes" n="50"/>saṛvvamānyemu<g type="danda">.</g>saṛvvar-bbhādhaparihāramumāgiy-ācaṃddraaṛkkatārạmbaraṃ naḍavaṃtāgi biṭṭa mattaru mūvattāṟakke liṃgamuṃ tapōḍha<unclear>na</unclear>
    	<lb break="no" n="51"/>ruṃ kavileyuṃ berasu māḍi niṟisida kiṃnarigalla guḍḍe nālku<g type="danda">.</g>muduvōḷala dāriyiṃteṃka bannirabammagāvuṇḍana baḷadiṃ
@@ -226,9 +226,9 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
 	
                <listApp><!-- one <app> for each apparatus entry -->
                	
-               	<app loc="line"><!-- update the value of @loc.-->
-               		<lem><!-- fill in a lemma here --></lem>
-               		<rdg source="bib:LakshminarayaRao1952_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               	<app loc="48"><!-- update the value of @loc.-->
+               		<lem>°gāvuṃḍa<unclear>ṃ</unclear></lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">°gāvuṃḍa<supplied reason="undefined">ṃ</supplied></rdg>
                		<note>...</note>
                	</app>
                	
