@@ -18,7 +18,6 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
                <persName ref="part:ants">
                   <forename>Antonella</forename>
                   <surname>Santoro</surname>
@@ -209,12 +208,12 @@ dhaṛmmaṃgaḷaṃ pratipāḷi<unclear>su</unclear>
    	<lb break="no" n="51"/>ruṃ kavileyuṃ berasu māḍi niṟisida kiṃnarigalla guḍḍe nālku<g type="danda">.</g>muduvōḷala dāriyiṃteṃka bannirabammagāvuṇḍana baḷadiṃ
    	<lb break="yes" n="52"/>baḍiga karabhūmiyiṃ mūḍa kāṭigāvuṇḍana baḷadiṃ paḍuva saṛvvanamasyamage maṭṭārākaṃ liṃgamuṃ tapōdhanaruṃ kavileyuṃ
    	<lb break="yes" n="53"/>barasu māḍi niṟisida kinnarigalla kuḍḍenālku<g type="danda">.</g>tippēśvaradēvara keyyikuyyuvaḷadiṃ paḍuva ciguravaḷadiṃ mūḍa karabhūmiyiṃ
-   	<lb break="yes" n="54"/>baḍaga mattaṃ karabhūmiyiṃ taṃka sa[ṛvva]namasyada mattarāṟakkaṃ nālkugōṃṭiṃgaṃliṃgamuṃ tapōdhanaruṃ kavileyuṃ bera
+   	<lb break="yes" n="54"/>baḍaga mattaṃ karabhūmiyiṃ taṃka sa[ṛvva]<!--check reading-->namasyada mattarāṟakkaṃ nālkugōṃṭiṃgaṃliṃgamuṃ tapōdhanaruṃ kavileyuṃ bera
    	<lb break="no" n="55"/>su māḍi nirisada kinnarigalla guḍḍa nālku<supplied reason="omitted"><g type="danda">.</g></supplied>dēvara tōṃṭadasthaḷa<gap reason="lost" quantity="2" unit="character"/>navayarakēta gāvuṇḍana mogeyiṃ mūḍa cavuṇḍameyidaṇḍanāyakana
    	<lb break="yes" n="56"/>mogeyiṃ paḍuva karabhūmidiṃ baḍaga beḷgeṟeya baṭṭayaṃ teṃka saṛvvamānyadamattaroṃdakkaṃ nālku gōṃṭiṃgaṃ liṃgamuṃ
    	<lb break="yes" n="57"/>apōdhanaruṃ kavileyuṃ berasu māḍi niṟisida kinnarigallaguḍḍa nālku<g type="danda">.</g>dēvara niveṣaṇaṃcuṃgīśvaradiṃ baḍaga rājavīthiyiṃ teṃka<unclear>śrī</unclear>
    	<lb break="no" n="58"/>
-vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage naḍeva aṣṭabhōga svāmyam-āge  dēvara nandādīvigege saṛvvanama<unclear>sya</unclear>
+vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage naḍeva aṣṭabhōga svāmyam-āge dēvara nandādīvigege saṛvvanama<unclear>sya</unclear>
    	<lb break="no" n="59"/>vāgi biṭṭagāṇa<gap reason="lost" quantity="5" unit="character"/>mūlasthāna kelidēvasvāmige aṟuvata-okkalu<supplied reason="omitted">ṃ</supplied>gāvuṃḍugaḷuṃ mukhyavāgi mā<gap reason="lost" quantity="6" unit="character"/>   
    	<lb break="no" n="60"/><gap reason="lost" quantity="10" unit="character"/>ēvara paṭṭakke koṭṭa gadyāṇavōṃdu<gap reason="lost" quantity="10" unit="character"/>
 
@@ -226,11 +225,16 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
 	
                <listApp><!-- one <app> for each apparatus entry -->
                	
+               	<!--<app loc="0">
+               		<lem>...</lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">...</rdg>
+               		<note>...</note>
+               	</app>-->
+               	
                	<app loc="48"><!-- update the value of @loc.-->
                		<lem>°gāvuṃḍa<unclear>ṃ</unclear></lem>
                		<rdg source="bib:LakshminarayaRao1952_01">°gāvuṃḍa<supplied reason="undefined">ṃ</supplied></rdg>
-               		<note>...</note>
-               	</app>
+               	</app>  
                	
                </listApp>
 </div>
@@ -274,11 +278,13 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
     
 <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+	<!--<p>blabla</p>-->
 </div>
     
 <div type="bibliography">
 
-	<p>Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on ...</p>
+	<p>First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/></bibl> (SII 11, no. 119).</p>
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the ASI estampage, kindly supplied by the Director of epigraphy. <!--Thanks to ... for reading the text with me.--></p>
 	
 	<listBibl type="primary">
 		
@@ -302,6 +308,6 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
   </text>
 </TEI>
 <!--
-	MEATADATA:
+	METADATA:
 	Slab consisting of 60 lines in Kannada language with some damaged parts
 At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti -->
