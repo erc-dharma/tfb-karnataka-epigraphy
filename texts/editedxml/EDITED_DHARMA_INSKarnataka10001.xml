@@ -138,17 +138,33 @@ siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁ
 <lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
 anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
    </p>  
-	
+<lb n="8"/>	
 <ab>vṛ <g type="ddanda">.</g></ab>
     <lg n="3" met="vṛttam" xml:lang="san-Latn"> 
-    <l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
-    <l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē <g type="danda">.</g></l>
-    <l n="c">ra<lb n="8" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē <g type="danda">.</g></l>
-    <l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā <g type="ddanda">.</g></l>    
+    	<l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
+    	<l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē <g type="danda">.</g></l>
+    	<l n="c">ra<lb n="9" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē <g type="danda">.</g></l>
+    	<l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā <g type="ddanda">.</g></l>    
     </lg>
-<ab>va</ab>
+<ab>va<g type="ddanda">.</g></ab>
 
-<p>int</p>
+<p>int e<lb n="10" break="no"/>nisida rājādirāja-priya-tanaya-pratāpamaṃ pēḷvaḍe <g type="ddanda">.</g></p>
+<ab>vr̥<g type="ddanda">.</g></ab>
+<lg n="4" met="mattēbha" xml:lang="kan-Latn"> 
+	<l n="a">ripu-bhūpāḷa-tamaugham ōḍe kumuda-brātaṃ <lb n="10"/>karaṃ percce tad</l>
+	<l n="b">ripu-kāntā-mukha-paṅkaja<supplied reason="omitted">ṃ</supplied>korage nakṣatrōdayēśaṃ kaḷā</l>
+	<l n="c">ḷi-paribhrājitan uṃnatoṃnata-yaśaś-śrī-candrikādhīśva<lb n="11" break="no"/>raṃ </l>
+	<l n="d">nṛpanē sōman enalke bijjaṇa-mahīpāḷābdhiyoḷ puṭṭida <g type="ddanda">.</g></l>
+	</lg><ab>va<g type="ddanda">.</g></ab>
+	
+<p>ā-bhuja-baḷa Tribhuvanamalla-Dēva-tanūjaṃ rājādhīrājaṃ rāja-mārttaṇḍaṃ mārttaṇḍa-karāti-
+tībra-tēja-svabhāvaṃ bhāvitāśēṣa-yācakābhilaṣita-phaḷa-pradāyakaṃ vairi-bhaya-dāyakaṃ Rā-
+ya-Murāri Sōvi-Dēva-cakrēśvaraṃ samasta-pradhānariṃ parivēṣṭitanāgi sukha-saṅkathā-vinōda-
+diṃ rājyaṃ geyvuttam irddu samadhigata-pañca-mahā-śabda mahā-sāmanta sēnādi-bāhattara-
+niyōgādhiṣṭhāyakaṃ prabhu-mantrōtsāha-pramukha-nīti-niṣṭhāyakaṃ śrīman-mahā-pradhānaṃ
+sarvvādhikāri mahā-pasāyitaṃ Byāḷikeya-Kēsimayya-Daṇḍanāyakaraṃ karadu dakṣiṇa-diśāva-
+rada bhaṇḍāravāda dēśaṅgaḷ ellavaṃ duṣṭa-nigraha-śiṣṭa-pratipāḷanaṃ māḻpud endu kāruṇyaṃ
+māḍal mahā-prasādam endu kaikoṇḍa mahā-pracaṇḍa-daṇḍa-nātha-pratāpōnnatiyaṃ pēḷvaḍe <g type="ddanda">.</g></p>	
 </div>
     
 <div type="apparatus">
@@ -164,6 +180,7 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
 			<lem>°nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice></lem>
 			<rdg source="bib:Rice1902_01">nirghōṣaṇa</rdg>			
 		</app>
+		
 		
 		<!--
 			<app loc="0">
@@ -199,11 +216,7 @@ the glorious strong-armed Cakravartin Tribhuvanamalla Bijjaṇadēva everyday ex
 <div type="commentary">
 	<!--commentary encoded as per section §9.3 -->
 	<p><!-- iconography --></p>
-	<p n="2"><bibl><ptr target="bib:Rice1902_01"/></bibl>, in line ***, has a verse which actually is not found:
-	<lg met="anuṣṭubh" n="3">
-		<l>retre</l>
-	</lg></p>
-</div>
+	</div>
     
 <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
