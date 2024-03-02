@@ -106,14 +106,14 @@
 <div type="edition" xml:lang="kan-Latn">
    
 <p xml:lang="san-Latn"> 
-    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/> 
-    <g type="SpiraIL"/> Oṃ namaḥ śivāya</p> 
+    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><milestone unit="block" n="A"/>
+    <g type="SpiraIL"/> Oṁ namaḥ śivāya</p> 
     
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"> 
         <l n="a">namas tuṁga-śiraś-cuṁbi</l>
         <l n="b">caṁdra-cāmara-cāravē</l>
         <l n="c">trailokya-nagarāraṁbha</l>
-        <l n="d">mūla-staṁbhāya śaṁbhavē <g type="ddanda">.</g></l>
+        <l n="d">mūla-staṁbhāya śaṁbhavē <g type="ddanda">..</g></l>
     </lg>
  
 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
@@ -123,48 +123,64 @@
             <l n="d">stambhārambhāya śambhavē</l>
         </lg>
      
-	<p>namo rājagurave <g type="ddanda">.</g></p> <!--not in the printed edition!-->
+	<p>namo rājaguravē <g type="ddanda">..</g></p> <!--not in the printed edition!-->
   
    <p xml:lang="kan-Latn">
-<lb n="3"/><g type="SpiraIL"/> svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭā-
-raka kāḷaṁjara-pu
-<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice> kaḷa-
-curyya-kuḷa-kamaḷa-mārttaṇḍa kadana
+<lb n="3"/><g type="SpiraIL"/> svasti samasta-bhuvanāśraya śrī-pṛthvī-vallabha mahārājādhirāja paramēśvara parama-bhaṭṭāraka kāḷaṁjara-pu<lb n="4" break="no"/>ra-varādhīśvara suvarṇṇa-vṛṣabha-dhvaja ḍamaruka-tūryya-nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice> kaḷacuryya-kuḷa-kamaḷa-mārttaṇḍa kadana
 
 <milestone type="pagelike" unit="zone" n="B"/> 
 <lb n="5" break="no"/>pracaṁḍa māna-kanakācaḷa su-bhaṭar-āditya kaligaḷ-aṁkuśa gaja-sāmanta śaraṇāgata-vajra-paṁjara pratāpa-laṅkēśvara 
-<lb n="6" break="no"/>para-nārī-<choice><sic>suhōdara</sic><corr>sahōdara</corr></choice> śanivāra-
-siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
-<lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṃ mahī-vallabheyan anudinav
-anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
+<lb n="6" break="no"/>para-nārī-sahōdara-śanivāra-siddhi giri-durgga-malla calad-aṁka-rāma vairībha-kaṁṭhīrava niśśaṁka-mallādi-yathārttha-nāma-
+<lb n="7" break="no"/>śrīmad-bhuja-baḷa-cakravartti tribhuvanamalla bijjaṇa-dēvaṁ mahī-vallabheyan anudinav
+anubhavisidan ent endaḍe <g type="ddanda">..</g> <g type="SpiraIL"/>
    </p>  
 <lb n="8"/>	
-<ab>vṛ <g type="ddanda">.</g></ab>
+<ab>vṛ <g type="ddanda">..</g></ab>
     <lg n="3" met="vṛttam" xml:lang="san-Latn"> 
-    	<l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā <g type="danda">.</g></l>
-    	<l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṃ krīḍatē <g type="danda">.</g></l>
-    	<l n="c">ra<lb n="9" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē <g type="danda">.</g></l>
-    	<l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā <g type="ddanda">.</g></l>    
+    	<l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā </l>
+    	<l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṁ krīḍatē </l>
+    	<l n="c">ra<lb n="9" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē </l>
+    	<l n="d">viṣṇōr vakṣasi kaustubhaṃ nṛpa-vara prauḍhēna sā ślāghatā </l>    
     </lg>
-<ab>va<g type="ddanda">.</g></ab>
+<ab>va<g type="ddanda">..</g></ab>
 
-<p>int e<lb n="10" break="no"/>nisida rājādirāja-priya-tanaya-pratāpamaṃ pēḷvaḍe <g type="ddanda">.</g></p>
-<ab>vr̥<g type="ddanda">.</g></ab>
+<p>int e<lb n="10" break="no"/>nisida rājādirāja-priya-tanaya-pratāpamaṁ pēḷvaḍe <g type="ddanda">..</g>
+</p> 
+	<ab>vr̥<g type="ddanda">..</g></ab>
 <lg n="4" met="mattēbha" xml:lang="kan-Latn"> 
-	<l n="a">ripu-bhūpāḷa-tamaugham ōḍe kumuda-brātaṃ <lb n="10"/>karaṃ percce tad</l>
-	<l n="b">ripu-kāntā-mukha-paṅkaja<supplied reason="omitted">ṃ</supplied>korage nakṣatrōdayēśaṃ kaḷā</l>
-	<l n="c">ḷi-paribhrājitan uṃnatoṃnata-yaśaś-śrī-candrikādhīśva<lb n="11" break="no"/>raṃ </l>
-	<l n="d">nṛpanē sōman enalke bijjaṇa-mahīpāḷābdhiyoḷ puṭṭida <g type="ddanda">.</g></l>
-	</lg><ab>va<g type="ddanda">.</g></ab>
+	<l n="a">ripu-bhūpāḷa-tamaugham ōḍe kumuda-brātaṁ<lb n="11"/>karaṁ percce tad</l>
+	<l n="b">ripu-kāntā-mukha-paṅkaja<supplied reason="omitted">ṁ</supplied>korage nakṣatrōdayēśaṁ kaḷā</l>
+	<l n="c">ḷi-paribhrājitan uṁnatoṁnata-yaśaś-śrī-candrikādhīśva<lb n="12" break="no"/>raṁ </l>
+	<l n="d">nṛpanē sōman enalke bijjaṇa-mahīpāḷābdhiyoḷ puṭṭida <g type="ddanda">..</g></l>
+	</lg><ab>va<g type="ddanda">..</g></ab>
+<p>antu puṭṭi kṣōṇī-taḷav ellavan ēka-ccatradind ā<lb n="13" break="no"/>ḷda rāya-murāri sōvi-dēvānujan āḷdan
+ent endaḍe  <g type="ddanda">..</g></p> <ab> ka<g type="ddanda">..</g></ab>	
+	<lg n="5" xml:lang="kan-Latn"> 
+	<l n="a">tat-samanantaradoḷ dhare</l>
+	<l n="b">g utsavamaṁ māḍi <lb n="14"/>satya-śauca-bratada sa</l>
+	<l n="c">ritsuta-doreyaṁ nava-puru</l>
+	<l n="d">kutsaṁ saṃkaṁma-dēvan āḷdaṁ dhareya <g type="ddanda">..</g></l>
+		</lg>
+<ab>utpaḷa<g type="ddanda">..</g></ab>	
 	
-<p>ā-bhuja-baḷa Tribhuvanamalla-Dēva-tanūjaṃ rājādhīrājaṃ rāja-mārttaṇḍaṃ mārttaṇḍa-karāti-
-tībra-tēja-svabhāvaṃ bhāvitāśēṣa-yācakābhilaṣita-phaḷa-pradāyakaṃ vairi-bhaya-dāyakaṃ Rā-
-ya-Murāri Sōvi-Dēva-cakrēśvaraṃ samasta-pradhānariṃ parivēṣṭitanāgi sukha-saṅkathā-vinōda-
-diṃ rājyaṃ geyvuttam irddu samadhigata-pañca-mahā-śabda mahā-sāmanta sēnādi-bāhattara-
-niyōgādhiṣṭhāyakaṃ prabhu-mantrōtsāha-pramukha-nīti-niṣṭhāyakaṃ śrīman-mahā-pradhānaṃ
-sarvvādhikāri mahā-pasāyitaṃ Byāḷikeya-Kēsimayya-Daṇḍanāyakaraṃ karadu dakṣiṇa-diśāva-
-rada bhaṇḍāravāda dēśaṅgaḷ ellavaṃ duṣṭa-nigraha-śiṣṭa-pratipāḷanaṃ māḻpud endu kāruṇyaṃ
-māḍal mahā-prasādam endu kaikoṇḍa mahā-pracaṇḍa-daṇḍa-nātha-pratāpōnnatiyaṃ pēḷvaḍe <g type="ddanda">.</g></p>	
+	<lg n="6" xml:lang="kan-Latn">
+<l n="a">gauḷa-gajan turuṣka-turagaṁ va<lb n="15" break="no"/>ra-siṁhaḷa-nātha-mauktikaṁ </l>
+<l n="b">cōḷa-sudhāmbaraṁ magadha-katturiyuṁ maḷayēśa-caṁdanaṁ </l>
+<l n="c">lāḷana bāḷakan ariyir endu carar sale biṁna<supplied reason="lost">pa</supplied>ṁ<lb n="16" break="no"/>gaḷaṃ </l>
+<l n="d">kēḷisut irppar ōlagadoḷaṁ vibhu-saṁkama-dēva-bhūpana <g type="ddanda">..</g></l>
+	</lg>
+	
+	<p>ant anēka-prakāradiṁ vasudhā-vaḷayavaṃ niḥ-kaṁṭakaṁ <choice><unclear>mā</unclear>
+	</choice><milestone unit="block" n="B"/>ḍi<milestone unit="block" n="A"/><lb n="17" break="no"/>da mahārājādhirāja cakrēśvarana
+rājya-pradhānāṁgaṅgaḷe mahā-pradhānar ādar enisida piriya-daṇḍa-nāyakaṃ Lakmi-Dēvanuṃ bā-
+hattara-niyōgādhiṣṭhāyakaṃ caṇḍuṅgi-Dēvanuṃ vasudhaika-bāndhavaṃ Rēcaṇayya-daṇḍanā-
+yakanuṃ sarvvādhikāri Sōvaṇayya-daṇḍanāyakanuṃ samasta-sēnāgrēsaraṃ Kāvaṇayya-daṇḍanā-
+yakanuṃ voḷagāgi samasta-pradhānasahitaṃ vinōdadiṃ dakṣiṇa-diśāvarakke vandu Banavase-
+pannir-ccāsirad adhiṣṭhānaṃ Baḷḷigrāmeya śrīmad-dakṣiṇa-Kēdārēśvara-dēvara tri-kūṭa-
+prāsādamumaṃ latā-maṇṭapamumaṃ ratna-pūjānēka-svarṇa-kaḷaśaṅgaḷumaṃ vidyā-dānānna-dānā-
+dy-anēka-śrī-kāryyamaṃ nōḍi yathārtthaṃ dakṣiṇa-Kēdārav illi nāv ēnānuṃ dharmma-kāryya-
+maṃ māḍalvēḻkuv endu tadīya-sthānānhāryyar appa śrīmad-rāja-guru-dēvaraṃ kaṇḍ avara
+tapaḥ-prabhāvādi-sāmartthyakk āścaryyadiṃ nīḍuṃ nōḍi ǁ</p>	
 </div>
     
 <div type="apparatus">
