@@ -18,6 +18,7 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
+               <!-- Rao Bahadur C.R.Krishnamacharlu the general editor of the catalogue SII that I am working on -->
                <persName ref="part:ants">
                   <forename>Antonella</forename>
                   <surname>Santoro</surname>
@@ -112,7 +113,7 @@
 	
 	<p>  
 		
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ <g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
@@ -146,7 +147,7 @@
 		<g type="spiral"/>svasti samasta bhuvanāśraya śrīpṛṭhvīvallabha mahā<unclear>ra</unclear>
 		
 		<lb break="no" n="10"/>jādhirāja paramēśvara parama-bhaṭṭaraka satyāśrayakuḷa-tiḷaka chaḷukya-ābharaṇa śrīmạtrībhuva-namalladēvara vijayarā<unclear>jya</unclear>
-		<lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam ā c-chaṃdra-arkka-tāraṃ saluttamire <g type="danda">.</g>ā cāḷukya kulakke bhaktar enisirdatyaṃta vikrāṃta-līla-ācāry<unclear>rkka</unclear>
+		<lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam ā c-chaṃdra-arkka-tāraṃ saluttamire<g type="danda">.</g>ā cāḷukya kulakke bhaktar enisirdatyaṃta vikrāṃta-līla-ācāry<unclear>rkka</unclear>
 		<lb break="no" n="12"/>danaikadhuṛyar-avanī-prastutya śuddha-prasiddh-ācārar-jagad-ēkavīra<unclear>r-sa</unclear>sadṛkṣa-kṣatra saṃvēdya vidy-ācāturyya rudagra-dhairyya r-eseda<unclear>ṛ-siṃ</unclear>
 		<lb break="no" n="13"/>dānvayōrvvībhujar<g type="ddanda">.</g>tad-vaṃśa-prabhavaṃ prabhūta-vibhavaṃ nānākaḷā-kōvidaṃ vidviṣṭa-avani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n-udya</unclear>
 		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṃ siṃda-ānvaya-khyāti-saṃpad-vistāri-caritran-ācugi-nṛpaṃ prakhyā-
@@ -173,10 +174,10 @@
 		<lb break="no" n="30"/>muni pūjādipuṇyakriyā prakramadiṃ dharmmārtṭhaśastraśrutiyin akhiḷadivya-aṃna-dānaṃgaḷiṃ 
 		d uttama nānānavyakāvyaśravaṇa
 		<lb break="no" n="31"/>sarasagōṣṭhī viḷāsaṃagaḷiṃdaṃ<g type="ddanda">.</g>sale saphaḷa venisi davasaṃ divasaṃ saluttamira sadvinōdadi rājyaśrīla<supplied reason="undefined">la</supplied>neyūḍagūḍi sukha<unclear>diṃ </unclear>
-		<lb break="no" n="32"/>naliyutirppa salīlan abhinavabhōjaṃ<g type="ddanda">.</g><g type="spiral"/>svasti samadhigata paṃcamahāśabda mahāmaṃḍaḷēśvara <g type="danda">.</g> udāravīralakṣmīśvara <g type="danda">.</g> sinda ku
-		<lb break="no" n="33"/>ḷakamaḷamāṛttaṃḍa<g type="danda">.</g>maṃḍaḷikakusumakōdaṃḍa<g type="danda">.</g>sūkaḷahayārūḍaprauḍaśikṣāvicakṣaṇaṃ <g type="danda">.</g> paripūṛṇnasubhala
-		<lb break="no" n="34"/>kṣaṇa <g type="danda">.</g> kavigamakavādivāgmijanasaṃstūyamāna<g type="danda">.</g>guṇagaṇanidhāna<g type="danda">.</g>śivāgamasamākarṇnana-
-kaṛṇnapūra <g type="danda">.</g> sakaḷavidvajjanādhā
+		<lb break="no" n="32"/>naliyutirppa salīlan abhinavabhōjaṃ<g type="ddanda">.</g><g type="spiral"/>svasti samadhigata paṃcamahāśabda mahāmaṃḍaḷēśvara |udāravīralakṣmīśvara<g type="danda">.</g>sinda ku
+		<lb break="no" n="33"/>ḷakamaḷamāṛttaṃḍa<g type="danda">.</g>maṃḍaḷikakusumakōdaṃḍa<g type="danda">.</g>sūkaḷahayārūḍaprauḍaśikṣāvicakṣaṇaṃ<g type="danda">.</g>paripūṛṇnasubhala
+		<lb break="no" n="34"/>kṣaṇa<g type="danda">.</g>kavigamakavādivāgmijanasaṃstūyamāna<g type="danda">.</g>guṇagaṇanidhāna<g type="danda">.</g>śivāgamasamākarṇnana-
+kaṛṇnapūra | sakaḷavidvajjanādhā
 		<lb break="no" n="35"/>ra<g type="danda"/>apāraparahitācāṛyya<g type="danda"/>asahāyasauṛyya<g type="danda">.</g>nānāyōpāyanipuṇacāṇakya<g type="danda">.</g>acaḷitavākya<g type="danda">.</g>śastraśā
 		<lb break="no" n="36"/>strādisatkaḷāpapravīṇa<g type="danda">.</g>raṇāṃgaṇadhurīṇa<supplied reason="omitted"><g type="danda">.</g></supplied>bhōgōpabhōgasaṃkraṃdana<g type="danad">.</g>anūnadāna-
 ravinaṃdana<g type="danda">.</g>anēkavidhadurggavaṛggatri
@@ -187,54 +188,45 @@ ravinaṃdana<g type="danda">.</g>anēkavidhadurggavaṛggatri
 dhaṛmmaṃgaḷaṃ pratipāḷi<unclear>su</unclear>
 		<lb break="no" n="41"/>tta dhaṛmmaprasaṃgamādalli dhaṛmmaṃgaḷgella sāsanamāgalveṛkkumiṃdu kāruṇyaṃgeyyal<g type="ddanda">.</g>	 
    </p>
-	
 	<lg n="4" met="kanda">
-		<l n="a">jaḷa-nidhi-parivṛta-vasudhāta<unclear>ḷa</unclear>
-			<lb break="no" n="42"/>doḷ bharatōṛvvigesava kuntaḷadēśaṃ tiḷakamenisiṛddudadaṟoḷ phaḷabharitaṃ narayagalu karaṃ raṃjisuguṃ</l>
-	</lg>
-
-	<lg n="5" met="vṛttaṃ">
-		<l n="a"><lb n="43"/>adu nānādivyagandha prasarakusumavāṭaṃgaḷiṃ sārasaukhyaprada śīta aṃbhas taṭākaṃgaḷin atibahaḷa ārāma śaṃḍaṃgaḷiṃ vyāpta<unclear>di</unclear></l>
-		<l n="b"><lb n="44"/>gaṃcad gandhaśāḷi prabhṛti sarasa-sasyaṃgaḷiṃ celvudetiṛppu pānthabhrātacētōharav-akhiḷa jagat bhavyam atyaṃtasēvyaṃ<g type="ddanda">.</g></l>
-	</lg>
-		
+	<l n="a">jaḷa-nidhi-parivṛta-vasudhāta<unclear>ḷa</unclear>
+         <lb break="no" n="42"/>doḷ bharatōṛvvigesava kuntaḷadēśaṃ tiḷakamenisiṛddudadaṟoḷ phaḷabharitaṃ narayagalu karaṃ raṃjisuguṃ </l>
+         <lg n="4" met="vṛttaṃ">
+         <l n="a">adu nānādivyagandha prasarakusumavāṭaṃgaḷiṃ sārasaukhyaprada śīta aṃbhas taṭākaṃgaḷin atibahaḷa ārāma śaṃḍaṃgaḷiṃ vyāpta<unclear>di</unclear></l>
+         <lb break="no" n="44"/><l n="b">gaṃcad gandhaśāḷi prabhṛti sarasa-sasyaṃgaḷiṃ celvudetiṛppu pānthabhrātacētōharav-akhiḷa jagat bhavyam atyaṃtasēvyaṃ<g type="ddanda">.</g></l>
+         </lg>	
    <p>
    	<lb break="yes" n="45"/>aṃtoppuva narayaṃgall   eraḍuṃ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇyapuṛuṣariṃda dhaṛmmaprati<unclear>pā</unclear>
    	<lb break="no" n="46"/>ḷanāpararappa prabhugāvuṃḍugaḷiṃdav-esadum alli taṃkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṃ mā<unclear>ḍi</unclear>
    	<lb break="no" n="47"/>si devar-aṃgabhōgakke sakavaṛṣa 872 deneya saumya saṃvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
-   	<lb break="no" n="48"/>saṃkrāntiyaṃdu muṃḍeyaraśrīvantagāvuṃḍa<unclear>ṃ</unclear> nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṃ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
+   	<lb break="no" n="48"/>saṃkrāntiyaṃdu muṃḍeyaraśrīvantagāvuṃḍa[ṃ] nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṃ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
    	<lb break="yes" n="49"/>biṭṭa bhūmiya sthaḷa muduvoḷaladāriyiṃ baḍaga navayavaḷadiṃ teṃka vāsigāvuṃḍanabaḷediṃmūḍa karabhūmiyiṃ paḍuva
-   	<lb break="yes" n="50"/>saṛvvamānyemu<g type="danda">.</g>saṛvvar-bbhādhaparihāramumāgiy-ācaṃddrāṛkkatārạmbaraṃ naḍavaṃtāgi biṭṭa mattaru mūvattāṟakke liṃgamuṃ tapōḍha<unclear>na</unclear>
-   	<lb break="no" n="51"/>ruṃ kavileyuṃ berasu māḍi niṟisida kiṃnarigalla guḍḍe nālku <g type="danda">.</g>muduvōḷala dāriyiṃteṃka bannirabammagāvuṇḍana baḷadiṃ
+   	<lb break="yes" n="50"/>saṛvvamānyemu<g type="danda">.</g>saṛvvar-bbhādhaparihāramumāgiy-ācaṃddraaṛkkatārạmbaraṃ naḍavaṃtāgi biṭṭa mattaru mūvattāṟakke liṃgamuṃ tapōḍha<unclear>na</unclear>
+   	<lb break="no" n="51"/>ruṃ kavileyuṃ berasu māḍi niṟisida kiṃnarigalla guḍḍe nālku<g type="danda">.</g>muduvōḷala dāriyiṃteṃka bannirabammagāvuṇḍana baḷadiṃ
    	<lb break="yes" n="52"/>baḍiga karabhūmiyiṃ mūḍa kāṭigāvuṇḍana baḷadiṃ paḍuva saṛvvanamasyamage maṭṭārākaṃ liṃgamuṃ tapōdhanaruṃ kavileyuṃ
-   	<lb break="yes" n="53"/>barasu māḍi niṟisida kinnarigalla kuḍḍenālku <g type="danda">.</g>tippēśvaradēvara keyyikuyyuvaḷadiṃ paḍuva ciguravaḷadiṃ mūḍa karabhūmiyiṃ
-   	<lb break="yes" n="54"/>baḍaga mattaṃ karabhūmiyiṃ taṃka sa[ṛvva]<!--check reading-->namasyada mattarāṟakkaṃ nālkugōṃṭiṃgaṃliṃgamuṃ tapōdhanaruṃ kavileyuṃ bera
-   	<lb break="no" n="55"/>su māḍi nirisada kinnarigalla guḍḍa nālku<supplied reason="omitted"> <g type="danda">.</g></supplied>dēvara tōṃṭadasthaḷa<gap reason="lost" quantity="2" unit="character"/>navayarakēta gāvuṇḍana mogeyiṃ mūḍa cavuṇḍameyidaṇḍanāyakana
-   	<lb break="yes" n="56"/>mogeyiṃ paḍuva karabhūmidiṃ baḍaga beḷgeṟeya baṭṭayaṃ teṃka saṛvvamānyadamattaroṃdakkaṃ nālku gōṃṭiṃgaṃ liṃgamuṃ
-   	<lb break="yes" n="57"/>apōdhanaruṃ kavileyuṃ berasu māḍi niṟisida kinnarigallaguḍḍa nālku <g type="danda">.</g>dēvara niveṣaṇaṃcuṃgīśvaradiṃ baḍaga rājavīthiyiṃ teṃka<unclear>śrī</unclear>
+   	<lb break="yes" n="53"/>barasu māḍi niṟisida kinnarigalla kuḍḍenālku<g type="danda">.</g>tippēśvaradēvara keyyikuyyuvaḷadiṃ paḍuva ciguravaḷadiṃ mūḍa karabhūmiyiṃ
+   	<lb break="yes" n="54"/>baḍaga mattaṃ karabhūmiyiṃ taṃka sa[ṛvva]namasyada mattarāṟakkaṃ nālkugōṃṭiṃgaṃliṃgamuṃ tapōdhanaruṃ kavileyuṃ bera
+   	<lb break="no" n="55"/>su māḍi ni̇risida kinnarigalla guḍḍa nālku<supplied reason="omitted"><g type="danda">.</g></supplied>dēvara tōṃṭadasthaḷa<gap reason="lost" quantity="2" unit="character"/>navayarakēta gāvuṇḍana mogeyiṃ mūḍa cavuṇḍameyidaṇḍanāyakana
+   	<lb break="yes" n="56"/>mogeyiṃ paḍuva karabhūmidiṃ baḍaga beḷ̣geṟeya baṭṭayaṃ teṃka saṛvvamānyadamattaroṃdakkaṃ nālku gōṃṭiṃgaṃ liṃgamuṃ
+   	<lb break="yes" n="57"/>apōdhanaruṃ kavileyuṃ berasu māḍi niṟisida kinnarigallaguḍḍa nālku<g type="danda">.</g>dēvara niveṣaṇaṃcuṃgīśvaradiṃ baḍaga rājavīthiyiṃ teṃka<unclear>śrī</unclear>
    	<lb break="no" n="58"/>
-vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage naḍeva aṣṭabhōga svāmyam-āge dēvara nandādīvigege saṛvvanama<unclear>sya</unclear>
+vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage naḍeva aṣṭabhōga svāmyam-āge  dēvara nandādīvigege saṛvvanama<unclear>sya</unclear>
    	<lb break="no" n="59"/>vāgi biṭṭagāṇa<gap reason="lost" quantity="5" unit="character"/>mūlasthāna kelidēvasvāmige aṟuvata-okkalu<supplied reason="omitted">ṃ</supplied>gāvuṃḍugaḷuṃ mukhyavāgi mā<gap reason="lost" quantity="6" unit="character"/>   
    	<lb break="no" n="60"/><gap reason="lost" quantity="10" unit="character"/>ēvara paṭṭakke koṭṭa gadyāṇavōṃdu<gap reason="lost" quantity="10" unit="character"/>
 
    </p>
-
+	</lg>
 </div>
          
 <div type="apparatus">
 	
                <listApp><!-- one <app> for each apparatus entry -->
                	
-               	<!--<app loc="0">
-               		<lem>...</lem>
-               		<rdg source="bib:LakshminarayaRao1952_01">...</rdg>
+               	<app loc="line"><!-- update the value of @loc.-->
+               		<lem><!-- fill in a lemma here --></lem>
+               		<rdg source="bib:LakshminarayaRao1952_01"><!-- update the @source value, fill in variant reading here --></rdg>
                		<note>...</note>
-               	</app>-->
-               	
-               	<app loc="48"><!-- update the value of @loc.-->
-               		<lem>°gāvuṃḍa<unclear>ṃ</unclear></lem>
-               		<rdg source="bib:LakshminarayaRao1952_01">°gāvuṃḍa<supplied reason="undefined">ṃ</supplied></rdg>
-               	</app>  
+               	</app>
                	
                </listApp>
 </div>
@@ -265,26 +257,42 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
  	<p n="10-11">The prosperity <supplied reason="subaudible">of his reign</supplied> was increasing perpetually as long as exists the spreading of the moon, the sun, the stars.</p>
          <p n="11-13">The kings of Sinda race, who were devoted to the Cāḷukya family, who were very valiant masters in the battle, the best heroes of the world, whose conduct was pure and well known, who were praised throughout the earth, the best leaders in the war, preceptors of the science of the war, supreme, incomparable among the best warriors who were possessed of the vigorous courage, they shone.
 	</p>
-	<p n="13-14">Born in that family, of great glory, skilled in various sciences, whose arm was terrible, he was a netfish <supplied reason="explanation"><foreign>jāḷa</foreign></supplied> in conquering the enemies, and the protector of the earth, who was the high and the excellent hero, distinguished ruler, whose conduct is the vastness of <supplied reason="subaudible">his</supplied> success, which is the glory (khyāti) of the Sinda’s lineage, King Ācugi obtained fame.</p>
+	<p n="13-14">Born in that family, of great glory, skilled in various sciences, whose arm was terrible, he was a netfish (jāḷa) in conquering the enemies, and the protector of the earth, who was the high and the excellent hero, 
+14) distinguished ruler, whose conduct is the vastness of <supplied reason="subaudible">his</supplied> success, which is the glory (khyāti) of the Sinda’s lineage, King Ācugi obtained fame</p>
 	<p n="14-15"><supplied reason="subaudible">He of</supplied> the incomparable valor in the battle-field of the Caḷukya kings: if one thinks about the king Acugi: “is there anyone else similar in the greatness to that valiant warrior?"</p>
 	<p n="16">Like that, the brothers of the king Ācugi: king Nāka, king Siṃga, king Dāsa, king Dāva, king Caunda, king Cāva, they were very famous, they had eminent qualities.</p>
 	<p n="17">Among them the king Caunda, who was known as the abode of glory and fortune, who was terrible in battle, whose force was <supplied reason="subaudible">his</supplied> strength arm, that was terrible against all enemies</p>
 	<p n="18-19">From that king, who has been described the king Bamma, the son of the king Acugi, whose the entire kingdom  was well known, he who was dear to the woman by means of the might of <supplied reason="subaudible">his</supplied> arm, the best among the capable kings and brave men, a eager bee to the glorious feet of lotus of  the supreme  lord for <supplied reason="subaudible">his</supplied> great conduct, supporter of the earth, an ocean of qualities, a garland of glory obtained by learned men.</p>
 	<p n="19-22">From that king, the king Ācugidēva, the abode of qualities, who had the knowledge in sciences and technique of weapons that was reknowned in the world, the distinguished chief, known as the husband of  the kingdom Śrīnārī. Having acquired many forts, having attacked and pursued the bent kings; having destroyed the territories of the enemy kings, having acquired delightfully the glory originated from bright and virtuous actions; the king Āca the husband of the lovely woman which is the Fortune, became famous.</p>
 	<p n="23-24">the King Vikrama, shining like the sun, in order to command, a lion in the battle, having pursued prevailed against the Hoysala, having taken Gōva, having destroyed in the battle Lakṣma by means of his might, having scattered Malapa, such as having defeated Pandyas in the battle, and seized the Konkan. Like that the great wife of main chieftain Ācarasa, known even now to be intent upon the dharma.</p>
+	<p n="25">the most devoted wife, with pure conduct, the great pious wife, she acquired the glory of being known as the ornament of the head among the queens of the best chieftain of the world.</p>
+	<p n="26">It is said <supplied reason="subaudible">that</supplied> from Mādēvi and from king Acugi, esteemed the distinguished king, praised or his vigour, was born the king Permadi,  in order to bring (janiyisalke) joy to the entire population.</p>
+	<p n="27-29">He conquered of <supplied reason="subaudible">his</supplied> valorous enemies; by means of his arm he conquered the multitude of furious kings; threatened various countries, avoided the rising of the impetuous power of the enemy kings; avoided the sin originated by the power of Kāḷi age; whose conduct was excellent compared to the silenced enemies; a sun in the darkness which was the great chieftains; such was Permadidēva.</p>
+	<p n="29-31">Hail! twice-born, masters and sages, according to the Dharmashastra, Arthashastra and Veda, to proceed their actions of virtue <supplied reason="subaudible">they made</supplied> equally to king Permāḍi, who had a pure conduct, the ablution, the worship to the God, <foreign>hōma</foreign>, donation. On the account of donation of celestial food to the entire people, and on account of the elegance of the charming assembly made of listening to many excellent new poems.</p>
+	<p n="31-32">It was like one <supplied reason="subaudible">every</supplied> day was a perpetual success, having enjoyed with pleasure together with the fortunate wife which is <supplied reason="subaudible">his</supplied> reign <supplied reason="subaudible">arised</supplied> from <supplied reason="subaudible">his</supplied> excellent pursuit, he who was the highest lovely new Bhōja.</p>
+	<p n="32-37">Hail! The Great Chieftain <supplied reason="subaudible">followed by</supplied> the sound of the great five musical instruments mixed all together; the generous Lord of wealth and glory; the sun of the lotus flower which is the Sinda’s family; he whose bow was made up of flowers among chieftains; impetuous master; rider of restive horses;  he who possessed the characteristics that are completely good; he who was praised by the group of poets, orators and gamaka; abode of a multitude of good qualities; whose the ornament of <supplied reason="subaudible">his</supplied> ear was the good listening of the Śivāgama; he who was the support of all learned men;  preceptor of abundant wellness; like Cānakya accurate with various means of success; he who was unmovable on <supplied reason="subaudible">his</supplied> word; expert in fine arts, science of weapons, etc; expert in the battlefield (raṇāṃgaṇadhurīṇa).  Like Indra in enjoying the pleasure; like Ravinandana in endless donations; like Śiva <supplied reason="subaudible">against</supplied> the multitude of many types of forts; he who carried the conduct of the first king; he who was a diamond cage for those who take protection with him; he who was the elephant <supplied reason="subaudible">which shows</supplied> the direction to the other chieftains; he who enjoyed the experience of the sentiment of poems and sacred songs. Becoming illuminated with bestowal of desired kindness obtained from the Glorious God who is the main pillar <note>Śiva</note>.</p>
+	<p n="37-41">The king Permadideva, the Glorious main chief of the provinces, was ruling from Erambage equally all of these: the Kisukaḍu Seventy, Kelavādi Three-hundred, Bagaḍa Seventy, Narayaṃgal Twelve. He built <supplied reason="subaudible">his</supplied> reign with pleasure and joyful conversations. He protected the ancient dharma. In that circumstance there were “Do it with compassion” like that you should say and all donations will be the order.</p>
+	<p n="41-42">On the surface of the earth, surrounded by the waters of the ocean, the Kuntaḷa region, which was situated in Bharata land, became a distinctive mark. Within that place, Naraya land, full of fruits, was appearing like an hand.</p>
+	<p n="43-44">This <supplied reason="subaudible">Narayaṅgal</supplied> with lotus-gardens, which diffuse various divine fragrances; with the tanks whose fresh waters give excellent pleasure; with many restful groves; with grains savory, beginning with the fragrance of the Tāli, which pervades throughout all of directions; it is beautiful, captivating the mind of travelers; prosperous throughout the world, to be honored perpetual.</p>
+	<p n="45-51">The two parts of the so charming Narayaṅgal shone by the excellent head of village, who was intent upon protecting the dharma, who was a virtuous man, whose worthy of esteem’s merits of <supplied reason="subaudible">his</supplied> power rise up. 
+In the year 872, Puṣya month of saumya samvatsarana, on Monday, day of full-moon, on the occasion of eclipse-moon, when the sun was going to the north, the chieftain Śrīvanta of Muṇdeya, making the ritual dhārāpūrvaka to Nīlakaṇṭhapandita, offered the land as a gift with all respect for the god Pārāmēśvara.
+Four landmark stones composed of a <foreign>liṅga</foreign> together with, sages and a cow, were placed to the thirty-six <foreign>mattar</foreign>s <supplied reason="subaudible">of land</supplied> which were free from all taxes to be paid to local authorities to be continued as long as the moon, the sun and stars might last, to the north from the way of Muduvoḷal, to the south from Navayavala, to the east from the rent-free of chieftain Vāsi, to the west of land on which revenue was paid.</p>
+	<p n="52-53">Four landmark stones composed of a <foreign>liṅga</foreign> together with, ascetics and a cow, were placed <supplied reason="subaudible">as boundary-marks</supplied> to six <foreign>mattar</foreign>s, that were made a grant to be respected by all, to the south of the road of Muduvōḷ, north of the rent-free land of Bannira-Bammagavunda, to the east of the land in which revenue was paid, and west of the rent-free of Kāṭigāvuṇḍa.</p>
+ 	<p n="53-55">Four landmark stones composed of a <foreign>liṅga</foreign>, ascetics and a cow as four wood sticks to six <foreign>mattar</foreign>s, that were made a grant to be respected by all, to the west of Kuyyavaḷḷa, the cultivated land of Tippēśvaradēva, to the east of Chiguravala, to the north of land on which revenue was paid, and to the south of land on which revenue was paid.</p>
+	<p n="55-57">The garden place of the God: four landmarks stones composed of a <foreign>liṅga</foreign> together with ascetics and a cow, were placed, with respectful, as the four boundary-marks to one <foreign>mattar</foreign> to east of the fertile soil of the chief Navayarakēta, to the west from the fertile land of Daṇḍanāyaka Cavuṇḍamēya, to the north of the land on which revenue was paid, and to the south of the path of Belegeṟe.</p>
+	<p n="57-59">The temple of the God is to the north of <supplied reason="subaudible">the temple of</supplied> Cuṃgiśvara, to the south of the main road, to the west of the main door, and to the east of <supplied reason="subaudible">another</supplied> main road. Thus, the activities are going on with honor: <foreign>aṣṭabhōga</foreign>, the lamp of the God, the oil machine<supplied reason="subaudible">for producing the oil for the dīpa</supplied><gap reason="lost"/></p>
+	<p n="59-60">one golden coin has been given for the tablet for engraving a royal edict of God<gap reason="lost"/>importantly the chieftains which are sixty farm holders for the Kelidēva God<gap reason="lost"/></p>
 	
+
 </div>
     
 <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-	<!--<p>blabla</p>-->
 </div>
     
 <div type="bibliography">
 
-	<p>First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/></bibl> (SII 11, no. 119).</p>
-	<p>First translated in <bibl><ptr target="bib:Fleet1875_05"/></bibl>.</p>
-	<p>Re-edited an re-translated here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the ASI estampage, kindly supplied by the Director of epigraphy. <!--Thanks to ... for reading the text with me.--></p>
+	<p>Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on ...</p>
 	
 	<listBibl type="primary">
 		
@@ -296,19 +304,18 @@ vāgiliṃ paḍuva mattaṃ rājavīthiyiṃ mūḍa v-intīsthaḷadoḷage na
 		
 	</listBibl>
 	
-	<listBibl type="secondary">
-	
+<!--	<listBibl type="secondary">
 		<bibl>
-			<ptr target="bib:Fleet1875_05"/>
-			<citedRange unit="page">231-238</citedRange>
+			<ptr target="bib:..."/>
+			<citedRange unit="page">...</citedRange>
+			<citedRange unit="figure">...</citedRange>
 		</bibl>
-		
-	</listBibl>
+	</listBibl>-->
 </div>
 </body>
   </text>
 </TEI>
 <!--
-	METADATA:
+	MEATADATA:
 	Slab consisting of 60 lines in Kannada language with some damaged parts
 At the time of recording the grant the Sinda Mahāmaṇḍalēśvara Permāḍidēvarasa was ruling over Kisukāḍu Seventy, Keḷavāḍi Three-Hundred, Bāgaḍage Seventy and Narayaṅgal Twelve, from his capital Erambarage. The inscription is dated Śaka 872, Śaumya, Puṣya, śu. puṇṇami, Monday, lunar eclipse, Uttarāyaṇa-saṅkrānti -->
