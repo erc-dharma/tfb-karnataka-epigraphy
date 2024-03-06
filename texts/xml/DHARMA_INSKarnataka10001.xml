@@ -169,12 +169,10 @@ ent endaḍe  <g type="ddanda">..</g></p> <ab> ka<g type="ddanda">..</g></ab>
 <l n="d">kēḷisut irppar ōlagadoḷaṁ vibhu-saṁkama-dēva-bhūpana <g type="ddanda">..</g></l>
 	</lg>
 	
-	<p>ant anēka-prakāradiṁ vasudhā-vaḷayavaṃ niḥ-kaṁṭakaṁ <choice><unclear>mā</unclear>
-	</choice><milestone unit="block" n="B"/>ḍi<milestone unit="block" n="A"/><lb n="17" break="no"/>da mahārājādhirāja cakrēśvarana
-rājya-pradhānāṁgaṅgaḷe mahā-pradhānar ādar enisida piriya-daṇḍa-nāyakaṃ Lakmi-Dēvanuṃ bā-
-hattara-niyōgādhiṣṭhāyakaṃ caṇḍuṅgi-Dēvanuṃ vasudhaika-bāndhavaṃ Rēcaṇayya-daṇḍanā-
-yakanuṃ sarvvādhikāri Sōvaṇayya-daṇḍanāyakanuṃ samasta-sēnāgrēsaraṃ Kāvaṇayya-daṇḍanā-
-yakanuṃ voḷagāgi samasta-pradhānasahitaṃ vinōdadiṃ dakṣiṇa-diśāvarakke vandu Banavase-
+	<p>ant anēka-prakāradiṁ vasudhā-vaḷayavaṃ niḥ-kaṁṭakaṁ <milestone unit="block" n="B"/><choice><unclear>m</unclear>
+	</choice>āḍi<milestone unit="block" n="A"/><lb n="17" break="no"/><choice><sic>dā</sic><corr>da</corr></choice> mahārājādhirāja cakrēśvarana
+rājya-pradhānāṁgaṅgaḷe mahā-pradhānar ādar enisida piriya-daṁ<unclear>ḍa</unclear>-<milestone unit="block" n="B"/><supplied reason="lost">nā</supplied><unclear>ya</unclear>kaṃ lakṣmi-dēva <milestone unit="block" n="A"/><lb n="18" break="no"/>nu<supplied reason="omitted">ṁ</supplied> <g type="ddanda">.</g> bāhattara-niyōgādhiṣṭhāyakaṁ caṁḍuṅgi-dēvanuṁ vasudhaika-bāṁdhavaṁ rēcaṇayya-<milestone unit="block" n="B"/><supplied reason="lost">daṇḍanā</supplied>yakanuṁ <g type="ddanda">.</g> sa<milestone unit="block" n="A"/><lb n="19" break="no"/>rvādhikāri sōvaṇayya<g type="SpiraIL"/>daṁḍanāyakanuṁ <g type="ddanda">.</g> samasta-sēnāgrēsaraṃ kāvaṇayya-daṇḍanā-
+yakanuṃ voḷagāgi samasta-pradhānasahitaṃ vinōdadiṃ dakṣiṇa-diśāvarakke vandu banavase-
 pannir-ccāsirad adhiṣṭhānaṃ Baḷḷigrāmeya śrīmad-dakṣiṇa-Kēdārēśvara-dēvara tri-kūṭa-
 prāsādamumaṃ latā-maṇṭapamumaṃ ratna-pūjānēka-svarṇa-kaḷaśaṅgaḷumaṃ vidyā-dānānna-dānā-
 dy-anēka-śrī-kāryyamaṃ nōḍi yathārtthaṃ dakṣiṇa-Kēdārav illi nāv ēnānuṃ dharmma-kāryya-
@@ -186,10 +184,6 @@ tapaḥ-prabhāvādi-sāmartthyakk āścaryyadiṃ nīḍuṃ nōḍi ǁ</p>
            
 	<listApp><!-- one <app> for each apparatus entry -->
 		
-		<app loc="2"><!-- update the value of @loc.-->
-			<lem>namo rājagurave</lem>
-			<note>This phrase is not found in <ptr target="bib:Rice1902_01"/> (p. 232), where we find instead a verse (see commentary below).</note>
-		</app>
 		
 		<app loc="4">
 			<lem>°nirghōṣaṇ<choice><sic>u</sic><corr>a</corr></choice></lem>
