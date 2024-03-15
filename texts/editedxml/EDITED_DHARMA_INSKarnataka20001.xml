@@ -135,6 +135,14 @@
 <div type="translation" resp="part:ants part:emfr">
 	
 </div>
+	
+<div type="translation" xml:lang="fra" source="bib:Brocquet1997_01">
+	
+	<p n="1">Salut !</p>
+	
+	<p n="1-6">Donation de Gopāladeva, roi des Pallava, soleils de bravoure et refuges de la vérité qui sont les favoris de la Fortune et de la Terre, noble et important personnage issu de la lignée de Kaikeya, qu’illustre le cortège de ses nombreuses vertus, qui se montre digne qu’on l’honore, sur la poitrine duquel repose la Fortune, et dont les deux bras, semblables à des trompes d’éléphant, ont dans plus d’un combat anéanti de puissants ennemis : le fils de Caṇḍamahāsena, le seigneur de la cité Payvegundu, le roi des Pallava.</p>
+		
+</div>
     
 <div type="commentary">
 </div>
@@ -166,7 +174,7 @@
 		
 		<bibl n="SB">
             		<ptr target="bib:Brocquet1997_01"/>
-            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="page">784-785</citedRange>
             		<citedRange unit="item">72</citedRange>
             	</bibl>
 		
