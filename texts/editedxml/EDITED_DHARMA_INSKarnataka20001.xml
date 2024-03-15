@@ -125,7 +125,7 @@
                	
                	<app loc="line">
                		<lem>...</lem>
-               		<rdg source="bib:...">...</rdg>
+               		<rdg source="bib:LakshminarayanRao1931-1932_03">...</rdg>
                		<note>...</note>
                	</app>
                	
@@ -140,25 +140,40 @@
 </div>
     
 <div type="bibliography">
-	<!--ADD: ARIE, IP-->
+	
+	<p>
+		First reported in (ARIE/1956-1957/A/1956-1957/72).
+	</p>
+	
+	<p>
+		First edited in <bibl><ptr target="bib:LakshminarayanRao1931-1932_03"/></bibl>, with facsimiles (EI 21.29); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 258).
+		
+	</p>
 	<p>
 		Re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis &amp; Antonella Santoro (2024), based on the published visual documentation.</p>
 	
-	<!--<listBibl type="primary">
+	<listBibl type="primary">
 		
 		<bibl n="LR">
-			<ptr target="bib:LakshminarayaRao..."/>.
+			<ptr target="bib:LakshminarayanRao1931-1932_03"/>
 		</bibl>
 		
-	</listBibl>-->
+		<bibl n="IP">
+			<ptr target="bib:Mahalingam1988_01"/>
+			<citedRange unit="item">258</citedRange>
+			<citedRange unit="page">636-638</citedRange>
+		</bibl>		
+		
+	</listBibl>
 	
-<!--	<listBibl type="secondary">
+	<listBibl type="secondary">
 		<bibl>
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="figure">...</citedRange>
-		</bibl>
-	</listBibl>-->
+			<ptr target="bib:ARIE1956-1957"/>
+			<citedRange unit="page">35</citedRange>
+			<citedRange unit="appendix">A/1956-1957</citedRange>
+			<citedRange unit="item">72</citedRange>
+		</bibl>             
+	</listBibl>
 </div>
 </body>
   </text>
