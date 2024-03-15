@@ -87,13 +87,13 @@
       
 <body>
          
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="kan-Latn">
 	
-	<p>
+	<p xml:lang="san-Latn">
 		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ śivāya<surplus>ḥ</surplus>
 	</p>
 	
-	<lg n="1" met="anuṣṭubh">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 		
 		<l n="a">nama<supplied reason="lost">s tuṁga-śiraś-cuṁbi</supplied></l>
 		<l n="b"><unclear>stuṁ</unclear><gap reason="lost" quantity="7" unit="character"/></l>
@@ -102,7 +102,7 @@
 		
 	</lg>   
 	
-	<lg n="2" met="anuṣṭubh">
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
 		
 		<l n="a"><lb n="2"/>jayati-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
 		<l n="b"><gap reason="lost" quantity="8" unit="character"/></l>
@@ -116,7 +116,7 @@
 		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
-	<p xml:lang="kan-Latn">
+	<p>
 		kramadiṁdaṁ pa<unclear>labar</unclear>
 		
 		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar cāḷekya-bhūpar parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpa-ōttama-ratnaṁ jayasiṁhan apratima-tējaṁ <unclear>tā</unclear>
@@ -323,7 +323,10 @@ Four landmark stones composed of a <foreign>liṅga</foreign> together with, sag
 			<citedRange unit="page">14</citedRange>
 			<citedRange unit="appendix">F/1926-1927</citedRange>
 			<citedRange unit="item">186</citedRange>
-		</bibl>              
+		</bibl>         
+		
+		<!--Add JBBRS-->
+		
 	</listBibl>
 </div>
 </body>
