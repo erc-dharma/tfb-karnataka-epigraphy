@@ -82,35 +82,40 @@
 		</revisionDesc>
 	</teiHeader>
 
-
-	<text xml:space="preserve">
+<text xml:space="preserve">
       
 <body>
          
-<div type="edition" xml:lang="san-Latn">
-	
-	
-	<lg n="1" met="anuṣṭubh">
-	<l n="a-b">namastuṃgaśiraścumbicaṃdracāmaracāravē</l>
-	<l n="cd">traiḷōkyanagāraṃbhamūlastaṃbhaya sambhavē <g type="ddanda">.</g> </l><l n="2">gaṇapa<supplied reason="undefined">tyā</supplied>ya na<supplied reason="undefined">maḥ</supplied></l>	
+<div type="edition" xml:lang="kan-Latn">
+		
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+		<l n="a">namas tuṃga-śiraś-cumbi</l>
+		<l n="b">caṃdracāmaracāravē</l>
+		<l n="c">traiḷōkyanagāraṃbha</l>
+		<l n="d">mūlastaṃbhaya sambhavē <g type="ddanda">.</g> </l>
 	</lg>
-<p>
-	<lb n="3"/><g type="SpiraIL"></g>svasti śrīprithvīvallabhaṃ mahārājādhirājaṃ paramēśvaraṃ parama
-	<lb break="no" n="4"/>bhaṭṭārakaṃ satyāśrayakuḷatiḷakaṃ cāḷukyābharaṇaṃ śrīmattribhuvanamalla
-	<lb break="no" n="5"/>dēvara vijeyarājyamuttirōttarābhivriddhipravarddhamānamācaṃdrārkkatā
-	<lb break="no" n="6"/>raṃbaraṃ saluttamire <g type="ddanda"></g> </p><p>svasti samasta sakhavarśarda vombainura-thombat-naḻka-nēya paridhāvi saṃvastarada
-	<lb n="7"/>puśya suddha 13 ādivāram uttar-āyaṇa saṃkrāntiyaṃdu śrīmatu kūṃṭage
-	<lb break="no" n="8"/>ya bīḍina śrīkallidēvargge māḷagāvuṃḍa nāgavaṃgāvuṃḍa dāsagāvuṃḍa haḷḷagā
-	<lb break="no" n="9"/>vuṃḍa intī nālvar ggāvuṃḍugaḷuṃ cikkaṇapaṃḍitargge dhārāpūrvvakaṃ māḍi biṭṭa nakharē
-	<lb break="no" n="10"/>svaradēvariṃ baḍagalu mane oṃdu dēvara naṃdādīvigege miḷḷisaṭṭiya magaṃ kuḍiyamasa
-	<lb break="no" n="11"/>ṭṭi biṭṭa gāṇa oṃdu mattaṃ kalvidēvasvāmigaṃ mādēsvaradēvarggaṃ kāmeṃsvaradē<supplied reason="omitted">va</supplied>rgaṃ a<subst><del rend="corrected">n</del><add place="overstrike">m</add></subst>tu mūṟu
-	<lb n="12"/>sṭhānakaṃ sāsirvvaruṃ biṭṭa dharmma eleyu hēṟeṃge bēḷe hoṟege beḷe hottaḷekke vīsaṃ kāṇi
-	<lb n="13"/>soppiṃge aravīsa aḍḍagā<unclear>ḻe</unclear> dēvariṃ paḍuvalu hūdōṃṭa mattarīṃdu dēvari baḍagalu
-	<lb n="14"/>eliya tōṃṭa mattarūṃdu mattaṃ dēvara nivēdyake koḷḷada keṟeya keḷage sūṃḍiya
-	<lb n="15"/>nāgēsvaradēvara gaddeyiṃ mūḍalu-gade kamma 250 mattaṃ hakkanakeṟeya gaddheyiṃ muḍalu
-	<lb n="16"/>keyi mattaru hannaraḍu <g type="ddanda">.</g>
-
-</p>
+	
+	<p xml:lang="san-Latn">
+		gaṇapa<supplied reason="undefined">tyā</supplied>ya na<supplied reason="undefined">maḥ</supplied>
+	</p>				
+	
+	<p>
+		<lb n="3"/><g type="SpiraIL"/>svasti śrīprithvīvallabhaṃ mahārājādhirājaṃ paramēśvaraṃ parama
+		<lb break="no" n="4"/>bhaṭṭārakaṃ satyāśrayakuḷatiḷakaṃ cāḷukyābharaṇaṃ śrīmattribhuvanamalla
+		<lb break="no" n="5"/>dēvara vijeyarājyamuttirōttarābhivriddhipravarddhamānamācaṃdrārkkatā
+		<lb break="no" n="6"/>raṃbaraṃ saluttamire <g type="ddanda"/> </p><p>svasti samasta sakhavarśarda vombainura-thombat-naḻka-nēya paridhāvi saṃvastarada
+		<lb n="7"/>puśya suddha 13 ādivāram uttar-āyaṇa saṃkrāntiyaṃdu śrīmatu kūṃṭage
+		<lb break="no" n="8"/>ya bīḍina śrīkallidēvargge māḷagāvuṃḍa nāgavaṃgāvuṃḍa dāsagāvuṃḍa haḷḷagā
+		<lb break="no" n="9"/>vuṃḍa intī nālvar ggāvuṃḍugaḷuṃ cikkaṇapaṃḍitargge dhārāpūrvvakaṃ māḍi biṭṭa nakharē
+		<lb break="no" n="10"/>svaradēvariṃ baḍagalu mane oṃdu dēvara naṃdādīvigege miḷḷisaṭṭiya magaṃ kuḍiyamasa
+		<lb break="no" n="11"/>ṭṭi biṭṭa gāṇa oṃdu mattaṃ kalvidēvasvāmigaṃ mādēsvaradēvarggaṃ kāmeṃsvaradē<supplied reason="omitted">va</supplied>rgaṃ a<subst><del rend="corrected">n</del><add place="overstrike">m</add></subst>tu mūṟu
+		<lb n="12"/>sṭhānakaṃ sāsirvvaruṃ biṭṭa dharmma eleyu hēṟeṃge bēḷe hoṟege beḷe hottaḷekke vīsaṃ kāṇi
+		<lb n="13"/>soppiṃge aravīsa aḍḍagā<unclear>ḻe</unclear> dēvariṃ paḍuvalu hūdōṃṭa mattarīṃdu dēvari baḍagalu
+		<lb n="14"/>eliya tōṃṭa mattarūṃdu mattaṃ dēvara nivēdyake koḷḷada keṟeya keḷage sūṃḍiya
+		<lb n="15"/>nāgēsvaradēvara gaddeyiṃ mūḍalu-gade kamma 250 mattaṃ hakkanakeṟeya gaddheyiṃ muḍalu
+		<lb n="16"/>keyi mattaru hannaraḍu <g type="ddanda">.</g>
+			
+	</p>
 </div>
          
 <div type="apparatus">
@@ -138,7 +143,8 @@
     
 <div type="bibliography">
 
-	<p>Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on ...</p>
+	<p>
+		Re-edited and first translated here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the estampage (ASI, Mysore).</p>
 	
 	<listBibl type="primary">
 		
@@ -161,7 +167,6 @@
 </body>
   </text>
 </TEI>
-
 <!--
 	MEATADATA:
 	Slab consisting of 60 lines in Kannada language with some damaged parts
