@@ -146,7 +146,7 @@
 	</p>
 	
 	<p>
-		First edited in <bibl><ptr target="bib:LakshminarayanRao1931-1932_03"/></bibl>, with facsimiles (EI 21.29); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 258).
+		First edited in <bibl><ptr target="bib:LakshminarayanRao1931-1932_03"/></bibl>, with facsimiles (EI 21.29); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 258); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B no. 72).
 		
 	</p>
 	<p>
@@ -162,7 +162,13 @@
 			<ptr target="bib:Mahalingam1988_01"/>
 			<citedRange unit="item">258</citedRange>
 			<citedRange unit="page">636-638</citedRange>
-		</bibl>		
+		</bibl>	
+		
+		<bibl n="SB">
+            		<ptr target="bib:Brocquet1997_01"/>
+            		<citedRange unit="page">TBC</citedRange>
+            		<citedRange unit="item">72</citedRange>
+            	</bibl>
 		
 	</listBibl>
 	
