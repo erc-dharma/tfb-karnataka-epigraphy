@@ -202,7 +202,7 @@ dhaṛmmaṃgaḷaṃ pratipāḷi<unclear>su</unclear>
 <p>
    	<lb break="yes" n="45"/>aṃtoppuva narayaṃgall   eraḍuṃ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇyapuṛuṣariṃda dhaṛmmaprati<unclear>pā</unclear>
    	<lb break="no" n="46"/>ḷanāpararappa prabhugāvuṃḍugaḷiṃdav-esadum alli taṃkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṃ mā<unclear>ḍi</unclear>
-   	<lb break="no" n="47"/>si devar-aṃgabhōgakke sakavaṛṣa 872 deneya saumya saṃvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
+   	<lb break="no" n="47"/>si devar-aṃgabhōgakke <!--add tag for date-->sakavaṛṣa <num value="872">8 <g type="numeral">100</g> 7 <g type="numeral">10</g> 2</num><!--check numbers on the photos/estampage-->deneya saumya saṃvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
    	<lb break="no" n="48"/>saṃkrāntiyaṃdu muṃḍeyaraśrīvantagāvuṃḍa[ṃ] nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṃ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
    	<lb break="yes" n="49"/>biṭṭa bhūmiya sthaḷa muduvoḷaladāriyiṃ baḍaga navayavaḷadiṃ teṃka vāsigāvuṃḍanabaḷediṃmūḍa karabhūmiyiṃ paḍuva
    	<lb break="yes" n="50"/>saṛvvamānyemu <g type="danda">.</g> saṛvvar-bbhādhaparihāramumāgiy-ācaṃddraaṛkkatārạmbaraṃ naḍavaṃtāgi biṭṭa mattaru mūvattāṟakke liṃgamuṃ tapōḍha<unclear>na</unclear>
@@ -296,7 +296,16 @@ Four landmark stones composed of a <foreign>liṅga</foreign> together with, sag
     
 <div type="bibliography">
 
-	<p>Edited / Digitally encoded here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on ...</p>
+	<p>
+		First reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/F/1926-1927/186 = BK 186).
+	</p>
+	
+	<p>
+		First edited in <bibl><ptr target="bib:LakshminarayaRao1952_01"/></bibl> (SII 11.119).
+	</p>
+	
+	<p>
+		Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the estampage (ASI, Mysore).</p>
 	
 	<listBibl type="primary">
 		
@@ -308,13 +317,14 @@ Four landmark stones composed of a <foreign>liṅga</foreign> together with, sag
 		
 	</listBibl>
 	
-<!--	<listBibl type="secondary">
+	<listBibl type="secondary">
 		<bibl>
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="figure">...</citedRange>
-		</bibl>
-	</listBibl>-->
+			<ptr target="bib:ARIE1926-1927"/>
+			<citedRange unit="page">14</citedRange>
+			<citedRange unit="appendix">F/1926-1927</citedRange>
+			<citedRange unit="item">186</citedRange>
+		</bibl>              
+	</listBibl>
 </div>
 </body>
   </text>
