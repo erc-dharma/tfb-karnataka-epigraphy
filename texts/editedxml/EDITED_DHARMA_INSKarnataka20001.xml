@@ -155,7 +155,7 @@
 	</p>
 	
 	<p>
-		First edited in <bibl><ptr target="bib:LakshminarayanRao1931-1932_03"/></bibl>, with facsimiles (EI 21.29); ; re-edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 258); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 72).
+		First edited in <bibl><ptr target="bib:LakshminarayanRao1931-1932_03"/></bibl>, with facsimiles (EI 21.29) and corrigenda (EI 21, p. vii) ; re-edited in <bibl><ptr target="bib:Subrahmanian1966_01"/></bibl>; text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 258); text and French translation in <bibl><ptr target="bib:Brocquet1997_01"/></bibl> (B 72).
 		
 	</p>
 	<p>
@@ -163,8 +163,9 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="SII">
+		<bibl n="EI">
 			<ptr target="bib:LakshminarayanRao1931-1932_03"/>
+			<citedRange unit="plate">unnumbered (pasted between pp. 178 and 179)</citedRange>
 		</bibl>
 		
 		<bibl n="TNS">
