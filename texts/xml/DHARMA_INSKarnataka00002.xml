@@ -86,7 +86,7 @@
       
 <body>
          
-<div type="edition" xml:lang="kan-Latn">
+<div type="edition" xml:lang="kan-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
 		
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 		<l n="a">namas tuṃga-śiraś-cumbi</l>

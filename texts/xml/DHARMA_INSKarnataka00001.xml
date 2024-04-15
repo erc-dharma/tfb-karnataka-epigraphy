@@ -87,7 +87,8 @@
       
 <body>
          
-<div type="edition" xml:lang="kan-Latn">
+<div type="edition" xml:lang="kan-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+	
 	
 	<p xml:lang="san-Latn">
 		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ śivāya<surplus>ḥ</surplus>
