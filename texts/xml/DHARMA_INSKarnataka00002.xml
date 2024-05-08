@@ -86,16 +86,16 @@
       
 <body>
          
-<div type="edition" xml:lang="kan-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 		
-	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		<l n="a">namas tuṃga-śiraś-cumbi</l>
 		<l n="b">caṃdracāmaracāravē</l>
 		<l n="c">traiḷōkyanagāraṃbha</l>
 		<l n="d">mūlastaṃbhaya sambhavē <g type="ddanda">.</g> </l>
 	</lg>
 	
-	<p xml:lang="san-Latn">
+	<p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		gaṇapa<supplied reason="undefined">tyā</supplied>ya na<supplied reason="undefined">maḥ</supplied>
 	</p>				
 	
