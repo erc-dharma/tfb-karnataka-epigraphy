@@ -106,20 +106,20 @@
       
 <body>
          
-<div type="edition" xml:lang="kan-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
    
-<p xml:lang="san-Latn"> 
+<p xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
     <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><milestone unit="block" n="A"/>
     <g type="SpiraIL"/> Oṁ namaḥ śivāya</p> 
     
-    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"> 
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
         <l n="a">namas tuṁga-śiraś-cuṁbi</l>
         <l n="b">caṁdra-cāmara-cāravē</l>
         <l n="c">trailokya-nagarāraṁbha</l>
         <l n="d">mūla-staṁbhāya śaṁbhavē <g type="ddanda">.</g></l>
     </lg>
  
-<lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
+<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 	<l n="a"><lb n="2"/>namaś śāśvatikānanta</l>
             <l n="b">jñānaiśvarya-mayātmanē</l>  
             <l n="c">saṁkalpa-saphala-brahma</l>
@@ -139,7 +139,7 @@ anubhavisidan ent endaḍe <g type="ddanda">.</g> <g type="SpiraIL"/>
    </p>  
 <lb n="8"/>	
 <ab>vṛ <g type="ddanda">.</g></ab>
-    <lg n="3" met="vṛttam" xml:lang="san-Latn"> 
+    <lg n="3" met="vṛttam" xml:lang="san-Latn" rendition="class:kannada maturity:83215"> 
     	<l n="a">pṛthvī yā pṛthunā purā cirataraṁ mūḍhēna gōtvaṁ gatā </l>
     	<l n="b">sēyaṁ bijjaṇa-dēva-paṭṭa-mahiṣī-vṛttau bhṛśaṁ krīḍatē </l>
     	<l n="c">ra<lb n="9" break="no"/>tnaṃ dēva tathaiva bhāti jaḍadhau vēḷādhipādhasthaḷē </l>
