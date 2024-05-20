@@ -95,33 +95,37 @@
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		
-		<l n="a">nama<supplied reason="lost">s tuṁga-śiraś-cuṁbi</supplied></l>
-		<l n="b"><unclear>stuṁ</unclear><gap reason="lost" quantity="7" unit="character"/></l>
-		<l n="c"><gap reason="lost" quantity="4" unit="character"/>gara-āraṁbhe-</l>
-		<l n="d">mūlastamṁbhāya-sa<unclear>ṁbhavē</unclear></l>
-		
-	</lg>   
-	
+		<l n="a-b">nama-<unclear>stuṁ</unclear><supplied reason="lost">ga</supplied>
+		<supplied reason="lost">śiraś-cuṁbi></supplied></l>
+		<l n="c-d"><supplied reason="lost">caṁdra-cāmara-cārave</supplied></l>
+	</lg>
+
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+		<l n="a-b"><supplied reason="lost">trailōkya-na</supplied>garāraṁbha</l>
+		<l n="c-d">mūla-staṃbhāya-sa<unclear>ṁbhavē</unclear></l>
+	</lg>
+	
+	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		
-		<l n="a"><lb n="2"/>jayati-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
-		<l n="b"><gap reason="lost" quantity="8" unit="character"/></l>
+		<l n="a"><lb n="2"/>jayaty-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
+		<l n="b"><gap reason="lost" quantity="8"  unit="character"/></l>
 		<l n="c"><gap reason="lost" quantity="7" unit="character"/></l>
 		<l n="d">samasta-bhuvanē-śivaḥ <g type="ddanda">.</g><g type="SpiraIL"/></l>
 		
 	</lg>
-	
+	</div>
+
+	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
-		
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan-ādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
 		kramadiṁdaṁ pa<unclear>labar</unclear>
 		
-		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar cāḷekya-bhūpar parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpa-ōttama-ratnaṁ jayasiṁhan apratima-tējaṁ <unclear>tā</unclear>
+		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar-c cāḷekya-bhūpar-p parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛp-ōttama-ratnaṁ jayasiṁhan <note>I did not use the upper class A in apratima, because nn the edition we have: jayasiṁha napratima</note>apratima-tējaṁ <unclear>tā</unclear>
 		
-		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhauta-āśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
+		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhaut-āśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
 	</p>
 	
 	<lg n="3" met="vṛttaṁ">
@@ -221,7 +225,6 @@ vāgiliṁ paḍuva mattaṁ rājavīthiyiṁ mūḍa v-intīsthaḷadoḷage na
    	<lb break="no" n="60"/><gap reason="lost" quantity="10" unit="character"></gap>ēvara paṭṭakke koṭṭa gadyāṇavōṁdu<gap reason="lost" quantity="10" unit="character"></gap></p>
 
    
-</div>
          
 <div type="apparatus">
 	
