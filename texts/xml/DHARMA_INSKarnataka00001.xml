@@ -117,13 +117,13 @@
 
 	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan-ādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan<supplied reason="subaudible">a</supplied>-ādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
 		kramadiṁdaṁ pa<unclear>labar</unclear>
 		
-		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar-c cāḷekya-bhūpar-p parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛp-ōttama-ratnaṁ jayasiṁhan <note>I did not use the upper class A in apratima, because nn the edition we have: jayasiṁha napratima</note>apratima-tējaṁ <unclear>tā</unclear>
+		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar-c cāḷekya-bhūpar-p parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛp<supplied reason="subaudible">a</supplied>-ōttama-ratnaṁ jayasiṁhan <note>I did not use the upper class A in apratima, because in the edition we have: jayasiṁha napratima</note>apratima-tējaṁ <unclear>tā</unclear>
 		
 		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhaut-āśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
 	</p>
@@ -131,7 +131,7 @@
 	<lg n="3" met="vṛttaṁ">
 		
 		<l n="ab">Ene negarḻda bhūpaniṁ tat-taneyaṁ dhātrīśan ādan āhava<note>I did not use the upper class A in ādan and āhava, because in the edition we have: dhatriśanāda nāhava</note>-kēḷī-vinu<unclear>ta</unclear></l>
-		<l n="cd"><lb n="6"/>bhuja-darpa-<vīra+avani-vallabha nikara-mallan āhavamallaṁ <g type="danda">.</g></l>
+		<l n="cd"><lb n="6"/>bhuja-darpa-vīra+avani-vallabha nikara-mallan āhavamallaṁ <g type="danda">.</g></l>
 		
 	</lg>
     
