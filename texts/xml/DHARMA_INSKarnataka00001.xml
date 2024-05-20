@@ -101,8 +101,8 @@
 	</lg>
 
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-		<l n="a-b"><supplied reason="lost">trailōkya-na</supplied>garāraṁbha</l>
-		<l n="c-d">mūla-staṃbhāya-sa<unclear>ṁbhavē</unclear></l>
+		<l n="ab"><supplied reason="lost">trailōkya-na</supplied>garāraṁbha</l>
+		<l n="cd">mūla-staṃbhāya-sa<unclear>ṁbhavē</unclear></l>
 	</lg>
 	
 	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
@@ -130,8 +130,8 @@
 	
 	<lg n="3" met="vṛttaṁ">
 		
-		<l n="ab">ene negaḻda bhūpaniṁ tattaneyaṁ dhātrīśan-ādanāhava-kēḷī-vinu<unclear>ta</unclear></l>
-		<l n="cd"><lb n="6"/>bhuja-darpa-vīra avani-vallabha nikara-mallan-āhava-mallaṁ <g type="danda">.</g></l>
+		<l n="ab">Ene negarḻda bhūpaniṁ tat-taneyaṁ dhātrīśan ādan āhava<note>I did not use the upper class A in ādan and āhava, because in the edition we have: dhatriśanāda nāhava</note>-kēḷī-vinu<unclear>ta</unclear></l>
+		<l n="cd"><lb n="6"/>bhuja-darpa-<vīra+avani-vallabha nikara-mallan āhavamallaṁ <g type="danda">.</g></l>
 		
 	</lg>
     
