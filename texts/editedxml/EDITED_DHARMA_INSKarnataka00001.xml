@@ -95,115 +95,118 @@
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		
-		<l n="a">nama<supplied reason="lost">s tuṁga-śiraś-cuṁbi</supplied></l>
-		<l n="b"><unclear>stuṁ</unclear><gap reason="lost" quantity="7" unit="character"/></l>
-		<l n="c"><gap reason="lost" quantity="4" unit="character"/>gara-āraṁbhe-</l>
-		<l n="d">mūlastamṁbhāya-sa<unclear>ṁbhavē</unclear></l>
-		
-	</lg>   
-	
+		<l n="a-b">nama-<unclear>stuṁ</unclear><supplied reason="lost">ga</supplied>
+		<supplied reason="lost">śiraś-cuṁbi&gt;</supplied></l>
+		<l n="c-d"><supplied reason="lost">caṁdra-cāmara-cārave</supplied></l>
+	</lg>
+
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+		<l n="ab"><supplied reason="lost">trailōkya-na</supplied>garāraṁbha</l>
+		<l n="cd">mūla-staṃbhāya-sa<unclear>ṁbhavē</unclear></l>
+	</lg>
+	
+	<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
 		
-		<l n="a"><lb n="2"/>jayati-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
+		<l n="a"><lb n="2"/>jayaty-ānanda<gap reason="lost" quantity="3" unit="character"/></l>
 		<l n="b"><gap reason="lost" quantity="8" unit="character"/></l>
 		<l n="c"><gap reason="lost" quantity="7" unit="character"/></l>
 		<l n="d">samasta-bhuvanē-śivaḥ <g type="ddanda">.</g><g type="SpiraIL"/></l>
 		
 	</lg>
-	
+	</div>
+
+	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
-		
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsav amaḷa-yaśōvistāra<supplied reason="omitted">m</supplied>samastabhuvana-adhāraṁ caḷakya-vaṁśa-v-esadudu dhareyoḷ<g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārave śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan<supplied reason="subaudible">a</supplied>-ādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
 		kramadiṁdaṁ pa<unclear>labar</unclear>
 		
-		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar cāḷekya-bhūpar parākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpa-ōttama-ratnaṁ jayasiṁhan apratima-tējaṁ <unclear>tā</unclear>
+		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar ccāḷekya-bhūpar pparākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛp<supplied reason="subaudible">a</supplied>-ōttama-ratnaṁ jayasiṁhan Apratima-tējaṁ <unclear>tā</unclear>
 		
-		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhauta-āśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
+		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhaut-āśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
 	</p>
 	
 	<lg n="3" met="vṛttaṁ">
 		
-		<l n="ab">ene negaḻda bhūpaniṁ tattaneyaṁ dhātrīśan-ādanāhava-kēḷī-vinu<unclear>ta</unclear></l>
-		<l n="cd"><lb n="6"/>bhuja-darpa-vīra avani-vallabha nikara-mallan-āhava-mallaṁ <g type="danda">.</g></l>
+		<l n="ab">Ene negarḻda bhūpaniṁ tat-taneyaṁ dhātrīśan Ādan Āhava-kēḷī-vinu<unclear>ta</unclear></l>
+		<l n="cd"><lb n="6"/>bhuja-darpa-vīrāvani-vallabha nikara-mallan āhavamallaṁ <g type="danda">.</g></l>
 		
 	</lg>
     
 	<p>
 		Ā bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
 	
-		<lb n="7"/>kṣamaṁ catur-upāy-ōpēta paṁcāṁga-maṁtrābhidyōtita-rāja-nīti-vinutaṁ tī<choice><orig>b</orig><reg>v</reg></choice>rapratāpā-
-		va-lēpa ābhīḷaṁ bhuvanaikamallan-esedaṁ prakhyāta-vīra-uttamaṁ <g type="ddanda">.</g> 
+		<lb n="7"/>kṣamaṁ catur-upāyōpēta paṁcāṁga-maṁtrābhidyōtita-rāja-nīti-vinutaṁ tī<choice><orig>b</orig><reg>v</reg></choice>rapratāpā-
+		va-lēpābhīḷaṁ bhuvanaikamallan Esedaṁ prakhyāta-vīrōttamaṁ <g type="ddanda">.</g> 
 		aṁtā
 		
-		<lb n="8"/>bhūpanin avanī-kāntā-patiy-ādan-ātan-anujaṁ ghanavikrāṁtaṁ tribhuvanamallaṁ kauṁtēya-bhuja-pratāpan-apratirūpaṁ<g type="ddanda">.</g>
+		<lb n="8"/>bhūpanin Avanī-kāntā-patiy Ādan Atan Anujaṁ ghanavikrāṁtaṁ tribhuvanamallaṁ kauṁtēya-bhuja-pratāpan Apratirūpaṁ<g type="ddanda">.</g>
 	</p>
 	
 	<p>
-		taṁnājñe taṁna tējaṁ taṁna-uṁnati nagaḷe rājya
+		taṁnājñe taṁna tējaṁ taṁnuṁnati nagaḷe rājya
 		
-		<lb break="no" n="9"/>r- iṁnuṁ muṁnaṁ taṁna dorey-enipar-illa-eṁbu-aṁnaṁ permāḍirājyan-esedaṁ jagadōḷ <g type="ddanda">.</g><g type="SpiraIL"/>		
+		<lb break="no" n="9"/>r Iṁnuṁ muṁnaṁ taṁna dorey Eniparill<supplied reason="subaudible">a</supplied>eṁb<supplied reason="subaudible">u</supplied>aṁnaṁ permāḍirājyan Esedaṁ jagadōḷ <g type="ddanda">.</g><g type="SpiraIL"/>		
 	</p>
 	
 	<p>
-		<g type="SpiraIL"/>svasti samasta bhuvanāśraya śrīpṛṭhvīvallabha mahā<unclear>ra</unclear>
+		<g type="SpiraIL"/>svasti samasta-bhuvanāśraya-śrīpṛṭhvīvallabha-mahā<unclear>ra</unclear>
 		
-		<lb break="no" n="10"/>jādhirāja paramēśvara parama-bhaṭṭaraka satyāśrayakuḷa-tiḷaka chaḷukya-ābharaṇa śrīmạtrībhuva-namalladēvara vijayarā<unclear>jya</unclear>
-		<lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam ā c-chaṁdra-arkka-tāraṁ saluttamire <g type="danda">.</g> ā cāḷukya kulakke bhaktar enisirdatyaṁta vikrāṁta-līla-ācāry<unclear>rkka</unclear>
-		<lb break="no" n="12"/>danaikadhuṛyar-avanī-prastutya śuddha-prasiddh-ācārar-jagad-ēkavīra<unclear>r-sa</unclear>sadṛkṣa-kṣatra saṁvēdya vidy-ācāturyya rudagra-dhairyya r-eseda<unclear>ṛ-siṁ</unclear>
-		<lb break="no" n="13"/>dānvayōrvvībhujar <g type="ddanda">.</g> tad-vaṁśa-prabhavaṁ prabhūta-vibhavaṁ nānākaḷā-kōvidaṁ vidviṣṭa-avani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n-udya</unclear>
-		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṁ siṁda-ānvaya-khyāti-saṁpad-vistāri-caritran-ācugi-nṛpaṁ prakhyātiyaṁ tāḷdidaṁ <g type="ddanda">.</g> anupama-śauṛyyaṁ cā<unclear>ḷu</unclear>
-		<lb break="no" n="15"/>kya-narēṁdrana-muṁde haṭṭigāḷegadōḷ paṁpanapapaṁ parapindenaṁdanan subhaṭar-ddoreyi bagevaḍa ā
-		cugi-nrpanōḷ<g type="ddanda">.</g>ene nega
-		<lb break="no" n="16"/>rdda ācugi-bhūmipan anujātar nnākanṛpati siṁganṛpaṁ dāsanṛpaṁ dāvanṛpaṁ cauṇdanṛpaṁ
-		cāvanṛpan-ene guṇōnnatar-esedar <g type="ddanda">.</g> avar-o<unclear>ḷa</unclear>
-		<lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan-ene nagaḻdan akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṁ yaśtrībhavanaṁ kadana pracaṇḍa cāvuṁḍanṛpaṁ <g type="ddanda"/> ene<unclear>si</unclear>
-		<lb break="no" n="18"/>dā ābhūpaniṁḍaṁ negaḻdan akhiḷarājyāṁ ganā-vallabhaṁ tān ene dōṛ vikrāṁtadiṁda ācuginṛpa
-		tanayaṁ baṁmabhūpaṁ raṇa-ābhīḷa-nṛpā<unclear>ḷ ō</unclear>
-		<lb break="no" n="19"/>ttaṁsan uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-pada abjā-vana-madbhṛṁgaṁ guṇa-aṁbhōnidhi budhajana-labdha-praśaṁsā-avataṁsaṁ <g type="ddanda">.</g> ā nṛpatiyiṁda rā<unclear>jya</unclear>
-		<lb break="no" n="20"/>śrīnārīramaṇan enisidaṁ guṇaniḷayaṁ bhūnutaśastrakaḷāvijñānaṁ maṇḍaḷikatiḷakan ācugidēvaṁ <g type="ddanda">.</g> palavuṁ duṛgaṁgaḷaṁ koṇḍa
-		<lb break="no" n="21"/>vinatanṛparaṁ tū<unclear>ḷdi</unclear> beṁkoṁḍu daṛppāviḷaraṁ māṛkkoṁḍu arāti-kṣitipatigaḷa-dēśaṁgaḷaṁ kūḍekaikoṁḍu lasat-puṇya-kriyā saṁbhava-vi<unclear>bha</unclear>
-		<lb break="no" n="22"/>vaman aṁtōccataṁ gȯṁḍu lakṣmīlalanākāntaṁ samaṁto ācarasan akhiḷa-saukhy-āspada khyātanādaṁ <g type="ddanda">.</g> caṁḍāṁśu-pratibhāsi pōysaḷanan ā<unclear>ṛddē</unclear>
-		<lb break="no" n="23"/>r vaṭṭedaṁ gōviyaṁ koṁḍaṁ lakṣmanan ājiyoḷ tavisidaṁ vikrāṁtadiṁde eydi beṁkoṁḍaṁ pāṁḍyanan āvagaṁ malavaraṁ tūḷdaṭṭidaṁ koṁkaṇaṁ goṁ
-		<lb break="no" n="24"/>ḍaṁ vikramacakravaṛtti besasalu saṁgrāmakaṇṭhīravaṁ <g type="ddanda">.</g></p>
-	<p>iṁtu dhaṛmmaniṛmmaṇa tatparan enisida mahāmaṇḍaḷēśvaraṁ ācarasan ā<unclear>ma</unclear>
-		<lb break="no" n="25"/>hāsati <g type="ddanda">.</g> paramapatibrate niṛmaḷacarite mahāpuṇyasati mahādēvi jagadvara maṇḍaḷēśa rājñīśirōvibhūṣaṇavenalke ja<unclear>sa</unclear>
-		<lb break="no" n="26"/>maṁ taḷidaḷ <g type="ddanda">.</g> enisida mādīviga vājananaṁta nṛpatiḷaka<choice><sic>n</sic><corr>ṁ</corr></choice> enisida ācarasaṁgaṁ janiyisidaṁ sakaḷajagajjanahaṛṣaṁ janiyisalke <unclear>peṛmmā</unclear>
-		<lb break="no" n="27"/>ḍinṛpaṁ <g type="ddanda">.</g> jitavīra-dviṭpuraṁ niṛjita samada mahīnāthayūthaṁ bhujōpāṛjjita nānā maṇḍaḷaṁ tarjita ripu nṛpa tībra pratāpō<unclear>da</unclear>
-		<lb break="no" n="28"/>yaṁ vaṛjjitakāḷē<gap reason="illegible"/>rabhāvaprabhavakaluṣan asphuṛjjita ārāti lōkōṛjjita cāritraṁ mahāmaṁḍaḷika timira caṁ<unclear>ḍāṁ</unclear>
-		<lb break="no" n="29"/>tu peṛmmaḍidēvaṁ <g type="ddanda">.</g> <gap reason="illegible"/>peṛmmāḍabhūpaṁge ene sucicarita snāna dēva ārcchanā hōma mahādāna bratagha dvijagu<unclear>ru</unclear>
-		<lb break="no" n="30"/>muni pūjādipuṇyakriyā prakramadiṁ dharmmārtṭhaśastraśrutiyin akhiḷadivya-aṁna-dānaṁgaḷiṁ
-		d uttama nānānavyakāvyaśravaṇa
-		<lb break="no" n="31"/>sarasagōṣṭhī viḷāsaṁagaḷiṁdaṁ <g type="ddanda">.</g> sale saphaḷa venisi davasaṁ divasaṁ saluttamira sadvinōdadi rājyaśrīla<supplied reason="undefined">la</supplied>neyūḍagūḍi sukha<unclear>diṁ </unclear>
-		<lb break="no" n="32"/>naliyutirppa salīlan abhinavabhōjaṁ <g type="ddanda">.</g> <g type="SpiraIL"/>svasti samadhigata paṁcamahāśabda mahāmaṁḍaḷēśvara <g type="danda">.</g> Udāravīralakṣmīśvara <g type="danda">.</g> sinda ku
-		<lb break="no" n="33"/>ḷakamaḷamāṛttaṁḍa <g type="danda">.</g> maṁḍaḷikakusumakōdaṁḍa <g type="danda">.</g> sūkaḷahayārūḍaprauḍaśikṣāvicakṣaṇaṁ <g type="danda">.</g> paripūṛṇnasubhala
-		<lb break="no" n="34"/>kṣaṇa <g type="danda">.</g> kavigamakavādivāgmijanasaṁstūyamāna <g type="danda">.</g> guṇagaṇanidhāna <g type="danda">.</g> śivāgamasamākarṇnana-
-kaṛṇnapūra <g type="danda">.</g> sakaḷavidvajjanādhā
-		<lb break="no" n="35"/>ra <g type="danda"/> apāraparahitācāṛyya <g type="danda"/> asahāyasauṛyya <g type="danda">.</g> nānāyōpāyanipuṇacāṇakya <g type="danda">.</g> acaḷitavākya <g type="danda">.</g> śastraśā
-		<lb break="no" n="36"/>strādisatkaḷāpapravīṇa <g type="danda">.</g> raṇāṁgaṇadhurīṇa<supplied reason="omitted"><g type="danda">.</g></supplied>bhōgōpabhōgasaṁkraṁdana<g type="danda">.</g>anūnadāna-
-ravinaṁdana <g type="danda">.</g> anēkavidhadurggavaṛggatri
-		<lb break="no" n="37"/>ṇētra <g type="danda">.</g> ādirājacaritra <g type="danda">.</g> śaraṇāgatavajrapaṁjara <g type="danda">.</g> maṁḍaḷakadikkuṁjara <g type="danda">.</g> kāvyagītarasānubhavavinōde <g type="danda">.</g> śrīmūlasthānadēva
-		<lb break="no" n="38"/>labhdavaraprasādādināmāvaḷīvirājitarappa śrīmannmahāmaṁḍaḷēśvaran peṛmmāḍidēvarasar kisukāḍeppattuṁ keḷavāḍi<unclear>mū</unclear>
-		<lb break="no" n="39"/>nūṟuṁ bāgaḍage eṛppattu narayaṁgalu panneraḍu miṁte initaṟ ubhayasāmyamaṁ duṣṭanigraha viśiṣṭapratipāḷeneyiṁde<unclear>raṁ</unclear>
-		<lb break="no" n="40"/>barageya nelevīḍinoḷu sukhasaṁkathāvinōdadiṁ rājyam geyyuttam iṛddu purātanamappa
+		<lb break="no" n="10"/>jādhirāja-paramēśvara parama-bhaṭṭaraka-satyāśrayakuḷa-tiḷaka-caḷukyābharaṇa-śrīmạtrībhuvana-malladēvara-vijaya-rā<unclear>jya</unclear>
+		<lb break="no" n="11"/>m-uttarōttara abhivṛddhi pravaṛddhamānam Ā ccaṁdra-arkka-tāraṁ saluttamire <g type="danda">.</g> Ā cāḷukya-kulakke bhaktar Enisirdd<supplied reason="subaudible">a</supplied> Atyaṁta-vikrāṁta-līlācāryya<unclear>r kka</unclear>
+		<lb break="no" n="12"/>danaikadhuṛyar Avanī-prastutya-śuddha-prasiddhācārar jjagad-ēkavīra<unclear>ra</unclear>-sadṛkṣa-kṣatra-saṁvēdya vidy-ācāturyyar Udagra-dhairyyar Eseda<unclear>ṛ siṁ</unclear>
+		<lb break="no" n="13"/>dānvayōr vvībhujar <g type="ddanda">.</g> tad-vaṁśa-prabhavaṁ prabhūta-vibhavaṁ nānākaḷā-kōvidaṁ vidviṣṭāvani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n udya</unclear>
+		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṁ siṁdānvaya-khyāti-saṁpad-vistāri-caritran-ācugi-nṛpaṁ prakhyātiyaṁ tāḷdidaṁ <g type="ddanda">.</g> Anupama-śauṛyyaṁ cā<unclear>ḷu</unclear>
+		<lb break="no" n="15"/>kya-narēṁdrana muṁde haṭṭigāḷegadōḷ paṁpana-papaṁ parapinde-naṁdanan subhaṭar ddoreyi bagevaḍ<supplied reason="subaudible">a</supplied> Ācugi-nrpanōḷ<g type="ddanda">.</g>Ene nega
+		<lb break="no" n="16"/>rdd<supplied reason="subaudible">a</supplied> Ācugi-bhūmipan Anujātar nnākanṛpati siṁganṛpaṁ dāsanṛpaṁ dāvanṛpaṁ cauṇdanṛpaṁ
+		cāvanṛpan-ene guṇōnnatar Esedar <g type="ddanda">.</g> avar-o<unclear>ḷa</unclear>
+		<lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan Ene nagaḻdan Akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṁ yaś-śrī-bhavanaṁ kadana-pracaṇḍa-cāvuṁḍanṛpaṁ <g type="ddanda"/> Ene<unclear>si</unclear>
+		<lb break="no" n="18"/>dā bhūpaniṁḍaṁ negaḻdan akhiḷarājyāṁ ganā-vallabhaṁ tān Ene dōṛ vvikrāṁtadiṁda Ācuginṛpa
+		tanayaṁ baṁma-bhūpaṁ raṇābhīḷa-nṛpā<unclear>ḷ ō</unclear>
+		<lb break="no" n="19"/>ttaṁsan Uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-padābjā-vana-madbhṛṁgaṁ guṇa-aṁbhōnidhi budhajana-labdha-praśaṁsā-avataṁsaṁ <g type="ddanda">.</g> Ā nṛpatiyiṁda rā<unclear>jya</unclear>
+		<lb break="no" n="20"/>śrī-nārī-ramaṇan Enisidaṁ guṇa-niḷayaṁ bhū-nuta-śastrakaḷā-vijñānaṁ maṇḍaḷikatiḷakan Ācugidēvaṁ <g type="ddanda">.</g> palavuṁ duṛggaṁgaḷaṁ koṇḍa
+		<lb break="no" n="21"/>vinata-nṛparaṁ tū<unclear>ḷdi</unclear> beṁkoṁḍu daṛppāviḷaraṁ māṛkkoṁḍu arāti-kṣitipatigaḷa dēśaṁgaḷaṁ kūḍekaikoṁḍu lasat-puṇya-kriyā saṁbhava-vi<unclear>bha</unclear>
+		<lb break="no" n="22"/>vaman aṁtōccataṁ gȯṁḍu lakṣmī-lalanā-kāntaṁ samaṁtācarasan Akhiḷa-saukhyās-pada-khyātan Ādaṁ <g type="ddanda">.</g> caṁḍāṁśu-pratibhāsi-pōysaḷanan Ā<unclear>ṛddē</unclear>
+		<lb break="no" n="23"/>rvvaṭṭidaṁ gōviyaṁ koṁḍaṁ lakṣmanan Ājiyoḷ tavisidaṁ vikrāṁtadiṁd<supplied reason="subaudible">a</supplied> Eydi beṁkoṁḍaṁ pāṁḍyanan Āvagaṁ malavaraṁ tūḷdaṭṭidaṁ koṁkaṇaṁ goṁ
+		<lb break="no" n="24"/>ḍaṁ vikrama-cakravaṛtti besasalu saṁgrāma-kaṇṭhīravaṁ <g type="ddanda">.</g></p>
+	<p>Iṁtu dhaṛmma-niṛmmaṇa-tatparan Enisida mahāmaṇḍaḷēśvaraṁ Ācarasan Ā<unclear>ma</unclear>
+		<lb break="no" n="25"/>hāsati <g type="ddanda">.</g> parama-patibrate niṛmaḷacarite mahāpuṇyasati mahādēvi jagad-vara-maṇḍaḷēśa-rājñī-śirō-vibhūṣaṇa-v-enalke ja<unclear>sa</unclear>
+		<lb break="no" n="26"/>maṁ taḷidaḷ <g type="ddanda">.</g> Enisida mādīviga vājananaṁta nṛpatiḷaka<choice><sic>n</sic><corr>ṁ</corr></choice> enisida ācarasaṁgaṁ janiyisidaṁ sakaḷa-jagaj-janahaṛṣaṁ janiyisalke <unclear>peṛmmā</unclear>
+		<lb break="no" n="27"/>ḍi-nṛpaṁ <g type="ddanda">.</g> jita-vīra-dviṭpuraṁ niṛjita samada mahīnāthayūthaṁ bhujōpāṛjjita nānā-maṇḍaḷaṁ tarjita ripu-nṛpa-tībra-pratāpō<unclear>da</unclear>
+		<lb break="no" n="28"/>yaṁ vaṛjjita-kāḷē<gap reason="illegible" quantity="1" unit="character"/>prabhāva-prabhava-kaluṣan asphuṛjjitārāti lōkōṛjjita cāritraṁ mahāmaṁḍaḷika timira caṁ<unclear>ḍāṁ</unclear>
+		<lb break="no" n="29"/>śu-peṛmmaḍidēvaṁ <g type="ddanda">.</g> <gap reason="illegible"/>peṛmmāḍabhūpaṁge Ene suci-carita-snāna-dēva-ārcchanā-hōma-mahādāna-bratagha-dvijagu<unclear>ru</unclear>
+		<lb break="no" n="30"/>-muni-pūjādipuṇya-kriyā-prakramadiṁ dharmmārtṭhaśastraśrutiyin Akhiḷadivyāṁna-dānaṁgaḷiṁ
+		d<supplied reason="subaudible">a</supplied> Uttama nānānavya-kāvya-śravaṇa
+		<lb break="no" n="31"/>sara-sagōṣṭhī-viḷāsaṁagaḷiṁdaṁ <g type="ddanda">.</g> sale-saphaḷa-v-enisi divasaṁ saluttamire sad-vinōdadi rājya-śrī-la<supplied reason="undefined">la</supplied>ne-y-oḍagūḍi sukha<unclear>diṁ</unclear>
+		<lb break="no" n="32"/>nali-y-utirppa salīlan Abhinava-bhōjaṁ <g type="ddanda">.</g> <g type="SpiraIL"/>svasti samadhigata paṁca-mahā-śabda mahā-maṁḍaḷēśvara <g type="danda">.</g> Udāra-vīra-lakṣmīśvara <g type="danda">.</g> sinda-ku
+		<lb break="no" n="33"/>ḷa-kamaḷa-māṛttaṁḍa <g type="danda">.</g> maṁḍaḷika-kusuma-kōdaṁḍa <g type="danda">.</g> sūkaḷa-hayārūḍa-prauḍa-śikṣāvica-kṣaṇaṁ <g type="danda">.</g> pari-pūṛṇna-subha-la
+		<lb break="no" n="34"/>kṣaṇa <g type="danda">.</g> kavi-gamakavādivāgmi-janasaṁstūyamāna <g type="danda">.</g> guṇa-gaṇa-nidhāna <g type="danda">.</g> śivāgama-samākarṇnana-
+kaṛṇnapūra <g type="danda">.</g> sakaḷa-vidva-jjanādhā
+		<lb break="no" n="35"/>ra <g type="danda"/> apāra-parahitācāṛyya <g type="danda"/> asahāya-sauṛyya <g type="danda">.</g> nānāyōpāyani-puṇa-cāṇakya <g type="danda">.</g> Acaḷita-vākya <g type="danda">.</g> śastra-śā
+		<lb break="no" n="36"/>strādisatkaḷāpa-pravīṇa <g type="danda">.</g> raṇāṁgaṇa-dhurīṇa<supplied reason="omitted"><g type="danda">.</g></supplied>bhōgōpabhōga-saṁkraṁdana<g type="danda">.</g>Anūna-dāna-
+ravinaṁdana <g type="danda">.</g> Anēka-vidha-durgga-vaṛgga-tri
+		<lb break="no" n="37"/>ṇētra <g type="danda">.</g> Ādirāja-caritra <g type="danda">.</g> śaraṇāgata-vajra-paṁjara <g type="danda">.</g> maṁḍaḷikadi-kkuṁjara <g type="danda">.</g> kāvya-gīta-rasānubhava-vinōde <g type="danda">.</g> śrī-mūlasthāna-dēva
+		<lb break="no" n="38"/>labhda-vara-prasādādināmāvaḷī-virājitarappa śrīman-mahāmaṁḍaḷēśvaran peṛmmāḍi-dēvarasar kisukāḍeppattuṁ keḷavāḍi<unclear>mū</unclear>
+		<lb break="no" n="39"/>nūṟuṁ bāgaḍage Eṛppattu narayaṁgalu panneraḍum Iṁt<supplied reason="subaudible">e</supplied> Initaṟ Ubhaya-sāmyamaṁ duṣṭanigraha-viśiṣṭa-pratipāḷ Ene-y-iṁde<unclear>raṁ</unclear>
+		<lb break="no" n="40"/>barageya nelevīḍinoḷu sukha-saṁkathā-vinōdadiṁ rājyam geyyuttam Iṛddu purātanam Appa
 dhaṛmmaṁgaḷaṁ pratipāḷi<unclear>su</unclear>
-		<lb break="no" n="41"/>tta dhaṛmmaprasaṁgamādalli dhaṛmmaṁgaḷgella sāsanamāgalveṛkkumiṁdu kāruṇyaṁgeyyal <g type="ddanda">.</g>
+		<lb break="no" n="41"/>tta dhaṛmma-prasaṁgamādalli dhaṛmmaṁgaḷgella sāsanamāgalveṛkkumiṁdu kāruṇyaṁgeyyal <g type="ddanda">.</g>
 	</p>
 	
 	<lg n="4" met="kanda">
 		<l n="a">jaḷa-nidhi-parivṛta-vasudhāta<unclear>ḷa</unclear>
-			<lb break="no" n="42"/>doḷ bharatōṛvvigesava kuntaḷadēśaṁ tiḷakamenisiṛddudadaṟoḷ phaḷabharitaṁ narayagalu karaṁ raṁjisuguṁ</l>
+			<lb break="no" n="42"/>doḷ bharatōṛ vvigesava-kuntaḷa-dēśaṁ tiḷakam Enisiṛdd<supplied reason="subaudible">a</supplied> Udadaṟoḷ phaḷa-bharitaṁ narayagalu karaṁ raṁjisuguṁ</l>
 	</lg>
 		
 	<lg n="5" met="vṛttaṁ">
-			<l n="a">adu nānādivyagandha prasarakusumavāṭaṁgaḷiṁ sārasaukhyaprada śīta aṁbhas taṭākaṁgaḷin atibahaḷa ārāma śaṁḍaṁgaḷiṁ vyāpta<unclear>di</unclear></l>
-			<l n="b"><lb break="no" n="44"/>gaṁcad gandhaśāḷi prabhṛti sarasa-sasyaṁgaḷiṁ celvudetiṛppu pānthabhrātacētōharav-akhiḷa jagat bhavyam atyaṁtasēvyaṁ <g type="ddanda">.</g></l>
+			<l n="a">Adu nānādivya-gandha prasara-kusuma-vāṭaṁgaḷiṁ sāra-saukhya-pradaśītāṁbhas-taṭākaṁgaḷin ati-bahaḷārāma-śaṁḍaṁgaḷiṁ vyāpta<unclear>di</unclear></l>
+			<l n="b"><lb break="no" n="44"/>gaṁcad gandhaśāḷi prabhṛti sarasa-sasyaṁgaḷiṁ celvudetiṛppu pānthabhrātacētōhara-v-akhiḷa-jagat-bhavyam Atyaṁtasēvyaṁ <g type="ddanda">.</g></l>
 		</lg>	
    
-   	<p><lb break="yes" n="45"/>aṁtoppuva narayaṁgall eraḍuṁ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇyapuṛuṣariṁda dhaṛmmaprati<unclear>pā</unclear>
-   	<lb break="no" n="46"/>ḷanāpararappa prabhugāvuṁḍugaḷiṁdav-esadum alli taṁkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṁ mā<unclear>ḍi</unclear>
+   	<p><lb break="yes" n="45"/>Aṁtoppuva narayaṁgall<supplied reason="subaudible">i</supplied> Eraḍuṁ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇya-puṛuṣariṁda dhaṛmma-prati<unclear>pā</unclear>
+   	<lb break="no" n="46"/>ḷanāpararappa prabhu-gāvuṁḍugaḷiṁda-v-esadum alli taṁkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṁ mā<unclear>ḍi</unclear>
    	<lb break="no" n="47"/>si devar-aṁgabhōgakke sakavaṛṣa 872 deneya saumya saṁvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
    	<lb break="no" n="48"/>saṁkrāntiyaṁdu muṁḍeyaraśrīvantagāvuṁḍa[ṁ] nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṁ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
    	<lb break="yes" n="49"/>biṭṭa bhūmiya sthaḷa muduvoḷaladāriyiṁ baḍaga navayavaḷadiṁ teṁka vāsigāvuṁḍanabaḷediṁmūḍa karabhūmiyiṁ paḍuva
@@ -220,8 +223,7 @@ vāgiliṁ paḍuva mattaṁ rājavīthiyiṁ mūḍa v-intīsthaḷadoḷage na
    	<lb break="no" n="59"/>vāgi biṭṭagāṇa<gap reason="lost" quantity="5" unit="character"/>mūlasthāna kelidēvasvāmige aṟuvata-okkalu<supplied reason="omitted">ṁ</supplied>gāvuṁḍugaḷuṁ mukhyavāgi mā<gap reason="lost" quantity="6" unit="character"/>   
    	<lb break="no" n="60"/><gap reason="lost" quantity="10" unit="character"/>ēvara paṭṭakke koṭṭa gadyāṇavōṁdu<gap reason="lost" quantity="10" unit="character"/></p>
 
-   
-</div>
+   </div>
          
 <div type="apparatus">
 	
@@ -248,29 +250,25 @@ vāgiliṁ paḍuva mattaṁ rājavīthiyiṁ mūḍa v-intīsthaḷadoḷage na
 		
 	<p rend="stanza" n="2">The joy wins <gap reason="lost"/> the whole earth Śiva</p>
 		
-	<p n="3">The Caḷukya family, whose wife is the Fortune, the glorious abode in the succession, the spreading of spotless fame, the support of the entire world, shines on earth.</p>		
-	
-	<p n="3-5">The Caḷukya kings, praised by many people, in succession: Jayasimha, the best jewel among kings, he who was born in that family in order to proceed and keep the earth protected with heroism, he who was famous for his  incomparable strength, he who had a vast kingdom <supplied reason="subaudible">which is</supplied> the surface of the entire earth, purified with the water of a sacred ford which is his own conduct.</p>
-	
-	<p n="6">From that famous king, his son Ahavamalla became king: the proud hero, whose arm was praised in the game of the battle, beloved to the earth, the best among the warriors</p>
-	
-	<p n="7-8">From that king <supplied reason="explanation">Ahavamalla</supplied>, his son Sōmēśvara, devoted to the kingdom, who was capable of lifting the weight of the earth, who had forgiveness, who was praised for <supplied reason="explanation">his</supplied> regal conduct, considered in the assembly, praised for <supplied reason="subaudible">his knowledge of</supplied> astrology, who possessed of the four means <supplied reason="subaudible">of success</supplied>, who was formidable by reason of being endowed with fierce valour, the famous Bhuvanaikamalla, the best among the best heroes. Thus, from that king, his younger brother Tribhuvanamalla became the the beautiful husband of earth, who had a great prowess, incomparable for the power of the arm of Kauntēya</p>
-	
-	<p n="8-9">Permāḍirājya  shone on the earth to be well know for his order, his splendor, his greatness when there were no kings like him in the past, present and future</p>
-	
-	<p n="9-10">Hail! The victorious reign of the glorious Tribhuvanamalladēva, who was the ornament of the Cāḷukyas, the distinctive mark of the Satyāśrayakuḷa, the supreme venerable, the supreme Lord, the great king of the kings, the glorious <foreign>pṛthivīvallabha</foreign>, support of the earth</p>      
- 	<p n="10-11">The prosperity <supplied reason="subaudible">of his reign</supplied> was increasing perpetually as long as exists the spreading of the moon, the sun, the stars.</p>
-         <p n="11-13">The kings of Sinda race, who were devoted to the Cāḷukya family, who were very valiant masters in the battle, the best heroes of the world, whose conduct was pure and well known, who were praised throughout the earth, the best leaders in the war, preceptors of the science of the war, supreme, incomparable among the best warriors who were possessed of the vigorous courage, they shone.
+	<p n="3">The Caḷukya family, whose wife is the Fortune, that has spread the spotless fame up to the glorious abode in  the succession, that supports the entire world, shines on earth.
 	</p>
-	<p n="13-14">Born in that family, of great glory, skilled in various sciences, whose arm was terrible, he was a netfish (jāḷa) in conquering the enemies, and the protector of the earth, who was the high and the excellent hero, 
-14) distinguished ruler, whose conduct is the vastness of <supplied reason="subaudible">his</supplied> success, which is the glory of the Sinda’s lineage, King Ācugi obtained fame</p>
-	<p n="14-15"><supplied reason="subaudible">He of</supplied> the incomparable valor in the battle-field of the Caḷukya kings: if one thinks about the king Acugi: “is there anyone else similar in the greatness to that valiant warrior?"</p>
-	<p n="16">Like that, the brothers of the king Ācugi: king Nāka, king Siṁga, king Dāsa, king Dāva, king Caunda, king Cāva, they were very famous, they had eminent qualities.</p>
-	<p n="17">Among them the king Caunda, who was known as the abode of glory and fortune, who was terrible in battle, whose force was <supplied reason="subaudible">his</supplied> strength arm, that was terrible against all enemies</p>
-	<p n="18-19">From that king, who has been described the king Bamma, the son of the king Acugi, whose the entire kingdom  was well known, he who was dear to the woman by means of the might of <supplied reason="subaudible">his</supplied> arm, the best among the capable kings and brave men, a eager bee to the glorious feet of lotus of  the supreme  lord for <supplied reason="subaudible">his</supplied> great conduct, supporter of the earth, an ocean of qualities, a garland of glory obtained by learned men.</p>
-	<p n="19-22">From that king, the king Ācugidēva, the abode of qualities, who had the knowledge in sciences and technique of weapons that was reknowned in the world, the distinguished chief, known as the husband of  the kingdom Śrīnārī. Having acquired many forts, having attacked and pursued the bent kings; having destroyed the territories of the enemy kings, having acquired delightfully the glory originated from bright and virtuous actions; the king Āca the husband of the lovely woman which is the Fortune, became famous.</p>
-	<p n="23-24">the King Vikrama, shining like the sun, in order to command, a lion in the battle, having pursued prevailed against the Hoysala, having taken Gōva, having destroyed in the battle Lakṣma by means of his might, having scattered Malapa, such as having defeated Pandyas in the battle, and seized the Konkan. Like that the great wife of main chieftain Ācarasa, known even now to be intent upon the dharma.</p>
-	<p n="25">the most devoted wife, with pure conduct, the great pious wife, she acquired the glory of being known as the ornament of the head among the queens of the best chieftain of the world.</p>
+	<p n="3-5">The Caḷukya kings, praised by many people, in succession: Jayasimha, the best jewel among kings, he who was born in that family in order to continue <supplied reason="subaudible">the dynasty</supplied> and keep the earth protected with heroism; he, of incomparable splendour, held a vast kingdom; by whose conduct the entire surface of earth, was purified like by the waters of a sacred ford.</p>
+	
+	<p n="5-6">Just like that, from that famous king, his son Ahavamalla became king: the proud hero, whose arm was praised in the game of the battle, the best warrior among the husbands of the earth.</p>
+	
+	<p n="7-8">From that king <supplied reason="explanation">Ahavamalla</supplied>, his son Sōmēśvara<supplied reason="subaudible">was born</supplied>, devoted to the kingdom, capable of bearing the weight of the earth, praised for <supplied reason="subaudible">his</supplied> regal conduct,provided with the four means of success and illuminated by the <foreign>paṁcāṁgamaṁtra</foreign>. He was fearful due to the ornament of <supplied reason="subaudible">his</supplied>fierce valor, renowned as the best hero on earth, the best among glorious heroes. Thus, from that king, his younger brother Tribhuvanamalla became the illustrious protector of the earth, who had a great prowess, incomparable, who had the power of Kuntēya’s arm.</p>
+	
+	<p n="8-9">At that time Permāḍirājya shone on earth, so that his command, his splendor, his greatness were famous, <supplied reason="subaudible">and</supplied>mo kings, from the past, present and future, could be said to be comparable to him.</p>
+	
+	<p n="9-11">Hail! May the victorious reign of the glorious Tribhuvanamalladēva, the shelter of the world, who was the beloved of the glorious earth, the great king among kings, the supreme Lord, <foreign>paramabhaṭṭaraka</foreign>, the distinctive mark of Satȳ́srayakuḷa, who was the ornament of the Cāḷukya lineage, keep increasing its prosperity further and further as long as the moon, the sun, and stars keep shedding their light.</p>
+         <p n="11-13">The kings of Sinda race, who were devoted to this Cāḷukya family, masters in battle, in which they had endless vigor; the best heroes of the world; their pure and established conduct was praiseworthy <supplied reason="subaudible">on</supplied>earth; they were the best leaders in battle, incomparable experts in everything that can be known of the military power; possessed of indomitable courage, they shone.
+	</p>
+	<p n="13-15">Born into that family, who had the grat glory, skilled in various sciences, he was the protector of the earth from enemies, possessing a fearsome arm, who had pride in victory, great and excellent hero, distinguished ruled, whose conduct was the vastness of <supplied reason="subaudible">his</supplied>success, and was the glory of the Sinda’s lineage, king Ācugi obtained fame. Endowed woth the incomparable valor, tn the very presence of the Cāḷukya king in the battle-field: you could not think about it the king Ācugi, is there anyone else comparable in greatness to that valian warrior?</p>
+	<p n="16-17">Like that, the well-known brothers of the king Ācugi—king Nāka, king Siṃga, king Dāsa, king Dāva, king Caunda, king Cāva—were distinguished as beholders of eminent qualities. Among them, the king Caunda, fearsome in battle, known as the dwelling place of the royal fortune, the force of whose excellent arm was terrible against all enemies, the glorious abode of fortune.</p>
+	<p n="18-19">From that above-described king, king Bamma, the son of king Ācugi, became famous through the might of <supplied reason="subaudible">his</supplied> arm as one who was beloved to the women of the entire kingdom. The best among the formidable kings in battle; eager bee to the glorious feet of lotus of the supreme lord; whose conduct was as elevated as a mountain; ocean of virtues; by whom a garland of praises had been received from the learned men.</p>
+	<p n="19-22">From that king, the divine Ācugi <supplied reason="subaudible">was born</supplied>, known as the husband of glorious woman which is <supplied reason="subaudible">his</supplied> kingdom, the abode of qualities, expert on the sciences and techniques that are praised on earth, he had the distinguishing mark of rulers; and, having chased away and run after the subdued kings who had conquered many forts, having killed those who were made turbid by their pride; having taken possession (kūḍekai-koṃdu) of territories (dēśaṃgaḷaṃ) of the enemy kings; having acquired the glory originated from bright and virtuous actions, and thus pleasure, the ruler Ācarasa, became famous as the husband of the lovely woman <supplied reason="subaudible">which is the</supplied> Fortune, the shelter of all happiness.</p>
+	<p n="23-24"> The King Vikrama, shining like the sun, in order to command the lion in  battle, who triumphed over the Hoysala, took Gōva, destroyed in battle Lakṣma by means of his might, removed Malva, such as defeated the Pandyas, furthermore, and seized the Konkan. So that, the chieftain Ācarasa was known entirely dedicated to the production of dharma. That wife,</p>
+	<p n="25">the extremely devoted wife, with pure conduct, the great pious wife, Mahādēvi acquired the glory being known as the ornament of the head, among the queens of the greatest chieftain of the world.</p>
 	<p n="26">It is said <supplied reason="subaudible">that</supplied> from Mādēvi and from king Acugi, esteemed the distinguished king, praised or his vigour, was born the king Permadi,  in order to bring (janiyisalke) joy to the entire population.</p>
 	<p n="27-29">He conquered of <supplied reason="subaudible">his</supplied> valorous enemies; by means of his arm he conquered the multitude of furious kings; threatened various countries, avoided the rising of the impetuous power of the enemy kings; avoided the sin originated by the power of Kāḷi age; whose conduct was excellent compared to the silenced enemies; a sun in the darkness which was the great chieftains; such was Permadidēva.</p>
 	<p n="29-31">Hail! twice-born, masters and sages, according to the Dharmashastra, Arthashastra and Veda, to proceed their actions of virtue <supplied reason="subaudible">they made</supplied> equally to king Permāḍi, who had a pure conduct, the ablution, the worship to the God, <foreign>hōma</foreign>, donation. On the account of donation of celestial food to the entire people, and on account of the elegance of the charming assembly made of listening to many excellent new poems.</p>
@@ -318,6 +316,7 @@ Four landmark stones composed of a <foreign>liṅga</foreign> together with, sag
 		</bibl>
 		
 	</listBibl>
+
 	
 	<listBibl type="secondary">
 		<bibl>
