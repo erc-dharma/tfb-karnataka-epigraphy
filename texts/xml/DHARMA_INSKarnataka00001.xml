@@ -90,7 +90,7 @@
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	
 	<p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ śivāya<surplus>ḥ</surplus>
+		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ <sic>śivāyaḥ</sic><corr>śivāya</corr>
 	</p>
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
@@ -117,7 +117,7 @@
 
 	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārava śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan<supplied reason="subaudible">a</supplied>-ādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārava śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvanādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
@@ -182,7 +182,7 @@
 		<lb break="no" n="32"/>nali-y-utirppa salīlan Abhinava-bhōjaṁ <g type="ddanda">.</g> <g type="SpiraIL"/>svasti samadhigata paṁca-mahā-śabda-mahā-maṁḍaḷēśvara <g type="danda">.</g> Udāra-vīra-lakṣmīśvara <g type="danda">.</g> sinda-ku
 		<lb break="no" n="33"/>ḷa-kamaḷa-māṛttaṁḍa <g type="danda">.</g> maṁḍaḷika-kusuma-kōdaṁḍa <g type="danda">.</g> sūkaḷa-hayārūḍa-prauḍa-śikṣāvica-kṣaṇaṁ <g type="danda">.</g> pari-pūṛṇna-subha-la
 		<lb break="no" n="34"/>kṣaṇa <g type="danda">.</g> kavi-gamakavādivāgmi-janasaṁstūyamāna <g type="danda">.</g> guṇa-gaṇa-nidhāna <g type="danda">.</g> śivāgama-samākarṇnana-
-kaṛṇnapūra <g type="danda">.</g> sakaḷa-vidva-jjanādhā
+kaṛṇnapūra <g type="danda">.</g> sakaḷa-vidvaj-janādhā
 		<lb break="no" n="35"/>ra <g type="danda"></g> apāra-parahitācāṛyya <g type="danda"></g> asahāya-sauṛyya <g type="danda">.</g> nānāyōpāyani-puṇa-cāṇakya <g type="danda">.</g> Acaḷita-vākya <g type="danda">.</g> śastra-śā
 		<lb break="no" n="36"/>strādisatkaḷāpa-pravīṇa <g type="danda">.</g> raṇāṁgaṇa-dhurīṇa<supplied reason="omitted"><g type="danda">.</g></supplied>bhōgōpabhōga-saṁkraṁdana<g type="danda">.</g>Anūna-dāna-
 ravinaṁdana <g type="danda">.</g> Anēka-vidha-durgga-vaṛgga-tri
@@ -228,10 +228,11 @@ vāgiliṁ paḍuva mattaṁ rājavīthiyiṁ mūḍa-v-intīsthaḷadoḷage na
 	
                <listApp><!-- one <app> for each apparatus entry -->
                	
-               	<app loc="line"><!-- update the value of @loc.-->
-               		<lem><!-- fill in a lemma here --></lem>
-               		<rdg source="bib:LakshminarayaRao1952_01"><!-- update the @source value, fill in variant reading here --></rdg>
-               		<note>...</note>
+               	<app loc="1"><!-- update the value of @loc.-->
+               		<lem>śivāya</lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">śivāyaḥ<!-- update the @source value, fill in variant reading here --></rdg>
+               		<rdg source="bib:Fleet1875_05">śivā<unclear>ya</unclear></rdg>
+               		<lem></lem>
                	</app>
                	
                </listApp>
@@ -318,12 +319,16 @@ Four landmark stones composed of a <foreign>liṅga</foreign> together with, sag
 
 	
 	<listBibl type="secondary">
-		<bibl>
+		<bibl n="1">
 			<ptr target="bib:ARIE1926-1927"/>
 			<citedRange unit="page">14</citedRange>
 			<citedRange unit="appendix">F/1926-1927</citedRange>
 			<citedRange unit="item">186</citedRange>
-		</bibl>         
+		</bibl> 	
+		<bibl n="2">
+			<ptr target="bib:Fleet1875_05"/>
+			<citedRange unit="page">219-238</citedRange>
+	        </bibl>
 		
 		<!--Add JBBRS-->
 		
