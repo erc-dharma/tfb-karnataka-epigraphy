@@ -90,7 +90,7 @@
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	
 	<p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ <sic>śivāyaḥ</sic><corr>śivāya</corr>
+		<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/> Oṁ namaḥ śivā<choice><sic>yaḥ</sic><corr>ya</corr></choice>
 	</p>
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
@@ -117,97 +117,97 @@
 
 	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
-		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārava śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvanādhāraṁ caḷakya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
+		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmāramaṇīya sārava-śrīnivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvanādhāraṁ <choice><sic>ca</sic><corr>cā</corr></choice>ḷukya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g>
 	</p>
 	
 	<p>
 		kramadiṁdaṁ pa<unclear>labar</unclear>
 		
-		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar ccāḷekya-bhūpar pparākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpōttama-ratnaṁ jayasiṁhan Apratima-tējaṁ <unclear>tā</unclear>
+		<lb n="4"/>jagaj-jana<unclear>nu</unclear>tar ccāḷekya-bhūpar pparākramadiṁ pāḷisutaṁ baral dharaṇiyaṁ tad-vaṁśa-jātaṁ nṛpōttama-ratnaṁ jayasiṁhan apratima-tējaṁ <unclear>tā</unclear>
 		
-		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman Ātmīya-caritra-tīrtha-jaḷa-dhautāśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
+		<lb break="no" n="5"/>ḷdidaṁ prājyaṁ rājyaman ātmīya-caritra-tīrtha-jaḷa-dhautāśēṣa-dhātrī-taḷaṁ <g type="ddanda">.</g> 
 	</p>
 	
 	<lg n="3" met="vṛttaṁ">
 		
-		<l n="ab">Ene negarḻda bhūpaniṁ tat-taneyaṁ dhātrīśan Ādan Āhava-kēḷī-vinu<unclear>ta</unclear></l>
-		<l n="cd"><lb n="6"/>bhuja-darpa-vīrāvani-vallabha-nikara-mallan Āhavamallaṁ <g type="danda">.</g></l>
+		<l n="ab">ene negarḻda bhūpaniṁ tat-taneyaṁ dhātrīśan ādan āhava-kēḷī-vinu<unclear>ta</unclear></l>
+		<l n="cd"><lb n="6"/>bhuja-darpa-vīrāvani-vallabha-nikara-mallan āhavamallaṁ <g type="danda">.</g></l>
 		
 	</lg>
     
 	<p>
-		Ā-bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu-sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
+		ā-bhū-vallabhaniṁde rājya-nirataṁ tat-sūnu-sōmēśvaraṁ bhū-bhārōddhara<unclear>na</unclear>
 	
 		<lb n="7"/>kṣamaṁ catur-upāyōpēta paṁcāṁga-maṁtrābhidyōtita-rāja-nīti-vinutaṁ tī<choice><orig>b</orig><reg>v</reg></choice>rapratāpā-
-		va-lēpābhīḷaṁ bhuvanaikamallan Esedaṁ prakhyāta-vīrōttamaṁ <g type="ddanda">.</g> 
+		va-lēpābhīḷaṁ bhuvanaikamallan esedaṁ prakhyāta-vīrōttamaṁ <g type="ddanda">.</g> 
 		aṁtā
 		
-		<lb n="8"/>bhūpanin Avanī-kāntā-patiy Ādan Atan Anujaṁ ghanavikrāṁtaṁ tribhuvanamallaṁ kauṁtēya-bhuja-pratāpan Apratirūpaṁ<g type="ddanda">.</g>
+		<lb n="8"/>bhūpanin avanī-kāntā-patiy ādan atan anujaṁ ghanavikrāṁtaṁ tribhuvanamallaṁ kauṁtēya-bhuja-pratāpan apratirūpaṁ<g type="ddanda">.</g>
 	</p>
 	
 	<p>
 		taṁnājñe taṁna tējaṁ taṁnuṁnati nagaḷe rājya
 		
-		<lb break="no" n="9"/>r Iṁnuṁ muṁnaṁ taṁna dorey Eniparill<supplied reason="subaudible">a</supplied>eṁb<supplied reason="subaudible">u</supplied>aṁnaṁ permāḍirājyan Esedaṁ jagadōḷ <g type="ddanda">.</g><g type="SpiraIL"/>		
+		<lb break="no" n="9"/>r iṁnuṁ muṁnaṁ taṁna dore-y-eniparill<supplied reason="subaudible">a</supplied>eṁb<supplied reason="subaudible">u</supplied>aṁnaṁ permāḍirājyan Esedaṁ jagadōḷ <g type="ddanda">.</g><g type="SpiraIL"/>		
 	</p>
 	
 	<p>
 		<g type="SpiraIL"/>svasti samasta-bhuvanāśraya-śrīpṛṭhvīvallabha-mahā<unclear>ra</unclear>
 		
 		<lb break="no" n="10"/>jādhirāja-paramēśvara parama-bhaṭṭaraka-satyāśrayakuḷa-tiḷaka-caḷukyābharaṇa-śrīmạtrībhuvana-malladēvara-vijaya-rā<unclear>jya</unclear>
-		<lb break="no" n="11"/>m Uttarōttarābhivṛddhi-pravaṛddhamānam Ā-ccaṁdra-arkka-tāraṁ saluttamire <g type="danda">.</g> Ā cāḷukya-kulakke bhaktar Enisirdd<supplied reason="subaudible">a</supplied> Atyaṁta-vikrāṁta-līlācāryya<unclear>r kka</unclear>
-		<lb break="no" n="12"/>danaikadhuṛyar Avanī-prastutya-śuddha-prasiddhācārar jjagad-ēkavīra<unclear>ra</unclear>-sadṛkṣa-kṣatra-saṁvēdya-vidyācāturyyar Udagra-dhairyyar Eseda<unclear>ṛ siṁ</unclear>
+		<lb break="no" n="11"/>m uttarōttarābhivṛddhi-pravaṛddhamānam ā-ccaṁdra-arkka-tāraṁ saluttamire <g type="danda">.</g> ā cāḷukya-kulakke bhaktar ēnisirdd<supplied reason="subaudible">a</supplied> atyaṁta-vikrāṁta-līlācāryya<unclear>r kka</unclear>
+		<lb break="no" n="12"/>danaikadhuṛyar avanī-prastutya-śuddha-prasiddhācārar jjagad-ēkavīra<unclear>ra</unclear>-sadṛkṣa-kṣatra-saṁvēdya-vidyācāturyyar udagra-dhairyyar eseda<unclear>ṛ siṁ</unclear>
 		<lb break="no" n="13"/>dānvayōr vvībhujar <g type="ddanda">.</g> tad-vaṁśa-prabhavaṁ prabhūta-vibhavaṁ nānākaḷā-kōvidaṁ vidviṣṭāvani-pāḷa-jāḷa-vijaya-prōccaṇḍa-dōṛdaṇḍa<unclear>n Udya</unclear>
-		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṁ siṁdānvaya-khyāti-saṁpad-vistāri-caritran Ācugi-nṛpaṁ prakhyātiyaṁ tāḷdidaṁ <g type="ddanda">.</g> Anupama-śauṛyyaṁ cā<unclear>ḷu</unclear>
-		<lb break="no" n="15"/>kya-narēṁdrana muṁde haṭṭigāḷegadōḷ paṁpana-papaṁ parapinde-naṁdanan subhaṭar ddoreyi bagevaḍ<supplied reason="subaudible">a</supplied> Ācugi-nrpanōḷ<g type="ddanda">.</g>Ene nega
-		<lb break="no" n="16"/>rdd<supplied reason="subaudible">a</supplied> Ācugi-bhūmipan Anujātar nnākanṛpati siṁganṛpaṁ dāsanṛpaṁ dāvanṛpaṁ cauṇdanṛpaṁ
-		cāvanṛpan Ene guṇōnnatar Esedar <g type="ddanda">.</g> avaro<unclear>ḷa</unclear>
-		<lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan Ene nagaḻdan Akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṁ yaś-śrī-bhavanaṁ kadana-pracaṇḍa-cāvuṁḍanṛpaṁ <g type="ddanda"/> Ene<unclear>si</unclear>
-		<lb break="no" n="18"/>dā bhūpaniṁḍaṁ negaḻdan akhiḷarājyāṁ ganā-vallabhaṁ tān Ene dōṛ vvikrāṁtadiṁda Ācuginṛpa
+		<lb break="no" n="14"/>d-vīrāgraṇi maṇḍaḷēśa-tiḷakaṁ siṁdānvaya-khyāti-saṁpad-vistāri-caritran ācugi-nṛpaṁ prakhyātiyaṁ tāḷdidaṁ <g type="ddanda">.</g> anupama-śauṛyyaṁ cā<unclear>ḷu</unclear>
+		<lb break="no" n="15"/>kya-narēṁdrana muṁde haṭṭigāḷegadōḷ paṁpana-papaṁ parapinde-naṁdanan subhaṭar ddoreyi bagevaḍ<supplied reason="subaudible">a</supplied> ācugi-nrpanōḷ<g type="ddanda">.</g>ene nega
+		<lb break="no" n="16"/>rdd<supplied reason="subaudible">a</supplied> ācugi-bhūmipan anujātar nnākanṛpati siṁganṛpaṁ dāsanṛpaṁ dāvanṛpaṁ cauṇdanṛpaṁ
+		cāvanṛpan ene guṇōnnatar esedar <g type="ddanda">.</g> avaro<unclear>ḷa</unclear>
+		<lb break="no" n="17"/>ge rājya-lakṣmī-nivāsan ene nagaḻdan akhiḷa-ripu-bhīkara-sauṣṭhava-bhuja-baḷaṁ yaś-śrī-bhavanaṁ kadana-pracaṇḍa-cāvuṁḍanṛpaṁ <g type="ddanda"/> ene<unclear>si</unclear>
+		<lb break="no" n="18"/>dā bhūpaniṁḍaṁ negaḻdan akhiḷarājyāṁ ganā-vallabhaṁ tān ene dōṛ vvikrāṁtadiṁda ācuginṛpa
 		tanayaṁ baṁma-bhūpaṁ raṇābhīḷa-nṛpā<unclear>ḷ ō</unclear>
-		<lb break="no" n="19"/>ttaṁsan Uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-padābjā-vana-madbhṛṁgaṁ guṇa-aṁbhōnidhi budhajana-labdha-praśaṁsā-avataṁsaṁ <g type="ddanda">.</g> Ā-nṛpatiyiṁda rā<unclear>jya</unclear>
-		<lb break="no" n="20"/>śrī-nārī-ramaṇan Enisidaṁ guṇa-niḷayaṁ bhū-nuta-śastrakaḷā-vijñānaṁ maṇḍaḷikatiḷakan Ācugidēvaṁ <g type="ddanda">.</g> palavuṁ duṛggaṁgaḷaṁ koṇḍa
+		<lb break="no" n="19"/>ttaṁsan uṛvvīdhara-vibhuta-naya-ādhīśvara-śrī-padābjā-vana-madbhṛṁgaṁ guṇa-aṁbhōnidhi budhajana-labdha-praśaṁsā-avataṁsaṁ <g type="ddanda">.</g> ā-nṛpatiyiṁda rā<unclear>jya</unclear>
+		<lb break="no" n="20"/>śrī-nārī-ramaṇan enisidaṁ guṇa-niḷayaṁ bhū-nuta-śastrakaḷā-vijñānaṁ maṇḍaḷikatiḷakan ācugidēvaṁ <g type="ddanda">.</g> palavuṁ duṛggaṁgaḷaṁ koṇḍa
 		<lb break="no" n="21"/>vinata-nṛparaṁ tū<unclear>ḷdi</unclear> beṁkoṁḍu daṛppāviḷaraṁ māṛkkoṁḍ<supplied reason="subaudible">u</supplied>arāti-kṣitipatigaḷa dēśaṁgaḷaṁ kūḍekaikoṁḍu lasat-puṇya-kriyā saṁbhava-vi<unclear>bha</unclear>
-		<lb break="no" n="22"/>vaman aṁtōccataṁ gȯṁḍu lakṣmī-lalanā-kāntaṁ samaṁtācarasan Akhiḷa-saukhyās-pada-khyātan Ādaṁ <g type="ddanda">.</g> caṁḍāṁśu-pratibhāsi-pōysaḷanan Ā<unclear>ṛddē</unclear>
-		<lb break="no" n="23"/>rvvaṭṭidaṁ gōviyaṁ koṁḍaṁ lakṣmanan Ājiyoḷ tavisidaṁ vikrāṁtadiṁd<supplied reason="subaudible">a</supplied> Eydi beṁkoṁḍaṁ pāṁḍyanan Āvagaṁ malavaraṁ tūḷdaṭṭidaṁ koṁkaṇaṁ goṁ
+		<lb break="no" n="22"/>vaman aṁtōccataṁ gȯṁḍu lakṣmī-lalanā-kāntaṁ samaṁtācarasan akhiḷa-saukhyās-pada-khyātan ādaṁ <g type="ddanda">.</g> caṁḍāṁśu-pratibhāsi-pōysaḷanan ā<unclear>ṛddē</unclear>
+		<lb break="no" n="23"/>rvvaṭṭidaṁ gōviyaṁ koṁḍaṁ lakṣmanan ājiyoḷ tavisidaṁ vikrāṁtadiṁd<supplied reason="subaudible">a</supplied> eydi beṁkoṁḍaṁ pāṁḍyanan āvagaṁ malavaraṁ tūḷdaṭṭidaṁ koṁkaṇaṁ goṁ
 		<lb break="no" n="24"/>ḍaṁ vikrama-cakravaṛtti besasalu saṁgrāma-kaṇṭhīravaṁ <g type="ddanda">.</g></p>
-	<p>Iṁtu dhaṛmma-niṛmmaṇa-tatparan Enisida mahāmaṇḍaḷēśvaraṁ Ācarasan Ā<unclear>ma</unclear>
+	<p>iṁtu dhaṛmma-niṛmmaṇa-tatparan enisida mahāmaṇḍaḷēśvaraṁ ācarasan ā<unclear>ma</unclear>
 		<lb break="no" n="25"/>hāsati <g type="ddanda">.</g> parama-patibrate niṛmaḷacarite mahāpuṇyasati mahādēvi jagad-vara-maṇḍaḷēśa-rājñī-śirō-vibhūṣaṇa-v-enalke ja<unclear>sa</unclear>
-		<lb break="no" n="26"/>maṁ taḷidaḷ <g type="ddanda">.</g> Enisida mādīviga vājana-nuta nṛpatiḷaka<choice><sic>n</sic><corr>ṁ</corr></choice> enisida ācarasaṁgaṁ janiyisidaṁ sakaḷa-jagaj-janahaṛṣaṁ janiyisalke <unclear>peṛmmā</unclear>
+		<lb break="no" n="26"/>maṁ taḷidaḷ <g type="ddanda">.</g> enisida mādīviga vājana-nuta nṛpatiḷaka<choice><sic>n</sic><corr>ṁ</corr></choice> enisida ācarasaṁgaṁ janiyisidaṁ sakaḷa-jagaj-janahaṛṣaṁ janiyisalke <unclear>peṛmmā</unclear>
 		<lb break="no" n="27"/>ḍi-nṛpaṁ <g type="ddanda">.</g> jita-vīra-dviṭpuraṁ niṛjita samada mahīnāthayūthaṁ bhujōpāṛjjita nānā-maṇḍaḷaṁ tarjita ripu-nṛpa-tībra-pratāpō<unclear>da</unclear>
 		<lb break="no" n="28"/>yaṁ vaṛjjita-kāḷē<gap reason="illegible" quantity="1" unit="character"/>prabhāva-prabhava-kaluṣan asphūṛjjitārāti lōkōṛjjita cāritraṁ mahāmaṁḍaḷika timira caṁ<unclear>ḍāṁ</unclear>
-		<lb break="no" n="29"/>śu-peṛmmaḍidēvaṁ <g type="ddanda">.</g> <gap reason="illegible"/>peṛmmāḍabhūpaṁg<supplied reason="subaudible">e</supplied>Ene suci-carita-snāna-dēva-ārcchanā-hōma-mahādāna-bratagha-dvijagu<unclear>ru</unclear>
-		<lb break="no" n="30"/>-muni-pūjādipuṇya-kriyā-prakramadiṁ dharmmārtṭhaśastra-śrutiyin Akhiḷa-divyāṁna-dānaṁgaḷiṁd<supplied reason="subaudible">a</supplied> Uttama nānānavya-kāvya-śravaṇa
+		<lb break="no" n="29"/>śu-peṛmmaḍidēvaṁ <g type="ddanda">.</g> <gap reason="illegible"/>peṛmmāḍabhūpaṁg<supplied reason="subaudible">e</supplied>ene suci-carita-snāna-dēva-ārcchanā-hōma-mahādāna-bratagha-dvijagu<unclear>ru</unclear>
+		<lb break="no" n="30"/>-muni-pūjādipuṇya-kriyā-prakramadiṁ dharmmārtṭhaśastra-śrutiyin akhiḷa-divyāṁna-dānaṁgaḷiṁd<supplied reason="subaudible">a</supplied> uttama nānānavya-kāvya-śravaṇa
 		<lb break="no" n="31"/>sara-sagōṣṭhī-viḷāsaṁagaḷiṁdaṁ <g type="ddanda">.</g> sale-saphaḷa-v-enisi divasaṁ saluttamire sad-vinōdadi rājya-śrī-la<supplied reason="undefined">la</supplied>ne-y-oḍagūḍi sukha<unclear>diṁ</unclear>
-		<lb break="no" n="32"/>nali-y-utirppa salīlan Abhinava-bhōjaṁ <g type="ddanda">.</g> <g type="SpiraIL"/>svasti samadhigata paṁca-mahā-śabda-mahā-maṁḍaḷēśvara <g type="danda">.</g> Udāra-vīra-lakṣmīśvara <g type="danda">.</g> sinda-ku
-		<lb break="no" n="33"/>ḷa-kamaḷa-māṛttaṁḍa <g type="danda">.</g> maṁḍaḷika-kusuma-kōdaṁḍa <g type="danda">.</g> sūkaḷa-hayārūḍa-prauḍa-śikṣāvica-kṣaṇaṁ <g type="danda">.</g> pari-pūṛṇna-subha-la
-		<lb break="no" n="34"/>kṣaṇa <g type="danda">.</g> kavi-gamakavādivāgmi-janasaṁstūyamāna <g type="danda">.</g> guṇa-gaṇa-nidhāna <g type="danda">.</g> śivāgama-samākarṇnana-
-kaṛṇnapūra <g type="danda">.</g> sakaḷa-vidvaj-janādhā
-		<lb break="no" n="35"/>ra <g type="danda"></g> apāra-parahitācāṛyya <g type="danda"></g> asahāya-sauṛyya <g type="danda">.</g> nānāyōpāyani-puṇa-cāṇakya <g type="danda">.</g> Acaḷita-vākya <g type="danda">.</g> śastra-śā
-		<lb break="no" n="36"/>strādisatkaḷāpa-pravīṇa <g type="danda">.</g> raṇāṁgaṇa-dhurīṇa<supplied reason="omitted"><g type="danda">.</g></supplied>bhōgōpabhōga-saṁkraṁdana<g type="danda">.</g>Anūna-dāna-
-ravinaṁdana <g type="danda">.</g> Anēka-vidha-durgga-vaṛgga-tri
-		<lb break="no" n="37"/>ṇētra <g type="danda">.</g> Ādirāja-caritra <g type="danda">.</g> śaraṇāgata-vajra-paṁjara <g type="danda">.</g> maṁḍaḷikadi-kkuṁjara <g type="danda">.</g> kāvya-gīta-rasānubhava-vinōde <g type="danda">.</g> śrī-mūlasthāna-dēva
+		<lb break="no" n="32"/>nali-y-utirppa salīlan abhinava-bhōjaṁ <g type="ddanda">.</g> <g type="SpiraIL"/>svasti samadhigata paṁca-mahā-śabda-mahā-maṁḍaḷēśvara udāra-vīra-lakṣmīśvara sinda-ku
+		<lb break="no" n="33"/>ḷa-kamaḷa-māṛttaṁḍa maṁḍaḷika-kusuma-kōdaṁḍa sūkaḷa-hayārūḍa-prauḍa-śikṣāvica-kṣaṇaṁ pari-pūṛṇna-subha-la
+		<lb break="no" n="34"/>kṣaṇa kavi-gamakavādivāgmi-janasaṁstūyamāna guṇa-gaṇa-nidhāna śivāgama-samākarṇnana-
+kaṛṇnapūra sakaḷa-vidvaj-janādhā
+		<lb break="no" n="35"/>ra Apāra-parahitācāṛyya Asahāya-sauṛyya nānāyōpāyani-puṇa-cāṇakya Acaḷita-vākya śastra-śā
+		<lb break="no" n="36"/>strādisatkaḷāpa-pravīṇa raṇāṁgaṇa-dhurīṇa bhōgōpabhōga-saṁkraṁdana Anūna-dāna-
+ravinaṁdana Anēka-vidha-durgga-vaṛgga-tri
+		<lb break="no" n="37"/>ṇētra Ādirāja-caritra śaraṇāgata-vajra-paṁjara maṁḍaḷikadi-kkuṁjara kāvya-gīta-rasānubhava-vinōde <g type="danda">.</g> śrī-mūlasthāna-dēva
 		<lb break="no" n="38"/>labhda-vara-prasādādināmāvaḷī-virājitarappa śrīman-mahāmaṁḍaḷēśvaran peṛmmāḍi-dēvarasar kisukāḍeppattuṁ keḷavāḍi<unclear>mū</unclear>
-		<lb break="no" n="39"/>nūṟuṁ bāgaḍage Eṛppattu narayaṁgalu panneraḍum Iṁt<supplied reason="subaudible">e</supplied> Initaṟ Ubhaya-sāmyamaṁ duṣṭanigraha-viśiṣṭa-pratipāḷ Ene-y-iṁde<unclear>raṁ</unclear>
-		<lb break="no" n="40"/>barageya nelevīḍinoḷu sukha-saṁkathā-vinōdadiṁ rājyam geyyuttam Iṛddu purātanam Appa
+		<lb break="no" n="39"/>nūṟuṁ bāgaḍage Eṛppattu narayaṁgalu panneraḍum iṁt<supplied reason="subaudible">e</supplied>initaṟ ubhaya-sāmyamaṁ duṣṭanigraha-viśiṣṭa-pratipāḷ ene-y-iṁde<unclear>raṁ</unclear>
+		<lb break="no" n="40"/>barageya nelevīḍinoḷu sukha-saṁkathā-vinōdadiṁ rājyam geyyuttam iṛddu purātanam appa
 dhaṛmmaṁgaḷaṁ pratipāḷi<unclear>su</unclear>
 		<lb break="no" n="41"/>tta dhaṛmma-prasaṁgamādalli dhaṛmmaṁgaḷgella sāsanamāgalveṛkkumiṁdu kāruṇyaṁgeyyal <g type="ddanda">.</g>
 	</p>
 	
 	<lg n="4" met="kanda">
 		<l n="a">jaḷa-nidhi-parivṛta-vasudhāta<unclear>ḷa</unclear>
-			<lb break="no" n="42"/>doḷ bharatōṛ vvigesava-kuntaḷa-dēśaṁ tiḷakam Enisiṛdd<supplied reason="subaudible">a</supplied> Udadaṟoḷ phaḷa-bharitaṁ narayagalu karaṁ raṁjisuguṁ</l>
+			<lb break="no" n="42"/>doḷ bharatōṛ vvigesava-kuntaḷa-dēśaṁ tiḷakam enisiṛdd<supplied reason="subaudible">a</supplied> udadaṟoḷ phaḷa-bharitaṁ narayagalu karaṁ raṁjisuguṁ</l>
 	</lg>
 		
 	<lg n="5" met="vṛttaṁ">
-			<l n="a">Adu nānādivya-gandha-prasara-kusuma-vāṭaṁgaḷiṁ sāra-saukhya-pradaśītāṁbhas-taṭākaṁgaḷin ati-bahaḷārāma-śaṁḍaṁgaḷiṁ vyāpta<unclear>di</unclear></l>
-			<l n="b"><lb break="no" n="44"/>gaṁcad gandhaśāḷi prabhṛti sarasa-sasyaṁgaḷiṁ celvudetiṛppu pānthabhrātacētōhara-v-akhiḷa-jagat-bhavyam Atyaṁtasēvyaṁ <g type="ddanda">.</g></l>
+			<l n="a">adu nānādivya-gandha-prasara-kusuma-vāṭaṁgaḷiṁ sāra-saukhya-pradaśītāṁbhas-taṭākaṁgaḷin ati-bahaḷārāma-śaṁḍaṁgaḷiṁ vyāpta<unclear>di</unclear></l>
+			<l n="b"><lb break="no" n="44"/>gaṁcad gandhaśāḷi prabhṛti sarasa-sasyaṁgaḷiṁ celvudetiṛppu pānthabhrātacētōhara-v-akhiḷa-jagat-bhavyam atyaṁtasēvyaṁ <g type="ddanda">.</g></l>
 		</lg>	
    
-   	<p><lb break="yes" n="45"/>Aṁtoppuva narayaṁgall<supplied reason="subaudible">i</supplied> Eraḍuṁ baḷadoḷa gaṇya-puṇyam-uditōditamappa puṇya-puṛuṣariṁda dhaṛmma-prati<unclear>pā</unclear>
+   	<p><lb break="yes" n="45"/>aṁtoppuva narayaṁgall<supplied reason="subaudible">i</supplied>eraḍuṁ baḷadoḷa gaṇya-puṇyam uditōditamappa puṇya-puṛuṣariṁda dhaṛmma-prati<unclear>pā</unclear>
    	<lb break="no" n="46"/>ḷanāpararappa prabhu-gāvuṁḍugaḷiṁda-v-esadum alli taṁkaṇabhāgada-ūra naḍuvaṇa śrīmūlasthana-dēvara dēgulamaṁ mā<unclear>ḍi</unclear>
    	<lb break="no" n="47"/>si devar-aṁgabhōgakke sakavaṛṣa 872 deneya saumya saṁvatsarada puṣyamasa suddha puṇyami sōmavāra sōmagrahaṇamuttarāya<unclear>ṇa</unclear>
-   	<lb break="no" n="48"/>saṁkrāntiyaṁdu muṁḍeyaraśrīvantagāvuṁḍa[ṁ] nīlakaṇṭhapanḍitadēvaṛgg dhārāpūṛvvakaṁ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
+   	<lb break="no" n="48"/>saṁkrāntiyaṁdu muṁḍeyaraśrīvantagāvuṁḍa[ṁ] nīlakaṇṭhapanḍitadēvaṛgge dhārāpūṛvvakaṁ māḍi pārāmēśvaradatti saṛvvanamaśyavā<unclear>gi</unclear>
    	<lb break="yes" n="49"/>biṭṭa bhūmiya sthaḷa muduvoḷaladāriyiṁ baḍaga navayavaḷadiṁ teṁka vāsigāvuṁḍanabaḷediṁ mūḍa karabhūmiyiṁ paḍuva
    	<lb break="yes" n="50"/>saṛvvamānyemu <g type="danda">.</g> saṛvvar bbhādhaparihāramumāgiy ā-caṁddrāṛkkatārạmbaraṁ naḍavaṁtāgi biṭṭa mattaru mūvattāṟakke liṁgamuṁ tapōḍha<unclear>na</unclear>
    	<lb break="no" n="51"/>ruṁ kavileyuṁ berasu māḍi niṟisida kiṁnarigalla guḍḍe-nālku <g type="danda">.</g> muduvōḷala dāriyiṁteṁka bannirabammagāvuṇḍana baḷadiṁ
@@ -229,12 +229,23 @@ vāgiliṁ paḍuva mattaṁ rājavīthiyiṁ mūḍa-v-intīsthaḷadoḷage na
                <listApp><!-- one <app> for each apparatus entry -->
                	
                	<app loc="1"><!-- update the value of @loc.-->
-               		<lem>śivāya</lem>
-               		<rdg source="bib:LakshminarayaRao1952_01">śivāyaḥ<!-- update the @source value, fill in variant reading here --></rdg>
-               		<rdg source="bib:Fleet1875_05">śivā<unclear>ya</unclear></rdg>
-               		<lem></lem>
+               		<lem>śivā<choice><sic>yaḥ</sic><corr>ya</corr></choice></lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">śivāyaḥ</rdg>
+               		<rdg source="bib:Fleet1875_05">śivā<supplied reason="lost">ya</supplied></rdg>
                	</app>
-               	
+               	<app loc="3">
+               		<lem source="bib:Fleet1875_05"><choice><sic>ca</sic><corr>cā</corr></choice>ḷukya</lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">caḷakya</rdg>
+           
+               	</app>
+               	<app loc="3">
+               		<lem>sārava</lem>
+               		<note>Fleet's suggestion sāraugha</note>
+               	</app>
+               	<app loc="4">
+               		<lem source="bib:Fleet1875_05">cāḷukya</lem>
+               		<rdg source="bib:LakshminarayaRao1952_01">caḷakya</rdg>
+               	</app>	
                </listApp>
 </div>
     
