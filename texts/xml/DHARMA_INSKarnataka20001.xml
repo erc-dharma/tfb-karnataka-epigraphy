@@ -93,17 +93,17 @@
 	<text xml:space="preserve"> 
 <body>
          
-<div type="edition" xml:lang="kan-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+<div type="edition" xml:lang="kan-Latn" rendition="class:brāhmī maturity:83215"><!--check @rendition-->
 	
 	<!--@Samana: please check that I have correctly indicated, or not, long e and o in Kannaḍa words-->
 		
 	<pb n="1r"/>
 	
-	<ab xml:lang="san-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+	<ab xml:lang="san-Latn" rendition="class:brāhmī maturity:83215"><!--check @rendition-->
 		<g type="spiral"/> svasti
 	</ab>
 	
-	<p xml:lang="san-Latn" rendition="class:83217 maturity:83215"><!--check @rendition-->
+	<p xml:lang="san-Latn" rendition="class:brāhmī maturity:83215"><!--check @rendition-->
 		
 		<pb n="1v"/>
 		<lb n="1v1="/>vikramāditya-satyāśraya-śrī-pṛth<choice><sic>u</sic><corr>i</corr></choice>vī-vallabha-palla
