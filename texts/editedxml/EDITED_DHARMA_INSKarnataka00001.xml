@@ -113,9 +113,7 @@
 		<l n="d">samasta-bhuvanē-śivaḥ <g type="ddanda">.</g><g type="SpiraIL"/></l>
 		
 	</lg>
-	</div>
 
-	<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	<p>  
 		<lb n="3"/><milestone type="pagelike" unit="zone" n="B"/><g type="SpiraIL">.</g>śrī-rāmā-ramaṇīya sārava-śrī-nivāsa-v-amaḷa-yaśōvistāra<supplied reason="omitted">ṁ</supplied>samasta-bhuvan’-ādhāraṁ <choice><sic>ca</sic><corr>cā</corr></choice>ḷukya-vaṁśa v-esadudu dhareyoḷ<g type="danda">.</g> kramadiṁdaṁ pa<unclear>labar</unclear>
 		
@@ -187,12 +185,12 @@ ravinaṁdana <g type="danda">.</g>Anēka-vidha-durgga-vargga-tri
 		<lb break="no" n="41"/>tta-dharmma-prasaṁgamādalli dharmmaṁgaḷgella-sāsanamāgal-verkkum iṁdu kāruṇyaṁgeyyal <g type="ddanda">.</g>
 	</p>
 	
-	<lg n="5" met="kanda">
+	<lg n="6" met="kanda">
 		<l n="a">jaḷa-nidhi-parivr̥ta-vasudhā-ta<unclear>ḷa</unclear>
 			<lb break="no" n="42"/>doḷ bharatōrvvig-eseva-kuntaḷa-dēśaṁ tiḷakam enisirdd<supplied reason="subaudible">a</supplied> udadaṟoḷ phaḷa-bharitaṁ narayagalu karaṁ raṁjisuguṁ</l>
 	</lg>
 		
-	<lg n="6" met="vr̥ttaṁ">
+	<lg n="7" met="vr̥ttaṁ">
 			<l n="a">adu nānādivya-gandha-prasara-kusuma-vāṭaṁgaḷiṁ sāra-saukhya-pradaśītāṁbhas-taṭākaṁgaḷin ati-bahaḷārāma-śaṁḍaṁgaḷiṁ vyāpta<unclear>di</unclear></l>
 			<l n="b"><lb break="no" n="44"/>gaṁcad gandhaśāḷi prabhr̥ti sarasa-sasyaṁgaḷiṁ celvudetirppu pāntha-<choice><orig>b</orig><reg>v</reg></choice>rāta-cētōhara-v-akhiḷa-jagat-bhavyam atyaṁta-sēvyaṁ <g type="ddanda">.</g></l>
 		</lg>	
@@ -295,38 +293,38 @@ vāgiliṁ paḍuva mattaṁ rāja-vīthiyiṁ mūḍa-v-intī-sthaḷadoḷage 
                		<rdg source="bib:Fleet1875_05">kāḷī<supplied reason="lost">ya</supplied></rdg>
                	</app>
                	<app loc="29">
-               		<lem source="bib:Fleet1875_0"><supplied reason="lost"><g type="ddanda">.</g>amamā</supplied></lem>
+               		<lem source="bib:Fleet1875_05"><supplied reason="lost"><g type="ddanda">.</g>amamā</supplied></lem>
                		<rdg source="bib:LakshminarayaRao1952_01"><gap reason="lost" quantity="3" unit="character"/></rdg>
                	</app>
                	<app loc="32">
                		<lem>naliyutirppa<supplied reason="omitted">ṁ</supplied></lem>
                		<rdg source="bib:LakshminarayaRao1952_01">naliyutirppa</rdg>
-               		<rdg source="bib:Fleet1875_0">naliyut<supplied reason="omitted">t</supplied>irppa<supplied reason="omitted">ṁ</supplied></rdg>
+               		<rdg source="bib:Fleet1875_05">naliyut<supplied reason="omitted">t</supplied>irppa<supplied reason="omitted">ṁ</supplied></rdg>
                	</app>
                	<app loc="38">
                		<lem source="bib:LakshminarayaRao1952_01">keḷavāḍi</lem>
-               		<rdg source="bib:Fleet1875_0">k<choice><sic>e</sic><corr>ē</corr></choice>ḷavaḍi</rdg>
+               		<rdg source="bib:Fleet1875_05">k<choice><sic>e</sic><corr>ē</corr></choice>ḷavaḍi</rdg>
                		
                	</app>
                	<app loc="39">
                		<lem>E<choice><sic>rp</sic><corr>p</corr></choice>pattu<supplied reason="omitted">ṁ</supplied></lem>
                		<rdg source="bib:LakshminarayaRao1952_01">erppattu</rdg>
-               		<rdg source="bib:Fleet1875_0"><choice><sic>e</sic><corr>°ye</corr></choice>ppattuṁ</rdg>
+               		<rdg source="bib:Fleet1875_05"><choice><sic>e</sic><corr>°ye</corr></choice>ppattuṁ</rdg>
                	</app>
                	<app loc="44">
-               		<lem source="bib:Fleet1875_0"><choice><orig>b</orig><reg>v</reg></choice>rāta</lem>
+               		<lem source="bib:Fleet1875_05"><choice><orig>b</orig><reg>v</reg></choice>rāta</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">brata</rdg>
                	</app>
                	<app loc="45">
-               		<lem source="bib:Fleet1875_0">pur<supplied reason="omitted">u</supplied>ṣariṁda</lem>
+               		<lem source="bib:Fleet1875_05">pur<supplied reason="omitted">u</supplied>ṣariṁda</lem>
                			<rdg source="bib:LakshminarayaRao1952_01">purṣariṁda</rdg>
                	</app>
                	<app loc="47">
                		<lem source="bib:LakshminarayaRao1952_01">puṇyami</lem>
-               		<rdg source="bib:Fleet1875_0">puṇ<choice><sic>y</sic><corr>ṅi</corr></choice>am<choice><sic>i</sic><corr>e</corr></choice></rdg>
+               		<rdg source="bib:Fleet1875_05">puṇ<choice><sic>y</sic><corr>ṅi</corr></choice>am<choice><sic>i</sic><corr>e</corr></choice></rdg>
                	</app>
                	<app loc="48">
-               		<lem source="bib:Fleet1875_0">śrī<choice><sic>v</sic><corr>m</corr></choice>anta</lem>
+               		<lem source="bib:Fleet1875_05">śrī<choice><sic>v</sic><corr>m</corr></choice>anta</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">śrīvanta</rdg>
                	</app>
                	<app loc="48">
@@ -334,41 +332,41 @@ vāgiliṁ paḍuva mattaṁ rāja-vīthiyiṁ mūḍa-v-intī-sthaḷadoḷage 
                		<rdg source="bib:LakshminarayaRao1952_01">gāvuṁḍa<supplied reason="undefined">ṁ</supplied></rdg>
                	</app>
                	<app loc="48">
-               		<lem source="bib:Fleet1875_0">p<choice><sic>ā</sic><corr>a</corr></choice>ramēśvaradatti</lem>
+               		<lem source="bib:Fleet1875_05">p<choice><sic>ā</sic><corr>a</corr></choice>ramēśvaradatti</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">pāramēśvaradatti</rdg>
                	</app>
                	<app loc="49">
-               		<lem source="bib:Fleet1875_0">sthaḷa<supplied reason="omitted">ṁ</supplied></lem>
+               		<lem source="bib:Fleet1875_05">sthaḷa<supplied reason="omitted">ṁ</supplied></lem>
                		<rdg source="bib:LakshminarayaRao1952_01">staḷaṁ</rdg>
                	</app>
                	<app loc="50">
-               		<lem source="bib:Fleet1875_0">sarvvamānyemu<supplied reason="omitted">ṁ</supplied></lem>
+               		<lem source="bib:Fleet1875_05">sarvvamānyemu<supplied reason="omitted">ṁ</supplied></lem>
                		<rdg source="bib:LakshminarayaRao1952_01">sarvvamānyemu</rdg>
                	</app>
                	<app loc="52">
                		<lem>kā<choice><sic>ṭ</sic><corr>ḍ</corr></choice>ig<choice><sic>āṁ</sic><corr>ā</corr></choice>vuṇḍana</lem>
                		<rdg source="bib:LakshminarayaRao1952_01">kāṭigāṁvuṇḍana</rdg>
-               		<rdg source="bib:Fleet1875_0">kādig<choice><sic>āṁ</sic><corr>ā</corr></choice>vuṇḍana</rdg>
+               		<rdg source="bib:Fleet1875_05">kādig<choice><sic>āṁ</sic><corr>ā</corr></choice>vuṇḍana</rdg>
                	</app>
                	<app loc="53">
                		<lem source="bib:LakshminarayaRao1952_01">ciguravaḷadiṁ</lem>
-               		<rdg source="bib:Fleet1875_0"><choice><sic>c</sic><corr>b</corr></choice>iguravaladiṁ</rdg>
+               		<rdg source="bib:Fleet1875_05"><choice><sic>c</sic><corr>b</corr></choice>iguravaladiṁ</rdg>
                	</app>
                	<app loc="55">
                		<lem source="bib:LakshminarayaRao1952_01">sthaḷa</lem>
-               		<rdg source="bib:Fleet1875_0">sthaḷa<supplied reason="omitted">ṁ</supplied></rdg>
+               		<rdg source="bib:Fleet1875_05">sthaḷa<supplied reason="omitted">ṁ</supplied></rdg>
                	</app>
                	<app loc="55">
                		<lem source="bib:LakshminarayaRao1952_01">mogeyiṁ</lem>
-               		<rdg source="bib:Fleet1875_0">m<choice><sic>o</sic><corr>ō</corr></choice>geyiṁ</rdg>
+               		<rdg source="bib:Fleet1875_05">m<choice><sic>o</sic><corr>ō</corr></choice>geyiṁ</rdg>
                	</app>
                	<app loc="56">
                		<lem source="bib:LakshminarayaRao1952_01">mogeyiṁ</lem>
-               		<rdg source="bib:Fleet1875_0">m<choice><sic>o</sic><corr>ō</corr></choice>geyiṁ</rdg>
+               		<rdg source="bib:Fleet1875_05">m<choice><sic>o</sic><corr>ō</corr></choice>geyiṁ</rdg>
                	</app>
                	<app loc="56">
                		<lem source="bib:LakshminarayaRao1952_01">beḷgeṟeya</lem>
-               		<rdg source="bib:Fleet1875_0">b<choice><sic>e</sic><corr>ē</corr></choice>ḷgeṟeya</rdg>
+               		<rdg source="bib:Fleet1875_05">b<choice><sic>e</sic><corr>ē</corr></choice>ḷgeṟeya</rdg>
                	</app>
                	
                </listApp>
