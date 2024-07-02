@@ -91,16 +91,18 @@
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-	   <l n="ab">namas tasmai varāhāya līlayōddharatē mahīṃ</l>
-	   <l n="cd">khurāntara-gatō yasya mēruḥ kaṇakaṇāyatē <g type="ddanda">.</g></l></lg>
+	   <l n="ab">namas tasmai varāhāya līlaya carate mahīṃ</l>
+	   <l n="cd">khurāntara-gatō yasya mēruḥ khaṇa-khaṇāyatē <g type="ddanda">.</g></l></lg>
     <p>
         <lb n="1"/>svasti samasta-bhuvan’-āśrayaṁ śrī-pr̥ṭhvīvallabha-mahārājādhirāja-para
         <lb break="no" n="2"/>mēśaraṁ paramabhaṭṭarakaṁ satyāśraya-kuḷa-tiḷakaṁ cāḷuky’-ābharaṇaṁ śrīma<supplied reason="omitted">t</supplied>tribhuvanamalla-dēvara vijaya-rājyam uttarōttar’-abhivr̥ddhi-pravarddhamānam ā-ccaṁdr’-arkka-tāraṁ salutta
         <lb break="no" n="3"/>mire <g type="danda">.</g> tat-vāda-padmōpajīvi <g type="ddanda">.</g> ene negarddā śrī-bhuvanamallanarēśvaranoḷ pasāyitaṁ sakaḷa-jagaj-jana-nutar deceyabheṭṭara tanayaṁ vāśiṣṭa-kuḷa-viyattaḷa-candra <g type="ddanda">.</g> kuntaḷa vikramaṭaka <g type="danda">.</g>
        <lb break="no" n="4"/>ya santōśamegaṃḍagāyāyitunipaṃ niści<supplied reason="omitted">ṁ</supplied>ntamahāpasāyita nāntaribiḷavidayanaṁ mahādēvabudha <g type="ddanda">.</g>
-    </p>
-	   
+    </p>	   
 </div>
+    <div type="translation" resp="part:ants">
+        <p rend="stanza" n="1">Salutation to that Varāha, who with <supplied reason="subaudible">his</supplied> play moves the earth, the Meru mountain cracks under his hooves.</p>
+    </div>
  </body>
   </text>
 </TEI>
