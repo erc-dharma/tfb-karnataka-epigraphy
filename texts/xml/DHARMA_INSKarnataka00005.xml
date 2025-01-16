@@ -86,4 +86,35 @@
     <text xml:space="preserve">
       
 <body>
+<div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+   	<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/>
+         </p>
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <l n="a">namas-tuṁga-śiraḥ-cuṁbi</l>
+        <l n="b">candra-cāmara-cāravē</l>
+        <l n="c">traiḷōkya-nagarāṁbha</l>
+        <l n="d">mūla-staṁbhāya śaṁbhavē</l>
+    </lg>
+    <lg n="2" met="sragdharā" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <l n="a">śrīmad-gaṁga-taraṁgō</l>
+        <l n="b">ccaḷita-jaḷa-kaṇa</l>
+        <l n="c">śrēṇi-puḥpāḷi-śōbhā-dhāmaṁ</l>    
+  </lg> 
+    <p>
+        <lb n="2"/>caṁcaj-jaṭā-pallavam amrita-karōdyat phaḷaṁ bāhu-śākhā-rāmaṁ gaurī-latā
+       
+         <lb break="no" n="3"/> liṁgitaṁ amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g> śrīkanṭhaṁ ramadēvaṁg anuppama 
+       
+        <lb break="no" n="4"/>maimaṁg īge saṁpattan eduṁnān ā nākaukānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇāṁśu-jāḷa-byākīrnnāghri-dvayāḷaṁkritan amara-varaṁ śitaśailē dra
+        <lb break="no" n="5"/>kanyāḷōkāṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-vritaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g>    
+    </p>
+    <lg n="2" met="mahāsragdharā" xml:lang="kan-Latn">
+        <l n="a"></l>
+        </lg>
+</div>
+    
+    </body>
+        </text>
+</TEI>
     
