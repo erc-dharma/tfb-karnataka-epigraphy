@@ -102,7 +102,7 @@
         <l n="c">śrēṇi-puḥpāḷi-śōbhā-dhāmaṁ</l>    
   </lg> 
     <p>
-        <lb n="2"/>caṁcaj-jaṭā-pallavam amrita-karōdyat phaḷaṁ bāhu-śākhā-rāmaṁ gaurī-latā
+        <lb n="2"/>caṁcaj-jaṭā-pallavam <choice><orig></orig>amr</choice>ita-karōdyat phaḷaṁ bāhu-śākhā-rāmaṁ gaurī-latā
        
          <lb break="no" n="3"/> liṁgitaṁ amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g> śrīkanṭhaṁ ramadēvaṁg anuppama 
        
@@ -610,7 +610,11 @@ A very Indra to the mountains that are hostile kings; a very Agastya to the ocea
         <p n="102">Hail! Malidēvarāya <supplied reason="subaudible">who belonged to the race of</supplied> Mukkaṇṇa-Kādamba who was born from the holy Hara <supplied reason="explanation">Śiva</supplied> and the Earth; the supreme lord of Banavāsi, the best of towns; the worshipper of the water-lilies that are the sacred and holy feet of the holy god Madhukanātha,<gap reason="illegible"></gap> of Nāgarakhaṇḍe, gave <gap reason="illegible"></gap>
         </p>
     </div>
-    
+    <div type="apparatus">
+        <app loc="">
+            <lem></lem>
+        </app>
+    </div>
     
     </body>
         </text>
