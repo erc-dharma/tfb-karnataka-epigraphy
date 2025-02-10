@@ -87,4 +87,125 @@
       
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
+    <p>
+    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha pauvurṇṇami<note source="bib:Fleet1899">read paurṇṇami</note> sōmavā
+        <lb break="no" n="2"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire <supplied reason="omitted"><g type="ddanda">.</g></supplied> Alliya kaṁpanaṁ nāgarakha<unclear>ṁ</unclear>
+        <lb n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya bāḍa Abbalūra vistarav-enteṁdaḍe <g type="ddanda">.</g> giḷi-kuḷadiṁdi pi<note>I don't read pi</note>kāvaḷiīn<note source="bib:Fleet1899">read āvaḷiyin</note> oppuva naṁdanadiṁ viḷāsadiṁ 
+        <lb n="4"/><unclear>be</unclear>l<note>I read beḷasida</note>asida gaṁdha-śaḷiī<note source="bib:Fleet1899">read sāliyi for śaḷiyiṁ</note> śivālayadōḷiī<note>read ōḷiyi for ōḷiyiṁ</note> bhāḷanētra-pūjita-g<choice><orig>r</orig><reg>ṛ</reg></choice>ihadiṁ  baḷādhika-kaḷāvida-vīra-samūhadiṁdhi
+        <lb break="no" n="5"/><unclear>ḷ</unclear>ā-taḷad oḷag abbalūr ativicitrataraṁ nijam āgal oppuguṁ <g type="ddanda">.</g> Antu ś<unclear>ubha</unclear>-vettabbalūra bīra-gauvuḍana<note source="bib:Fleet1899">read gauḍana</note> guṇa
+        <lb n="6"/><unclear>ke</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g>
+         </p>
     
+    <lg n="1" met="campakamāla" xml:lang="kan-Latn">
+        <l n="a">parahitan eṁdu dāna-vi<choice><orig>d</orig><reg>dh</reg></choice>an eṁdu guṇ<unclear>āṁ</unclear> bhudhiyeṁdu līleī<note source="bib:Fleet1899">read līleyiṁ</note> <choice><orig>ka</orig><reg>kha</reg></choice></l>
+        <l n="b">rakara-tējanaṁ guru-padāṁbu<lb n="7"/>ja-bhaktanan entu no<choice><orig>p</orig><reg>r</reg></choice>paḍa pu</l> 
+        <l n="c">rutara-dhairyyanaṁ sakaḷa-vaṁdijanāśrya kaḷpav<choice><orig>r</orig><reg>ṛ</reg></choice>ikṣanaṁ va</l>
+        <l n="d">ra-vibudhōktaraṁ mudado baṁ<lb n="8"/><unclear>ṇ</unclear>ṇisuguṁ<note source="bib:Fleet1899">read baṇṇisuguṁ</note> sale bīra-gauvuḍanaṁ</l>
+    </lg>
+
+    </div>
+    <div type="apparatus">
+        <listApp>
+       
+            <app loc="1">
+                <lem source="bib:Fleet1899">pra<choice><orig>s</orig><reg>ś</reg></choice>asti</lem>
+            </app>
+                
+        <app loc="1">
+            <lem source="bib:Fleet1899">ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha</lem>
+        </app>
+        
+        <app loc="2">
+            <lem source="bib:Fleet1899">nāgarakha<supplied reason="undefined">ṁ</supplied></lem>
+        </app>
+        
+        <app loc="3">
+            <lem source="bib:Fleet1899">ep<supplied reason="omitted">p</supplied>attaṟa</lem>
+        </app>
+        
+       <app loc="3">
+           <lem>pikāvaḷiīn</lem>
+           <note>I don't read pi</note>
+           <note source="bib:Fleet1899">read āvaḷiyin</note>
+       </app>
+        
+        <app loc="4">
+            <lem source="bib:Fleet1899"><unclear>be</unclear>lasida</lem>
+            <note>I read beḷasida</note>
+        </app>
+        
+        <app loc="4">
+            <lem source="bib:Fleet1899">śaḷiī</lem>
+            <note source="bib:Fleet1899">read sāliyi for śaḷiyiṁ</note> 
+        </app>
+        
+        <app loc="4">
+            <lem source="bib:Fleet1899">°ōḷiī</lem>
+            <note>read ōḷiyi for ōḷiyiṁ</note>
+        </app>
+        
+        <app loc="4">           
+            <lem source="bib:Fleet1899">g<choice><orig>r</orig><reg>ṛ</reg></choice>ihadiṁ</lem>
+        </app>
+        
+        <app loc="5">
+            <lem source="bib:Fleet1899">ś<unclear>ubha</unclear></lem>
+        </app>
+        
+        <app loc="5">
+            <lem source="bib:Fleet1899">gauvuḍana</lem>
+            <note source="bib:Fleet1899">read gauḍana</note>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1899"><unclear>ke</unclear>thana°</lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1899">dāna-vi<choice><orig>d</orig><reg>dh</reg></choice>an</lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1899">guṇ<unclear>āṁ</unclear></lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1899">līleī<note source="bib:Fleet1899">read līleyiṁ</note></lem>
+        </app>
+        
+        <app loc="6">
+            <lem source="bib:Fleet1899"><choice><orig>ka</orig><reg>kha</reg></choice>rakara</lem>
+        </app>
+        
+        <app loc="7">
+            <lem source="bib:Fleet1899">no<choice><orig>p</orig><reg>r</reg></choice>paḍa pu</lem>
+        </app>
+        <app loc="7">    
+            <lem source="bib:Fleet1899">kaḷpav<choice><orig>r</orig><reg>ṛ</reg></choice>ikṣanaṁ</lem>
+        </app>
+        
+        <app loc="8">
+            <lem source="bib:Fleet1899"><unclear>ṇ</unclear>ṇisuguṁ</lem>
+            <note source="bib:Fleet1899">read baṇṇisuguṁ</note>
+        </app>
+    
+</listApp>    
+    </div>
+    
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Fleet1899"/></bibl> (EI 5-E).
+	</p>
+        <bibl n="Fl">
+			<ptr target="bib:Fleet1899"/>
+			<citedRange unit="page">263-264</citedRange>
+			<citedRange unit="item">F</citedRange>
+		</bibl>
+    </div>
+    
+        
+    </body>
+        </text>
+</TEI>
+    
+  
