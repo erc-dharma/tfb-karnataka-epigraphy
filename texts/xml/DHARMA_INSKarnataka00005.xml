@@ -117,12 +117,12 @@
       bhū-ramā-maṇḍana-vipuḷa-kaṭīdēśa-mudraṁ samudraṁ <g type="ddanda"></g></l>
     </lg>
     <p>antanēka-jaḷacakra-nivā<add place="above">sa</add>muṁ samuttuṁga-laharī-nivāsamum enisi sogayiva la
-     <lb break="no" n="8"/>vaṇa-samudradiṁ pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda jaṃbūdvīpadi teṁkalu niḷa-niśada-himavanta-prvvataṁgaḷoḷavalli <g type="ddanda">.</g></p>
+     <lb break="no" n="8"/>vaṇa-samudradiṁ pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda jaṃbūdvīpadi teṁkalu niḷa-niśa<choice><orig>d</orig><reg>dh</reg></choice>a-himavanta-prvvataṁgaḷoḷavalli <g type="ddanda">.</g></p>
     
     <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn">
     <l n="a">Eseguṁ pūrvvāparāṁbhōnidhi-miti<lb break="no" n="9"/>vitatāyāmadiṁ siddha-kanyā</l>
     <l n="b">visarānaṁgōru-kēḷi-śrama-śama-mahimā-kaṁdaraṁ svardhunī-vāḥ</l>
-    <l n="c">prasarōpakṣuṇṇa-nānā-śaka-ni<lb break="no" n="10"/>kara-gaḷad gaṇḍaśaiḷ-āḷi-māḷa</l>     
+    <l n="c">prasarōpakṣuṇṇa-nānā-naga-ni<lb break="no" n="10"/>kara-gaḷad gaṇḍaśaiḷ-āḷi-māḷa</l>     
     <l n="d">visaraṁ prasphara-śitadyuti-ruci-nicaya-bhrājitaṁ śitaśailaṁ <g type="ddanda">.</g></l>
     </lg>
    
@@ -133,9 +133,9 @@
    
     <lg n="5" met="kanda" xml:lang="kan-Latn">
         <l n="a">sogayipud-alandey-eṁbudu</l>
-        <l n="b">nagaraṁ celuv-esedu nādevy-ama<lb break="no" n="12"/>rāvati</l> 
+        <l n="b">nagaraṁ celuv-esedu nāde<choice><orig>v</orig><reg>y</reg></choice>-ama<lb break="no" n="12"/>rāvati</l> 
         <l n="c">gaṁ migil-enisi vibudha-jana</l>
-        <l n="d">diṁd agaṇita-dhana-dhānya-jaḷa-samri-ddhiyin eṁduṃ</l>
+        <l n="d">diṁd agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ</l>
     </lg>
    
     <p>
@@ -145,9 +145,9 @@
     
     <lg n="6" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyānanaṁ</l>
-        <l n="b">dadiṁ pūrnna-tatāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sārasōn</l>
-        <l n="c">mada-bhriṁgī-pika-kōka-kēki-śuka-saṁghānīka-śakunta-nā</l>
-        <l n="d">dadin ettaṁ gaṅikā-vinōda-krita-vīṇā-nādadiṁd eppuguṁ <g type="ddanda">.</g></l>
+        <l n="b">dadiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-tatāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sārasōn</l>
+        <l n="c">mada-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śakunta-nā</l>
+        <l n="d">dadin ettaṁ gaṅikā-vinōda-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadiṁd eppuguṁ <note source="bib:Fleet1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
     </lg>
     <p>
         ant-aparimīta-kē
@@ -585,6 +585,10 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
               <lem source="bib:Fleet1899">dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan</lem>
           </app> 
             
+            <app loc="4">
+                <lem source="bib:Fleet1899">eduṁnān</lem>
+                <note source="bib:Fleet1899">to saṁpattan enduṁ</note>
+            </app>
             <app loc="5">
                 <lem source="bib:Fleet1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ</lem>  
             </app>
@@ -597,9 +601,53 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
                 <lem source="bib:Fleet1899">sutti<choice><orig>pp</orig><reg>rpp</reg></choice>ud</lem>
             </app>
             
-            <app loc="7">
-                <lem></lem>
+           <app loc="8">
+               <lem source="bib:Fleet1899">pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda</lem>
+           </app>
+            
+            <app loc="8">
+                <lem source="bib:Fleet1899">niśa<choice><orig>d</orig><reg>dh</reg></choice>a</lem>
             </app>
+            
+            <app loc="9">
+                <lem source="bib:Fleet1899">naga</lem>
+                <note>I read śaka</note>
+            </app>
+            
+            
+            
+            <app loc="10">
+                <lem source="bib:Fleet1899">kara</lem>
+                <note>I read kata</note>
+            </app>
+            
+            <app loc="11">
+                <lem source="bib:Fleet1899">nāde<choice><orig>v</orig><reg>y</reg></choice></lem>
+            </app>
+            
+            <app loc="12">
+                <lem source="bib:Fleet1899">sam<choice><orig>r</orig><reg>ṛ</reg></choice>iddhitin</lem>
+            </app>
+           
+            <app loc="13">
+                <lem source="bib:Fleet1899">pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a</lem>
+            </app>
+            
+            <app loc="14">
+                <lem source="bib:Fleet1899">bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī</lem>
+            </app>
+            
+            <app loc="14">
+                <lem source="bib:Fleet1899">k<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
+            </app>
+            
+                <app loc="14">
+                <lem source="bib:Fleet1899">eppuguṁ</lem>
+                <note source="bib:Fleet1899">to read oppuguṁ</note>
+            </app>
+            
+           
+           
         </listApp> 
       </div>
     
