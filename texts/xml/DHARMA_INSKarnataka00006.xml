@@ -93,10 +93,30 @@
          </p>
      </div>
      
-        <div type="translation" resp="bib:Fleet1899">
+        <div type="translation" resp="bib:Fleet1899F">
             <p n="1-2">This is the place representing how, at <supplied reason="subaudible">the temple of</supplied> the illustration god Brahmēśvara laid a wager, at the cost of the Jina of the shrine, of cutting off his head and received it back again. When Saṅka-gāvuṇḍa would not let him destroy the shrine of the Jina arraying his men and horses against him, Ēkāntada Rāmayya fought and vanquished them. He smashed the Jina and installed the <foreign>liṅga</foreign> <supplied reason="subaudible">in its place</supplied>.
             </p>
         </div> 
+     
+     <div type="bibliography">
+         <p>
+             First edited in <bibl><ptr target="bib:Elliot1825-1832"/></bibl>
+         </p>
+	
+	<p>
+		     Second edited in <bibl><ptr target="bib:Fleet1899F"/></bibl> (EI 5-F).
+	</p>
+         
+    <bibl n="Fl">
+			<ptr target="bib:Fleet1899F"/>
+			<citedRange unit="page">260-261</citedRange>
+			<citedRange unit="item">F</citedRange>
+		</bibl>
+       <bibl n="W.E.">
+                            <ptr target="bib:Elliot1825-1832"/>
+                            
+       </bibl>
+    </div>
  </body>
     </text>
 </TEI>
