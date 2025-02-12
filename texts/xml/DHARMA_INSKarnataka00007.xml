@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ablūr, Brahmēśvara temple, A.D.1219 </title>
+                <title>Ablūr, Brahmeśvara temple, A.D.1219 </title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ants">
@@ -101,9 +101,39 @@
         <l n="b">rakara-tējanaṁ guru-padāṁbu<lb n="7"/>ja-bhaktanan entu no<choice><orig>p</orig><reg>r</reg></choice>paḍa pu</l> 
         <l n="c">rutara-dhairyyanaṁ sakaḷa-vaṁdijanāśrya kaḷpav<choice><orig>r</orig><reg>ṛ</reg></choice>ikṣanaṁ va</l>
         <l n="d">ra-vibudhōktaraṁ mudado baṁ<lb n="8"/><unclear>ṇ</unclear>ṇisuguṁ<note source="bib:Fleet1899">read baṇṇisuguṁ</note> sale bīra-gauvuḍanaṁ</l>
+       
     </lg>
-
+    
+    <p>
+        
+        Antā bīragauvuḍa sukhadiṁdavire <choice><orig>bho</orig><reg>bo</reg></choice>ḷagavatti-īśvaradēva<unclear>ṁ</unclear> hala
+        <lb break="no" n="9"/>baru muṁneya kūḍi sātaḷige-nā<choice><orig>dha</orig><reg>ḍa</reg></choice> nāyakara kūḍi-koṁḍu hattu-śasira āḷu sāīra<note source="bib:Fleet1899">read sāyira</note> kudure vera 
+        <lb break="no" n="10"/>si naḍadu baṁd Abbalalūran iḻidu hiṇ<unclear>ḍ</unclear>u-seṟe-tuṟavaṁ koṁballiyā seṟe-tuṟava̱m jiṁdikki bira-gauvuḍana besa-varaṁ
+        </p>
+    <p>
+        <lb n="11"/><milestone type="pagelike" unit="zone" n="A"/>baḍagi-kētōjana makkaḷu macaṁ gōmaṁgaḷu māḍida vīraveṁnt<note source="bib:Fleet1899">read °ent</note>e<unclear>ṃ</unclear>daḍe <g type="ddanda">.</g>
+    </p>
+ <lg n="2" met="kanda" xml:lang="kan-Latn">
+     <l n="a">ghattisi nūṁkida vājiya</l>
+     <l n="b">thaṭṭaṁ kaṭṭ<supplied reason="omitted">ā</supplied>ḷu baḍagi<lb n="12"/>mācaṁ tāgalu</l>
+     <l n="c">niṭṭisi gōmanu yise paḍal</l>
+     <l n="d">iṭṭudu tatu-kṣaṇadi vaīri<note source="bib:Fleet1899">read vairi</note> balav-enit-anituṁ <g type="ddanda">.</g></l>
+     </lg>
+  
+ <p>
+     māttēno pēḷal iṁ<lb break="no" n="13"/>tapamālitaṁ noḍal ati-bhayaṁkaraṁ enal iṁtaṁar-balamuman ovade kētōjana maga māca pokku tividaṁ pala<lb n="14"/>raṁ <g type="ddanda">.</g>
+ </p>
+    <p>
+        sodarar ibbava<supplied reason="omitted">ra</supplied> vīraṁ mēdinigaccariyidenisi dhuradoḷu palaraṁ kādi tave koṁdu svargga<lb n="15"/>kk ōdar jjasav eseye macanuṁm ā gōmanuṁ <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="3" met="anuṣṭubh" xml:lang="kan-Latn">
+        <l n="a">jitēna labhyatē lakṣmī</l>
+        <l n="b">m<choice><orig>r</orig><reg>ṛ</reg></choice>itēn ā<lb n="16"/><note>This last line was ovelooked by Fleet's copyist. This is my transcription reading directly from the stone</note></l>
+    </lg>
     </div>
+    
+    
     <div type="apparatus">
         <listApp>
        
@@ -170,7 +200,8 @@
         </app>
         
         <app loc="6">
-            <lem source="bib:Fleet1899">līleī<note source="bib:Fleet1899">read līleyiṁ</note></lem>
+            <lem source="bib:Fleet1899">līleī</lem>
+            <note source="bib:Fleet1899">read līleyiṁ</note>
         </app>
         
         <app loc="6">
@@ -188,19 +219,78 @@
             <lem source="bib:Fleet1899"><unclear>ṇ</unclear>ṇisuguṁ</lem>
             <note source="bib:Fleet1899">read baṇṇisuguṁ</note>
         </app>
+       
+        <app loc="8">
+                <lem source="bib:Fleet1899"><choice><orig>bho</orig><reg>bo</reg></choice>ḷagavatti</lem>
+            </app>
+            
+        <app loc="9">
+            <lem source="bib:Fleet1899">nā<choice><orig>dha</orig><reg>ḍa</reg></choice></lem>
+        </app>
+        
+        <app loc="9">
+            <lem source="bib:Fleet1899">sāīra</lem>
+            <note source="bib:Fleet1899">read sāyira</note>
+        </app>
+        
+        <app loc="10">
+            <lem source="bib:Fleet1899">hiṇ<unclear>ḍ</unclear>u</lem>
+        </app>
+            
+        <app loc="11">
+            <lem>eṁnte<unclear>ṃ</unclear>daḍe</lem>
+            <note source="bib:Fleet1899">read °ent</note>
+        </app>
+        
+        <app loc="11">
+            <lem source="bib:Fleet1899">kaṭṭ<supplied reason="omitted">ā</supplied>ḷu</lem>
+        </app>
+            
+        <app loc="13">
+            <lem source="bib:Fleet1899">ibbava<supplied reason="omitted">ra</supplied></lem>
+        </app>
+        </listApp>    
+    </div>
     
-</listApp>    
+    
+    <div type="translation" source="bib:Fleet1899">
+       <p n="1-3">Om! Hail! On MOnday the full-moon day of the month <foreign>Āṣāḍha</foreign> of the <foreign>Pramāthin saṁvatsara</foreign> of the years of the glorious Siṁhaṇadēva, who was possessed of all eulogistic titiles; while the powerful and brave Siṅgaṇadēvarasa was governing the Banavase twelve-thousand,-to descrive the excellence of Abbalūru, a town that was included in the Nāgarakhaṇḍa seventy which was <foreign>kaṁpaṇa</foreign> of those parts:-
+      </p> 
+       
+       <p n="3-5">Abbalūru is truly charming on the surface of the earth, in a ost exceedingly beautiful manner, by reason of a park which is pleasing with flights of parrots and numbers of cuckoos, by the sweet-smelling rice that grows luxuriantly, by a number of temples if the god Śiva, by a shrine, to which <supplied reason="subaudible">much</supplied> adoration is paid, of that same god in the form of him who carries a third eye in his forehead, and by a multitude of brave men who excel in strenght and are skilled in arts and sciences.   
+       </p>
+        
+        <p n="5-8">To give a description of the merits of Bīragauḍa of the Abbalūru that is thus charming:-saying that he is devoted to the welfare of others, that he bestows gifts, and that he is a very ocean of virtue, the multitude of ood and wise people joyfully praise Bīragauḍa, who is in mien as radiant as the hot-rayed sun,- who is in every way devoted to the water-lilies thata are the feet of spiritual preceptors,- who is possessed of the the very greatest resoluteness,-and who is a very tree of paradise in giving support to all people who proclaim his praises.</p>
+        
+        <p n="8-11">While that same Bīragauḍa was continuing in happiness:-Beḷagavatti-Īśvaradēva, with various chieftains and with the <foreign>Nāyakas</foreign> of the Sātaḷige district, together with ten thousand men and thousand horses, came along, and descended in Abbalūru, and seized the herd of penned-up cows; and then, to describe the bravery displayed by Māca and Gōma, sons of Baḍagi-Kētōja, in rescuing the penned cows at the command of Bīragauḍa:-</p>
+        
+        <p n="11-15">While the valian Baḍagi-Māca, having rained blows on the array of horses that he drove away, was still attacking them, and while Gōma, having stared fiercely at them, was shooting arrows, the whole of the hostile force immediately fell down in all directions. What words can I use?; if you consider, it surpassed all comparison!: meeting them in the most terrifying manner, Māca, the son of Kētōja, plunged recklessly into the hostile force and pierced many of them. In such a way that the bravery of these two brothers was a wonder, and went with great fame to heaven.</p>
+        
+        <p n="15">He who conquers obtains fortune; and even one dies </p>
     </div>
     
       <div type="bibliography">
-        <p>
-		First edited in <bibl><ptr target="bib:Fleet1899"/></bibl> (EI 5-E).
+         <p>
+             First edited in <bibl><ptr target="bib:Elliot1825-1832"/></bibl>
+         </p>
+	
+	<p>
+		Second edited in <bibl><ptr target="bib:Fleet1899"/></bibl> (EI 5-G).
 	</p>
+	
+	<p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the stone in situ.
+	</p>
+          
+          
         <bibl n="Fl">
 			<ptr target="bib:Fleet1899"/>
 			<citedRange unit="page">263-264</citedRange>
-			<citedRange unit="item">F</citedRange>
+			<citedRange unit="item">G</citedRange>
 		</bibl>
+       <bibl n="W.E.">
+                            <ptr target="bib:Elliot1825-1832"/>
+                            
+       </bibl>
     </div>
     
         
