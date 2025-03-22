@@ -283,12 +283,16 @@
           
           
         <bibl n="Fl">
-			<ptr target="bib:Fleet1899_G"/>
+			<ptr target="bib:Fleet1898-1899_02"/>
+                           <citedRange unit="section">G</citedRange>
 			<citedRange unit="page">263-264</citedRange>
-			<citedRange unit="item">G</citedRange>
+			
 		</bibl>
-       <bibl n="W.E.">
-                            <ptr target="bib:Elliot1825-1832"/>
+       <bibl n="El">
+                            <ptr target="bib:Elliot1825-1832_01"/>
+                            <citedRange unit="volume">II</citedRange>
+			<citedRange unit="page">???-???</citedRange>
+			
                             
        </bibl>
     </div>
