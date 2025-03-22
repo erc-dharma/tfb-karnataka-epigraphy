@@ -272,20 +272,18 @@
       <div type="bibliography">
          <p>First edited in <bibl><ptr target="bib:Elliot1825-1832_01"/></bibl>; edited again in <bibl><ptr target="bib:Fleet1898-1899_02"/></bibl>. Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on autopsy of the stone in situ.</p>
           
-          
+         <listBibl> 
         <bibl n="Fl">
 			<ptr target="bib:Fleet1898-1899_02"/>
                            <citedRange unit="section">G</citedRange>
 			<citedRange unit="page">263-264</citedRange>
-			
 		</bibl>
        <bibl n="El">
                             <ptr target="bib:Elliot1825-1832_01"/>
                             <citedRange unit="volume">II</citedRange>
-			<citedRange unit="page">???-???</citedRange>
-			
-                            
+			<citedRange unit="page">???-???</citedRange>               
        </bibl>
+             </listBibl>
     </div>
     
         
