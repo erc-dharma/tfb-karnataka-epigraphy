@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ablūr, Brahmeśvara temple, A.D.1219 </title>
+                <title>Ablūr, Brahmeśvara temple, A.D.1219</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ants">
@@ -87,13 +87,13 @@
       
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
-    <p>
-    <lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha pauvurṇṇami<note source="bib:Fleet1898-1899_02">read paurṇṇami</note> sōmavā
-        <lb break="no" n="2"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire <supplied reason="omitted"><g type="ddanda">.</g></supplied> Alliya kaṁpanaṁ nāgarakha<unclear>ṁ</unclear>
-        <lb n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya bāḍa Abbalūra vistarav-enteṁdaḍe <g type="ddanda">.</g> giḷi-kuḷadiṁdi pi<note>I don't read pi</note>kāvaḷiīn<note source="bib:Fleet1898-1899_02">read āvaḷiyin</note> oppuva naṁdanadiṁ viḷāsadiṁ 
-        <lb n="4"/><unclear>be</unclear>l<note>I read beḷasida</note>asida gaṁdha-śaḷiī<note source="bib:Fleet1898-1899_02">read sāliyi for śaḷiyiṁ</note> śivālayadōḷiī<note>read ōḷiyi for ōḷiyiṁ</note> bhāḷanētra-pūjita-g<choice><orig>r</orig><reg>ṛ</reg></choice>ihadiṁ  baḷādhika-kaḷāvida-vīra-samūhadiṁdhi
-        <lb break="no" n="5"/><unclear>ḷ</unclear>ā-taḷad oḷag abbalūr ativicitrataraṁ nijam āgal oppuguṁ <g type="ddanda">.</g> Antu ś<unclear>ubha</unclear>-vettabbalūra bīra-gauvuḍana<note source="bib:Fleet1898-1899_02">read gauḍana</note> guṇa
-        <lb n="6"/><unclear>ke</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g>
+    
+<p><milestone type="pagelike" unit="zone" n="A"/><lb 
+n="1"/><g type="SpiralL"/>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha pauvurṇṇami sōmavā<lb 
+n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="subaudible">.</supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied> <lb 
+n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya bāḍa Abbalūra vistarav-enteṁdaḍe<g type="ddanda">.</g> giḷi-kuḷa<choice><sic>dh</sic><corr>d</corr></choice>iṁ pikāvaḷi<choice><orig>Ī</orig><reg>yi</reg></choice>n oppuva naṁdanadiṁ viḷāsadiṁ <lb 
+n="4"/><unclear cert="low">be</unclear>ḷasida gaṁdha-śaḷiī<note source="bib:Fleet1898-1899_02">read sāliyi for śaḷiyiṁ</note> śivālayadōḷiī<note>read ōḷiyi for ōḷiyiṁ</note> bhāḷanētra-pūjita-g<choice><orig>ri</orig><reg>ṛ</reg></choice>hadiṁ  baḷādhika-kaḷāvida-vīra-samūhadiṁdhi<lb break="no" n="5"/><unclear>ḷ</unclear>ā-taḷad oḷag abbalūr ativicitrataraṁ nijam āgal oppuguṁ <g type="ddanda">.</g> Antu ś<unclear>ubha</unclear>-vettabbalūra bīra-gauvuḍana guṇa<lb 
+n="6"/><!--CHECKED up to here, make the iī corrections before this point!--><unclear>ke</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g>
          </p>
     
     <lg n="1" met="campakamāla" xml:lang="kan-Latn">
@@ -136,52 +136,25 @@
     
     <div type="apparatus">
         <listApp>
-       
-            <app loc="1">
-                <lem source="bib:Fleet1898-1899_02">pra<choice><orig>s</orig><reg>ś</reg></choice>asti</lem>
-            </app>
-                
         <app loc="1">
-            <lem source="bib:Fleet1898-1899_02">ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha</lem>
+            <lem>pauvurṇṇami</lem>
+            <rdg source="bib:Fleet1898-1899_02">p<choice><sic>auvu</sic><corr>au</corr></choice>rṇṇami</rdg>
         </app>
-        
-        <app loc="2">
-            <lem source="bib:Fleet1898-1899_02">nāgarakha<supplied reason="undefined">ṁ</supplied></lem>
-        </app>
-        
-        <app loc="3">
-            <lem source="bib:Fleet1898-1899_02">ep<supplied reason="omitted">p</supplied>attaṟa</lem>
-        </app>
-        
-       <app loc="3">
-           <lem>pikāvaḷiīn</lem>
-           <note>I don't read pi</note>
-           <note source="bib:Fleet1899">read āvaḷiyin</note>
-       </app>
-        
         <app loc="4">
-            <lem source="bib:Fleet1898-1899_02"><unclear>be</unclear>lasida</lem>
-            <note>I read beḷasida</note>
+            <lem"><unclear cert="low">be</unclear>ḷasida</lem>
+            <rdg source="bib:Fleet1899">belasida</rdg> 
         </app>
-        
-        <app loc="4">
-            <lem source="bib:Fleet1898-1899_02">śaḷiī</lem>
-            <note source="bib:Fleet1899">read sāliyi for śaḷiyiṁ</note> 
-        </app>
-        
         <app loc="4">
             <lem source="bib:Fleet1898-1899_02">°ōḷiī</lem>
             <note>read ōḷiyi for ōḷiyiṁ</note>
         </app>
-        
-        <app loc="4">           
-            <lem source="bib:Fleet1898-1899_02">g<choice><orig>r</orig><reg>ṛ</reg></choice>ihadiṁ</lem>
+        <app loc="5" source="bib:Fleet1898-1899_02">           
+            <lem>-gauvuḍana</lem>
+            <rdg>-g<choice><sic>auvu</sic><corr>au</corr></choice>ḍana</rdg>
         </app>
-        
         <app loc="5">
             <lem source="bib:Fleet1898-1899_02">ś<unclear>ubha</unclear></lem>
         </app>
-        
         <app loc="5">
             <lem source="bib:Fleet1898-1899_02">gauvuḍana</lem>
             <note source="bib:Fleet1899">read gauḍana</note>
