@@ -97,17 +97,17 @@
         <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē</l>
     </lg>
     <lg n="2" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-        <l n="a">śrīmad-gaṁga-taraṁgō</l>
-        <l n="b">ccaḷita-jaḷa-kaṇa</l>
-        <l n="c">śrēṇi-puḥpāḷi-śōbhā-dhāmaṁ</l>    
-  </lg> 
-    <p>
-        <lb n="2"/>caṁcaj-jaṭā-pallavam am<choice><orig>r</orig><reg>ṛ</reg></choice>ita-karōdyat phaḷaṁ bāhu-śākhā-rāmaṁ gaurī-latā
-       
-         <lb break="no" n="3"/> liṁgitaṁ amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g> śrīkanṭhaṁ ramadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama 
+        <!--++++-++||-\-\-\-\-\-+||+-++-+=-->
+        <l n="a" enjamb="yes">śrīmad-gaṁgā-taraṁgōccaḷita-jaḷa-kaṇaśrēṇi-puḥpāḷi-śōbhā</l>  
+        <l n="b" enjamb="yes">-dhāmaṁ caṁcaj-jaṭā-pallavam am<choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā</l>
+        <l n="c">-rāmaṁ gaurī-latā liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ</l>
+        <l n="d">rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g></l></lg>
+    
+    <lg>śrīkanṭhaṁ ramadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama 
        
         <lb break="no" n="4"/>maimaṁg īge saṁpattan eduṁnān<note source="bib:Fleet1899">read saṁpattan enduṁ</note> ā nākaukānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇāṁśu-jāḷa-byākīrnnāghri-dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śitaśailē dra
         <lb break="no" n="5"/>kanyāḷōkāṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g>  
+    </lg>
     </p>
     <lg n="3" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">caḷad-ugra-grāha-vaktra-ccyuta-timi-nikarātuccha-pucchāgra-ghātā</l>
