@@ -141,16 +141,16 @@ n="6"/><!--CHECKED up to here, make the iī corrections before this point!--><un
             <rdg source="bib:Fleet1898-1899_02">p<choice><sic>auvu</sic><corr>au</corr></choice>rṇṇami</rdg>
         </app>
         <app loc="4">
-            <lem"><unclear cert="low">be</unclear>ḷasida</lem>
+            <lem><unclear cert="low">be</unclear>ḷasida</lem>
             <rdg source="bib:Fleet1899">belasida</rdg> 
         </app>
         <app loc="4">
             <lem source="bib:Fleet1898-1899_02">°ōḷiī</lem>
             <note>read ōḷiyi for ōḷiyiṁ</note>
         </app>
-        <app loc="5" source="bib:Fleet1898-1899_02">           
+        <app loc="5">           
             <lem>-gauvuḍana</lem>
-            <rdg>-g<choice><sic>auvu</sic><corr>au</corr></choice>ḍana</rdg>
+            <rdg source="Fleet1898-1899_02">-g<choice><sic>auvu</sic><corr>au</corr></choice>ḍana</rdg>
         </app>
         <app loc="5">
             <lem source="bib:Fleet1898-1899_02">ś<unclear>ubha</unclear></lem>
