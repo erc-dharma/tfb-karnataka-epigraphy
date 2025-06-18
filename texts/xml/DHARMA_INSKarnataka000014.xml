@@ -90,11 +90,34 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="1"/><g type="SpiraIL"></g>svasti jayas cābhyudayaś ca<g type="danda"></g> jayatyāviṣkṛitaṁ viṣṇōr vvārāhaṁ kṣōbhitārṇṇavaṁ <supplied reason="omitted"><g type="danda"></g></supplied> dakṣiṇōnnata
-    <lb break="no" n="2"/>daṁṣtṛāgra-viśrānta-bhuvanaṁ vapuḥ <g type="ddanda">.</g> svasti samasta-bhuvanāśrayaṁ śrī-pṛthvīvallabhaṁ mahārājādhi
+    <lb n="1"/><g type="SpiraIL"></g>svasti jayas cābhyudayaś ca<g type="danda"></g> jayatyāviṣkṛitaṁ viṣṇōr vvārāhaṁ kṣōbhitārṇṇavaṁ<supplied reason="omitted"><g type="danda"></g></supplied> dakṣiṇōnnata
+    <lb break="no" n="2"/>daṁṣtṛāgra-viśrānta-bhuvanaṁ vapuḥ<g type="ddanda">.</g> svasti samasta-bhuvanāśrayaṁ śrī-pṛthvīvallabhaṁ mahārājādhi
     <lb n="3"/>rāja paramēśvara paramabhaṭṭārakaṁ satyāśraya-kula-tilakaṁ cāḷukyābharaṇaṁ śrīmat traiḷōkyamalla-va
     <lb n="4"/>llabhaṁ <g type="ddanda">.</g>
 </p>
+    <p><!-- It is a vṛtta. check metr. According to Bernett should be mahāsragdhara -->
+        baḷavac-cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vaṁśārṇṇavākhilad aurbbānaḷan aṁga-vaṁga-khasa-vēṁgī
+        <lb break="no" n="5"/><choice><orig>ś</orig><reg>p</reg></choice>āṇḍya-<choice><orig>ś</orig><reg>s</reg></choice>aurāṣṭra-kēraḷa-nēpāḷa-turuṣka-cēra-magadha-kṣmādhīśa-dhārādharāniḷan aṁbhōdhi-vṛitāvanī-vaḷaya
+        <lb break="no" n="6"/>doḷ cāḷukya-kaṇṭhīrava<g type="ddanda">.</g>
+    </p>
+    <p>
+        antenisida śrīmad āhavamalla-dēvara vijaya-rājyam uttarōttarābhivṛiddhi-pravarddhamānam ā-caṁdrārkka-tāraṁ saluttamire<g type="danda"></g> tat-pāda-padmōpajīvi-samadhigata-paṁca-mahā
+        <lb break="no" n="8"/>śabda mahā-sāmantādhipati mahā-pracaṇḍa daṇḍanāyakaṁ satya-rādhēyaṁ śaucāṁjanēyaṁ
+        <lb n="9"/>sujana-prasannaṁ nuḍidu mattennaṁ śrīmat-traiḷōkuamalladēva-pādābja-bhṛiṁgaṁ sāhasōttuṁgaṁ nāmādi-samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>a
+        <lb break="no" n="10"/>sti-sahitaṁ śrīman-mane-verggaḍe daṇḍanāyakaṁ nāgadēvayyaṁ<g type="ddanda">.</g> 
+    </p>
+    <p><!-- It is a vṛtta. check metr. According to Bernett should be mahāsragdhara -->
+    vasudhēśāgraṇi cakravartti-tiḷakaṁ traiḷō
+    <lb break="no" n="11"/>kyamallaṁ nijāvasathāmatya-padakke māḍe mahimāvaṣṭaṁbhamaṁ tāḷdi sādhisidaṁ munnam aśādhyar appahitaraṁ ta
+    <lb break="no" n="12"/>d-dravyamaṁ tandu puṁjisidaṁ svāmigapāra-pauruṣa-guṇaṁ śrī-gaṇḍa-nārāyaṇaṁ 
+    </p>
+    <lg n="3" met="mahāsragdhara" xml:lang="kan-Latn"> 
+        <l n="a">jalarā<choice><orig>s</orig><reg>ś</reg></choice>i-śrēṇiyoḷ pāl-gaḍal ama<lb break="no" n="13"/>ra-kuja-śrēṇiyoḷ pā</l>
+        <l n="b"><!-- check metr. -->rijātaṁ kuḷa-śaiḷa-śrēṇiyoḷ mandaram akhiḷa-nadī-śrēṇiyoḷ gaṁ</l>
+        <l n="c">geyentaggaḷame<lb n="14"/>utārādhyam antī catur-udadhi-taṭī-sthūla-kal</l>
+        <l n="d">lōḷa-māḷāviḷa-bhāsvad-bhūri-bhūgōḷaka-janita-vibhu-śrēṇiyoḷ</l>
+    </lg>
+    <p>nāgadēvaṁ<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></p>
 </div>
     
       
