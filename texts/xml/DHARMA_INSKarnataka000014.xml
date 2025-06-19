@@ -90,39 +90,54 @@
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
 <p>
-    <lb n="1"/><g type="SpiraIL"></g>svasti jayas cābhyudayaś ca<g type="danda"></g> jayatyāviṣkṛitaṁ viṣṇōr vvārāhaṁ kṣōbhitārṇṇavaṁ<supplied reason="omitted"><g type="danda"></g></supplied> dakṣiṇōnnata
-    <lb break="no" n="2"/>daṁṣtṛāgra-viśrānta-bhuvanaṁ vapuḥ<g type="ddanda">.</g> svasti samasta-bhuvanāśrayaṁ śrī-pṛthvīvallabhaṁ mahārājādhi
+    <lb n="1"/><g type="SpiraIL"></g>svasti jayas cābhyudayaś ca<g type="danda"></g> 
+    <lg met="anuṣṭubh" n="1" xml:lang="kan-Latn">
+        <l n="a">jayatyāviṣkṛitaṁ viṣṇōr</l>
+        <l n="b">vvārāhaṁ kṣōbhitārṇṇavaṁ<supplied reason="omitted"><g type="danda"></g></supplied></l> 
+        <l n="c">dakṣiṇōnnata
+    <lb break="no" n="2"/>daṁṣtṛāgra</l>
+        <l n="d">viśrānta-bhuvanaṁ vapuḥ<g type="ddanda">.</g></l> 
+    </lg>
+    svasti samasta-bhuvanāśrayaṁ śrī-pṛthvīvallabhaṁ mahārājādhi
     <lb n="3"/>rāja paramēśvara paramabhaṭṭārakaṁ satyāśraya-kula-tilakaṁ cāḷukyābharaṇaṁ śrīmat traiḷōkyamalla-va
     <lb n="4"/>llabhaṁ <g type="ddanda">.</g>
 </p>
-    <p><!-- It is a vṛtta. check metr. According to Bernett should be mahāsragdhara -->
-        baḷavac-cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vaṁśārṇṇavākhilad aurbbānaḷan aṁga-vaṁga-khasa-vēṁgī
-        <lb break="no" n="5"/><choice><orig>ś</orig><reg>p</reg></choice>āṇḍya-<choice><orig>ś</orig><reg>s</reg></choice>aurāṣṭra-kēraḷa-nēpāḷa-turuṣka-cēra-magadha-kṣmādhīśa-dhārādharāniḷan aṁbhōdhi-vṛitāvanī-vaḷaya
-        <lb break="no" n="6"/>doḷ cāḷukya-kaṇṭhīrava<g type="ddanda">.</g>
-    </p>
-    <p>
+    <lg n="2" met="mattebhavikridita" xml:lang="kan-Latn">
+        <l n="a">baḷavac-cōḷa-narēṁdra-darppa-daḷanaṁ māḷavya-vaṁśārṇṇavā</l>
+        <l n="b">khilad aurbbānaḷan aṁga-vaṁga-khasa-vēṁgī
+        <lb break="no" n="5"/><choice><orig>ś</orig><reg>p</reg></choice>āṇḍya-<choice><orig>ś</orig><reg>s</reg></choice>aurāṣṭra-kē</l>
+        <l n="c">raḷa-nēpāḷa-turuṣka-cēra-magadha-kṣmādhīśa-dhārādharā</l>
+        <l n="d">niḷan aṁbhōdhi-vṛitāvanī-vaḷaya
+        <lb break="no" n="6"/>doḷ cāḷukya-kaṇṭhīrava<g type="ddanda">.</g></l>
+    </lg>
+        <p>
         antenisida śrīmad āhavamalla-dēvara vijaya-rājyam uttarōttarābhivṛiddhi-pravarddhamānam ā-caṁdrārkka-tāraṁ saluttamire<g type="danda"></g> tat-pāda-padmōpajīvi-samadhigata-paṁca-mahā
         <lb break="no" n="8"/>śabda mahā-sāmantādhipati mahā-pracaṇḍa daṇḍanāyakaṁ satya-rādhēyaṁ śaucāṁjanēyaṁ
         <lb n="9"/>sujana-prasannaṁ nuḍidu mattennaṁ śrīmat-traiḷōkuamalladēva-pādābja-bhṛiṁgaṁ sāhasōttuṁgaṁ nāmādi-samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>a
         <lb break="no" n="10"/>sti-sahitaṁ śrīman-mane-verggaḍe daṇḍanāyakaṁ nāgadēvayyaṁ<g type="ddanda">.</g> 
     </p>
-    <p><!-- It is a vṛtta. check metr. According to Bernett should be mahāsragdhara -->
-    vasudhēśāgraṇi cakravartti-tiḷakaṁ traiḷō
-    <lb break="no" n="11"/>kyamallaṁ nijāvasathāmatya-padakke māḍe mahimāvaṣṭaṁbhamaṁ tāḷdi sādhisidaṁ munnam aśādhyar appahitaraṁ ta
-    <lb break="no" n="12"/>d-dravyamaṁ tandu puṁjisidaṁ svāmigapāra-pauruṣa-guṇaṁ śrī-gaṇḍa-nārāyaṇaṁ 
-    </p>
-    <lg n="3" met="mahāsragdhara" xml:lang="kan-Latn"> 
-        <l n="a">jalarā<choice><orig>s</orig><reg>ś</reg></choice>i-śrēṇiyoḷ pāl-gaḍal ama<lb break="no" n="13"/>ra-kuja-śrēṇiyoḷ pā</l>
-        <l n="b"><!-- check metr. -->rijātaṁ kuḷa-śaiḷa-śrēṇiyoḷ mandaram akhiḷa-nadī-śrēṇiyoḷ gaṁ</l>
-        <l n="c">geyentaggaḷame<lb n="14"/>utārādhyam antī catur-udadhi-taṭī-sthūla-kal</l>
-        <l n="d">lōḷa-māḷāviḷa-bhāsvad-bhūri-bhūgōḷaka-janita-vibhu-śrēṇiyoḷ</l>
+    <lg n="3" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+        <l n="a">vasudhēśāgraṇi cakravartti-tiḷakaṁ traiḷō
+    <lb break="no" n="11"/>kyamallaṁ nijā</l>
+        <l n="b">vasathāmatya-padakke māḍe mahimāvaṣṭaṁbhamaṁ tāḷdi sā</l>
+        <l n="c">dhisidaṁ munnam aśādhyar appahitaraṁ ta
+    <lb break="no" n="12"/>d-dravyamaṁ tandu puṁ</l>
+        <l n="d">jisidaṁ svāmigapāra-pauruṣa-guṇaṁ śrī-gaṇḍa-nārāyaṇaṁ<g type="ddanda">.</g></l>
+        </lg>
+    
+    <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn"> 
+        <l n="a">jalarā<choice><orig>s</orig><reg>ś</reg></choice>i-śrēṇiyoḷ pāl-gaḍal ama<lb break="no" n="13"/>ra-kuja-śrēṇiyoḷ pārijātaṁ</l> 
+        <l n="b">kuḷa-śaiḷa-śrēṇiyoḷ mandaram akhiḷa-nadī-śrēṇiyoḷ gaṁgeyenta</l>
+        <l n="c">ggaḷame<lb n="14"/>utārādhyam antī catur-udadhi-taṭī-sthūla-kallōḷa-māḷā</l>
+        <l n="d">viḷa-bhāsvad-bhūri-bhūgōḷaka-janita-vibhu-śrēṇiyoḷ nāgadēvaṁ<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></l>
     </lg>
-    <p>nāgadēvaṁ<choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice></p>
-     <p><!-- metr. -->
-         <lb n="15"/>subhaṭar ttan annar illeyum ene negaḻdaṁ cōḷa-kāḷāntakaṁ bhōja-bhujaṁgāhi-dviṣaṁ gūrjjara--mada-haraṇaṁ sēguṇa
-         <lb n="16"/>dhvaṁ akaṁ cēra-bhaya-bhrānti-èradaṁ kōṁkaṇa-baḷa-daḷanaṁ hāra-nīhāra-tārānibha-śuṁbhat-kirtti daṇḍādhiparoḷ atuḷa-dōr-vvikra
-         <lb break="no" n="17"/>maṁ nāgadēvaṁ<g type="ddanda">.</g>
-     </p>
+         <lg n="5" met="mahāsragdhara" xml:lang="kan-Latn">
+         <l n="a"><lb n="15"/>subhaṭar ttan annar illeyum ene negaḻdaṁ cōḷa-kāḷāntakaṁ bhō</l>
+         <l n="b">ja-bhujaṁgāhi-dviṣaṁ gūrjjara--mada-haraṇaṁ sēguṇa<lb break="no" n="16"/>dhvaṁ akaṁ cē</l>
+          <l n="c">ra-bhaya-bhrānti-èradaṁ kōṁkaṇa-baḷa-daḷanaṁ hāra-nīhāra-tārā</l>
+           <l n="d">nibha-śuṁbhat-kirtti daṇḍādhiparoḷ atuḷa-dōr-vvikra
+         <lb break="no" n="17"/>maṁ nāgadēvaṁ<g type="ddanda">.</g></l>
+         </lg>
     <p>
        antasama-samara-rasa-rabhasa-parigata-ripu-mikara-kari-vara-śiraḥ-p<choice><orig>i</orig><reg>a</reg></choice>r<choice><orig>a</orig><reg>ī</reg></choice>pāṭan ācaraṇanuṁ
         <lb n="18"/>karṇṇē-japa-tamaḥ paṭaḷa-vighaṭana-khara-kiraṇanuṁ<g type="danda"></g> cāḷukya-cakrēśvara-kaṭaka-bāhattara-niyōgi-nivaḥ ārādhyanum
@@ -130,14 +145,14 @@
         <lb n="20"/>toragareyaruvattumaṁ bāḷaguḷi kāriṭṭage modalāge palavuṁ bhattagrāmegaḷumaṁ sarbbābhyantara-siddhiyiṁ duṣṭa-nigraha-vi 
         <lb break="no" n="21"/>śiṣṭa-pratipāḷanaṁ geydu sukha-saṁkathā-vinōdadin āluttam iḻdu<g type="ddanda">.</g>
     </p>
-    <lg n="4" met="mattebhavikrīḍita" xml:lang="kan-Latn">
-        <l n="a">himavat k<choice><orig>ū</orig><reg>u</reg></choice>tkīḷadiṁdunnatam idu rajatādriṁdra<lb break="no" n="22"/>diṁ tānē vistīr</l>
-        <l n="b">ṇṇam ideṁdurbbī-talaṁ baṇṇise pura-vadoḷ sūṇḍiyoḷ viśva-lōk</l>
-        <!-- check metr. --><l n="c">ōttamamaṁ nāgēśvaraṁgettisidan ati<lb break="no" n="23"/>śayāvāsamaṁ cā</l>
-        <l n="d">ru-cakrēśa-mahāmātyaṁ pradhān āgrani viśada-yaśō-rājitaṁ</l>
+    <lg n="6" met="mahāsragdhara" xml:lang="kan-Latn">
+        <l n="a">himavatk<choice><orig>ū</orig><reg>u</reg></choice>tkīḷadiṁdunnatam idu rajatādriṁdra<lb break="no" n="22"/>diṁ tānē vistīr</l>
+        <l n="b">ṇṇam ideṁdurbbī-talaṁ baṇṇise pura-vadoḷ sūṇḍiyoḷ viśva-lōkō</l>
+        <l n="c">ttamamaṁ nāgēśvaraṁgettisidan ati<lb break="no" n="23"/>śayāvāsamaṁ cāru-cakrē</l>
+        <l n="d">śa-mahāmātyaṁ pradhān āgrani viśada-yaśō-rājitaṁ Nāgadēvaṁ<g type="ddanda">.</g></l>
     </lg>
-    <p>Nāgadēvaṁ<g type="ddanda">.</g></p>
-    <lg n="4" met="kanda" xml:lang="kan-Latn">
+    
+    <lg n="7" met="kanda" xml:lang="kan-Latn">
         <l n="a">nāḍāḍiyalladantire mā</l>
         <l n="b"><lb n="24"/>ḍisidaṁ dēva-niḷayad eraduṁ keladoḷ kūḍe</l>
         <l n="c">dhavaḷāramaṁ </l>
