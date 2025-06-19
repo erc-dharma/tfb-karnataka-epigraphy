@@ -144,6 +144,20 @@
        <!-- check --> <l n="d">sura-nīḍam ivene sūḷe-gēriyaṁ budha-nilaya<g type="ddanda">.</g> </l>
         </lg>
 </div>
+      <div type="bibliography">
+        <p>
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-F).
+	</p>
+        
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025), based on the stone in situ.
+	</p>
+       
+        <bibl n="Ba">
+			<ptr target="bib:Barnett1921-1922_04"/>
+			<citedRange unit="page">85-94</citedRange>
+			<citedRange unit="item">F</citedRange>
+		</bibl>
+    </div>
     
       
     
