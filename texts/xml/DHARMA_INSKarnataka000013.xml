@@ -96,25 +96,45 @@
         <l n="c">trai<choice><orig>ḷ</orig><reg>l</reg></choice>ōkya-nagarāṁbha</l>
         <l n="d">mū<choice><orig>ḷ</orig><reg>l</reg></choice>a-staṁbhāya śaṁbhavē <g type="ddanda">.</g></l>
     </lg>
-    <p>girijā-śṛị̇mgār ēṁdu pravartayatyaṁtaraṁ manō-vārddhiṁ sura-danuj-ērādhyasya ca yasya stavaḥ pātu māṁ <g type="ddanda">.</g></p> <!-- this verse is omitted in Carn.Dēsa Inscr. -->
+    <p>girijā-śṛị̇mgār ēṁdu pravartayatyaṁtaraṁ manō-vārddhiṁ sura-danuj-ērādhyasya 
+        <lb n="2"/>ca yasya stavaḥ pātu māṁ <g type="ddanda">.</g></p> <!-- this verse is omitted in Carn.Dēsa Inscr. -->
     <p>
-        svasti samasta bhuvanāśrayaṁ śri-priṭvivallabha-mahārājādirāja-paramēśvaraṁ paramabhaṭṭarakaṁ satyāśraya-kuḷa-tiḷakaṁ cā<lb break="no" n="3"/>ḷukyābharaṇaṁ śrimat tribhuvanamalladēvara vijaya-rajyam uttarōttarābhivriddhi-pravardhamānam ā caṁdrārkaṁ taraṁ saluttamire <g type="ddanda">.</g>
+        svasti samasta bhuvanāśrayaṁ śri-priṭvivallabha-mahārājādirāja-paramēśvaraṁ paramabhaṭṭarakaṁ satyāśraya-kuḷa-tiḷakaṁ cā
+        <lb break="no" n="3"/>ḷukyābharaṇaṁ śrimat tribhuvanamalladēvara vijaya-rajyam uttarōttarābhivriddhi-pravardhamānam ā caṁdrārkaṁ taraṁ saluttamire <g type="ddanda">.</g>
     </p>
-    <p>tat pāda-padōpajīvi-samadhi-sata paṁca-mahāśabda-mahāsāmaṁtaṃ mahāpracaṁḍa daṁḍanāyakaṁ n anaṁtapāla <!-- neṁkhanā mahāmabrāpane--> doreyan eṁdaḍe <g type="ddanda">.</g> 
+    <p><lb n="4"/>tat pāda-padōpajīvi-samadhi-sata paṁca-mahāśabda-mahāsāmaṁtaṃ mahāpracaṁḍa daṁḍanāyakaṁ n anaṁtapāla <!-- neṁkhanā mahāmabrāpane--> doreyan eṁdaḍe <g type="ddanda">.</g> 
     </p>
     <lg n="2" xml:lang="kan-Latn">
-        <l n="a">sādhisi sapta-māḷavam <!-- anattayu -->maṁ kharamittadakṣeṇā <g type="danda"></g></l>
+        <l n="a">sādhisi sapta-māḷavam <!-- anattayu -->maṁ <lb n="5"/>kharamittadakṣeṇā <g type="danda"></g></l>
         <l n="b">dādharaṅośaraṁ jaladhipāya panegaṁchidadadaṁ śavipravi <g type="danda"></g></l>
-        <l n="c">dhyādharanatyudātta bhujavikrama nīnaḷanaṁtapāladaṁ <g type="danda"></g></l>
-        <l n="d">ḍādhipanuṁ negaḷti paḍedirda .. cakriyadaṁ ḍanādhirōḷ <g type="ddanda">.</g></l>
+        <l n="c">dhyādharanatyudātta bhujavikrama nīraḷanaṁtapāladaṁ <g type="danda"></g></l>
+        <l n="d">ḍādhipanuṁ negaḷti paḍedirda .. cakriyadaṁ <lb n="6"/>ḍanādhirōḷ <g type="ddanda">.</g></l>
     </lg>
     <lg n="3" xml:lang="kan-Latn">
         <l n="a">cāḷukya-cakricesasalu <g type="danda"></g></l>
         <l n="b">dhāḷiyaniṭṭu pipida pratāpahiṁ maku <g type="danda"></g></l>
-        <l n="c">trilapōlayōḷ <g type="danad"></g></l>
-        <l n="d">māḷavam ananaṁtapāla-daṁḍādhiḷ <g type="ddanda">.</g></l>
-        
+        <l n="c">trilapōlagāgiyōḷ <g type="danda"></g></l>
+        <l n="d">māḷavam ananaṁtapāla-daṁḍādhiḷ <g type="ddanda">.</g></l>   
     </lg>
+    <p>
+        yaṁtinaśi negaḷdan anaṁtāladaṁ<note>unclear on the stone</note> ḍanāyu
+        <lb n="7"/>kanagraje padmaladēvi<note>o stone reads a double danda</note> lavaṇya-pati-samasta-kaḷāpati-puṁṇya-pati.-kriṣṇarāja-manassaṁ cādini-guṇapati-pattala<note>pattala is not on the stone</note>-padmaladēvi-gedoreyōḷ śrisatiyarapanī taḷadōḷ<g type="ddanda">.</g>
+    </p>
+    <lg n="4" met="kanda" xml:lang="kan-Latn">
+        <l n="a">ā padmaladēvi gemapa<supplied reason="omitted"><g type="damda"></g></supplied></l>
+        <l n="b">nēpari-<lb n="8"/>rakṣaṇa-guṇāj-dhi-kripṭṇaṁ gaṁpa<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="c">ṇīpati-lakṣmaṇānuṁ la<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="d">kṣmī-pati-gōviṁdarājanuṁ janiyaṁ nidaru<g type="ddanda">.</g></l>
+    </lg>
+    <lg n="5" met="kanda" xml:lang="kan-Latn">
+        <l n="a">ā parīr patiṁda kiṣiya<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="b">r bhuvanastuta-rakhiḷa-vēda-vēdāṁga-vidhi<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="c">r dhapaḷaya śōbhāśigaḷ u<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="d">dbhavi-siddhar mallidēvanuṁ <lb n="8"/>gaṇapatiyuṁ</l>
+    </lg>
+    <p>aṁtānāllaruṁ pracaṁḍadaṁ ḍanāya kapadavi gadhināya kāgisukhadini-kala-paśuḷage</p>
+       
+  
 </div>
     
       
