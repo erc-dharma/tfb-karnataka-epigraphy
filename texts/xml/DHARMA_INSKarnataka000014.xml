@@ -235,9 +235,12 @@
         <l n="c">ntisalārggaṁ bāradeṁbantuṭaṇa kaḷa<choice><orig>s</orig><reg>ś</reg></choice>a nirbbāṇam appanegaṁ mā</l>
         <l n="d">ḍisidaṁ vkrōkti-vācaspati pa<choice><orig>ṁ</orig><reg>pa</reg></choice>ti-hitar ācāryyan ī śaṁ<choice><orig>kh</orig><reg>k</reg></choice>arāryyaṁ<g type="ddanda">.</g><g type="SpiralI"></g></l>
     </lg>  
-<p>
-    <lb n="54"/>sāmānyōyaṁ dharmma<choice><orig>ś</orig><reg>s</reg></choice>ētur nṛipāṇāṁ kāḷē kāḷē pāḷanīyō bhavadbhiḥ sarbbān ētān bhāvinaḥ pārtthivēṁdrān bhūyō bhūyō yācatē rāmaca<supplied reason="omitted">ṁ</supplied>draḥ<g type="ddanda">.</g>
-</p>   
+<lg n="17" met="śalinī" xml:lang="san-Latn">
+    <l n="a"><lb n="54"/>sāmānyōyaṁ dharmma<choice><orig>ś</orig><reg>s</reg></choice>ētur nṛipāṇāṁ</l> 
+    <l n="b">kāḷē kāḷē pāḷanīyō bhavadbhiḥ</l> 
+    <l n="c">sarbbān ētān bhāvinaḥ pārtthivēṁdrān</l>
+    <l n="d">bhūyō bhūyō yācatē rāmaca<supplied reason="omitted">ṁ</supplied>draḥ<g type="ddanda">.</g></l>
+    </lg>
     <lg n="18" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">svadattāṁ para<lb n="55"/>dattāṁ vā</l>
         <l n="b">yō harēta vasundharā̇m<supplied reason="omitted"><g type="danda"></g></supplied></l>
@@ -268,7 +271,28 @@
         <l n="c">kṛiṣṇa-sarppāḥ prajāyantē</l>
         <l n="d">brahmadēva-svahārakāḥ<g type="ddanda">.</g><g type="SpiralL"></g></l>
     </lg>
+    <lg n="23" met="vasantatilakā" xml:lang="san-Latn">
+        <l n="a">madvaṁ<choice><orig>s</orig><reg>ś</reg></choice>a-jāḥ para-mahīpati-vaṁ<choice><orig>s</orig><reg>ś</reg></choice>a-jā vāḥ</l>
+        <l n="b">pāpād apēta manasā<note source="bib:Barnett1921-1922_04">Probably a mistake for the usual manasō</note> bhuvi bhūmipālāḥ<supplied reason="omitted"><g type="danda"></g></supplied></l>
+        <l n="c">yē pāḷayanti mama dharmmam idaṁ<note source="bib:Barnett1921-1922_04">Probably an error for imaṁ; but dharma may also be neuter</note> samastaṁ</l>
+        <l n="d">tēbhyō mayā viraci<lb n="59"/>tāmjaḷir ēṣa mūrdhni<g type="ddanda">.</g><g type="SpiralL"></g></l>
+    </lg>
+    <p>
+        Intī <choice><orig>s</orig><reg>ś</reg></choice>āsana-maryyādeya dharmmamaṁ svadharmmadiṁ pratipāḷisidavargge śrī-kurukṣētraṁ prayāge vāraṇāsi śrīparbbatam a
+        <lb break="no" n="60"/>rgghyatīrtthaṁgaḷoḷ śata-kratuvum aśvamēdhaṁ geyda phaḷamum ēḻkōṭi kavileya kōḍuṁ koḷagumaṁ ponnoḷaṁ paṁcha-ratnadolaṁ kaṭṭisi caturvvēdigaḷ appēḷkōṭi brāhma
+        <lb break="no" n="61"/>ṇarggubhayamukhi-goṭṭa phaḷamum ā tīrtthaṁgaḷoḷ ēḻkōṭi tapōdhanarggā caṁdrārkka-tāram anna-dānam ikkida phaḷamum akkum ī dharmman upēkṣisi kiḍisidavargga
+        <lb break="no" n="62"/>nituṁ tīrtthaṁgaḷol ēḻkōṭi kavileyum ē̇lkōṭi brāhmaṇarum ēḻkōṭi tapōdhanaruman alida pāpaṁ sārgguṁ<g type="ddanda"></g>
+    </p>
+        <p>
+        nyūn ākṣaram adhikākṣaraṁ vā tat sarbbaṁ pramāṇam iti<g type="ddanda">.</g><g type="SpiralL"></g>
+    </p>
+    <p>
+        <lb n="63"/><g type="SpiralL"></g>baredaṁ sūṇḍiya kuḷakaraṇi rāvapayyan īśva<supplied reason="lost">ra-p</supplied>āda-paṁkaja-bhramaraṁ maṁgaḷa <supplied reason="lost">mahā-śrī</supplied> śrī śrī<g type="ddanda"></g><g type="SpiralL"></g>
+    </p>
 </div>
+     <div type="translation" source="bib:Barnett1921-1922_04">
+         
+     </div>
       <div type="bibliography">
         <p>
 		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-F).
