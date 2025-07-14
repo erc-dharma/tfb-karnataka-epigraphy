@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sūḍi, Vīragaḷu, ca. 900 AD</title>
+                <title>Sūḍi, Jōḍu-kalaśada guḍi, Śaka 932</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ants">
@@ -28,7 +28,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Napoli</pubPlace>
-                <idno type="filename">DHARMA_INSKarnataka000015</idno>
+                <idno type="filename">DHARMA_INSKarnataka000016</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -77,7 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:ants" when="2025-07-08">Creation of the file.</change>
+            <change who="part:ants" when="2025-07-09">Creation of the file.</change>
             
         </revisionDesc>
     </teiHeader>
@@ -87,30 +87,62 @@
       
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
-    <p>
-        <lb n="1"/>svasti śrī-Turagana mane-magati<gap reason="undefined" unit="character" quantity="5"></gap>>vvajrā<gap reason="undefined" unit="character" quantity="2"></gap>
-        <lb break="no" n="2"/>d ācāryyan Turagā nīnīyeḍeyol iḻdu kūḻaṁ gel<gap reason="undefined" unit="character" quantity="1"></gap><unclear>e</unclear>
-        <lb break="no" n="3"/>ndoḍā mātan ollad<unclear>i</unclear>re sōlama<supplied reason="undefined">ṁ</supplied> kaṇḍātan <supplied reason="undefined">i</supplied>re sōlal āga
-        <lb break="no" n="4"/>d endātaniṁ munna naḍadiṟidu paḍedaṁ yasamān ātaṁg<gap reason="undefined" unit="character" quantity="1"></gap>
-        <lb break="no" n="5"/><gap reason="undefined" unit="character" quantity="1"></gap>ḷabbe laccakkan emboḷāke niṟisidaḷ ī kallaṁ
-        
+    <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
     </p>
+<p>
+    <lb n="1"/><unclear>svasti samasta</unclear> bhuvāśraya śrī-p<choice><orig>r</orig><reg>ṛ</reg></choice>i
+    <lb n="2"/>thvi-va<unclear>llabha-ma</unclear>hārā<unclear>jā</unclear>dhirājaṁ paramēśva
+    <lb n="3"/>ra-para<unclear>mabhaṭṭā</unclear>rakaṁ satyāśraya-kuḷa-ti<choice><orig>ḻ</orig><reg>ḷ</reg></choice>akaṁ
+    <lb n="4"/>cāḷukyābharaṇaṁ śrimat-tribhuvanamalla-dēvara
+    <lb n="5"/>vijaya-rājyam uttarōttarābhivṛiddhi-pravarddha
+    <lb n="6"/>mānam ā caṁdrārkka-tāraṁ saluttamire <g type="ddanda"></g> svastya
+    <lb n="7"/>navara<unclear>t</unclear>a-parama-kalyāṇābhyudaya-saha<choice><orig>ś</orig><reg>s</reg></choice>ra
+    <lb n="8"/>phaḷa-bhō<unclear>ga</unclear>-bhāgini-dvitiya-lakṣmī-samāneya
+    <lb n="9"/>r a<unclear>ga</unclear>ṇita-<unclear>dā</unclear>na-cintāmaṇi vivēka-cūḍāmaṇiga
+    <lb n="10"/>ḷ ēka-vākyeyar gguṇada bēḍaṁgiyar appa
+    <lb n="11"/><unclear>śrī</unclear>mad-akkā-dēviyar kkisukāḍ ēḻpattumaṁ duṣṭa-
+    <lb n="12"/>nigraha-viśiṣṭa-pratipāḷanadiṁ sukha-saṁkathā-vi
+    <lb n="13"/>nōdadindāḷdu rājyaṁ geyyuttamire <choice><orig>s</orig><reg>ś</reg></choice>aka-varṣa
+    <lb n="14"/>932neya sādhāraṇa-saṁvatsarada mārggaśira
+    <lb n="15"/>da puṇṇameyoḷ āda sōma-grahaṇadandu sū
+    <lb n="16"/>ṇḍiyaṛuvar ggāvuṇḍaṁgaḷum enbar se<unclear>ṭ</unclear>ṭ<unclear>igaluṃ dē</unclear>
+    <lb n="17"/><unclear>va</unclear>ra sannidhānadoḷ alliya bra<unclear>hmapuri</unclear>
+    <lb n="18"/>ya mahājanakke bariya<note source="bib:Barnett1921-1922_04">uncertain; it may be <foreign>siriya</foreign></note> <gap reason="lost" unit="character" quantity="4"></gap> <unclear>o</unclear>
+    <lb n="19"/>ḷagaṇa bhūmi mūḍal <unclear>sirigu</unclear>ppeya pola
+    <lb n="20"/>da mēre teṁkalu samkalūra sīme paḍuval <gap reason="lost" unit="character" quantity="2"></gap>
+    <lb n="21"/>ṭṭanēśvarada polada mēre baḍagalu p<unclear>u</unclear>rada pola
+    <lb n="22"/>da mēreyiṁdoḷage dhāra-pūrbbakaṁ mū<supplied reason="omitted">r</supplied>ggaru-va
+    <lb n="23"/>ṇamaṁ tettuṇbaṁtāgi biṭṭa ereya mattar
+    <lb n="24"/>nūṟu padinālkuṁ bhatta-bhāgam ādoḍuṁ
+    <lb n="25"/>mūrggaru-vaṇamaṁ tiṟuvarā bhūmiyu
+    <lb n="26"/>man avar iḻda kēriyalnonduṁ kṣudrōḍadravama
+    <lb n="27"/>n āgal īyade sva-dharmmadiṁ <supplied reason="lost">pratipāḷisu</supplied>vur
+    <lb n="28"/>śōk <gap reason="lost" unit="character" quantity="1"></gap> sā <gap reason="lost" unit="character" quantity="11"></gap> sā
+</p>
+
 </div>
-     <div type="translation" source="bib:Barnett1921-1922_04">
-      <p>Hail! <gap reason="undefined"></gap> the steward of the fortunate Turaga <gap reason="undefined"></gap> when the Ācārya of <gap reason="undefined"></gap> said:"O Turaga, stand in this place and conquer the base man", when he <supplied reason="explanation">Turaga</supplied> did not agree to that speech, and saw <supplied reason="subaudible">the prospect of</supplied> defeat, he said:"We must not be defeated", and advancing in front of him <supplied reason="explanation">Turaga</supplied> and stabbing <supplied reason="subaudible">the enemy</supplied>, he won fame. For him the mother <gap reason="undefined"></gap> she who is named Lacchakka, set up this stone.</p>
+     <div type="translation"  resp="part:ants">
+         <p>
+             Hail! The illustrious Lord Tribhuvanamalla, who was the shelter of the world, who was the beloved of the glorious earth, the great king among kings, the supreme Lord, the <foreign>paramabhattaraka</foreign>, who was the ornament of the Cāḷukya lineage, may his victorious reign keep increasing its prosperity further and further as long as the moon, the sun and the stars keep shedding their light.
+             Hail! The illustrious Akkā Dēvi, sharing in the enjoyment of the fruits of thousands of issues of unceasing supreme felicity, equal to a second Lakṣmī <supplied reason="explanation">Goddess of Fortune</supplied>, the wish-fulfilling jewel of immeasurable bounty, a crest-jewel of discretion, uniform in speech, adorned with virtues, was administrating the Kisukāḍ 70 in the enjoyment of pleasant conversations so as to suppress the evil and protect the excellent. 
+             In the śaka year 932, the cyclic year Sādhāraṇa, on  the full-moon of Mārgaśiras, on the occasion of lunar eclipse, the six Gāvuṇḍas and the eight Seṭṭis of Sūṇḍi, in the presence of the deity, to the Mahājanas <supplied reason="explanation">assembly of learned Brahmins</supplied> of that Brahmapuri quarter
+             [gap] the land of inside, bounded on the east by plough field/corn land of Siriguppe, on the south border by Saṁkalūr, on the west by the plough field/corn land of ..ṭṭanēśvara, on the north by the plough field/corn land of the town <supplied reason="explanation">Sūḍi</supplied>. Within these boundaries, the <foreign>dhāra-pūrva</foreign> <supplied reason="explanation">irrevocably donated land</supplied>, 114 <foreign>mattar</foreign>, which a portion is to enjoy on payment of a <foreign>mūrggaru-vaṇa</foreign>, due when the produce of the field is divided;... That land and also its street, shall remain intact 
+according to the dharma...        
+         </p>
+      
      </div>
       <div type="bibliography">
         <p>
-		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-A).
+		First edited in <bibl><ptr target="bib:Barnett1921-1922_04"/></bibl> (EI 15-C).
 	</p>
         
-        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025).
+        <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2025), based on the stone in situ.
 	</p>
        
         <bibl n="Ba">
 			<ptr target="bib:Barnett1921-1922_04"/>
-			<citedRange unit="page">74</citedRange>
-			<citedRange unit="item">A</citedRange>
+			<citedRange unit="page">76-77</citedRange>
+			<citedRange unit="item">C</citedRange>
 		</bibl>
     </div>
     
@@ -122,7 +154,6 @@
     </body>
         </text>
 </TEI>
-
 
 
 

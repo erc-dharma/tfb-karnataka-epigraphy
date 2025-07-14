@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ablūr, Sōmēśvara temple, ca. A.D.1200, II</title>
+                <title>Ablūr, Sōmēśvara temple, ca. A.D.1200, III</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:ants">
@@ -28,7 +28,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Napoli</pubPlace>
-                <idno type="filename">DHARMA_INSKarnataka000011</idno>
+                <idno type="filename">DHARMA_INSKarnataka000012</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -89,14 +89,18 @@
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     
 <p>
-    <lb n="1"/>Yēkātada rāmayyaṁgaḷu jinanan oḍedu
-    <lb n="2" break="no"/>liṅga-pratiṣṭheyaṁ māḍida ṭāvu <supplied reason="omitted"><g type="ddanda">.</g></supplied>
+    <lb n="1"/>jēḍara dāsimayyaṁagaḷu dēvarige vastrava kuḍuva ṭāu <g type="ddanda">.</g>
+    siriyāḷa-seṭṭi caṁgaḷavve dēvarige maganan ikkuva ṭāvu <g type="ddanda">.</g>
+    kuṁbāṟa gu<supplied reason="omitted">ṁ</supplied>ḍana muṁde
+    <lb n="2"/>baṁdhā<supplied reason="omitted">ṁd</supplied> <supplied reason="omitted">ā</supplied>ḍida naṁma śivanu <supplied reason="omitted"><g type="ddanda">.</g></supplied>
 
 </p>
     </div>
     
     <div type="translation" source="bib:Desai1951-1952_02">
-        <p>At this place <supplied reason="explanation">is depicted the scene of</supplied> Ēkāntada Rāmayya breaking the <supplied reason="explanation">image of</supplied> Jīna and setting up the Śivaliṅga.
+        <p>Here is <supplied reason="explanation">is depicted the scene of</supplied> Jēḍara <supplied reason="explanation">weaver</supplied> Dāsimayya offering cloth to the god <supplied reason="explanation">Śiva</supplied>.
+            Here is depicted the scene of Siriyāḷa-seṭṭi and <supplied reason="explanation">his wife</supplied> Chaṁgaḷavve offering their son to the god <supplied reason="explanation">Śiva</supplied>.
+            Our <supplied reason="explanation">god</supplied> Śiva came down and danced before Kuṁbāṟa <supplied reason="explanation">potter</supplied> Guṇḍa.
         </p>
        
     </div>
@@ -107,8 +111,8 @@
          <listBibl> 
         <bibl n="De">
 			<ptr target="bib:Desai1951-1952_02"/>
-                           <citedRange unit="section">II</citedRange>
-			<citedRange unit="page">141</citedRange>
+                           <citedRange unit="section">III</citedRange>
+			<citedRange unit="page">142</citedRange>
 		</bibl>
        
              </listBibl>
@@ -118,6 +122,8 @@
     </body>
         </text>
 </TEI>
+
+
 
 
 
