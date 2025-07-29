@@ -88,7 +88,7 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-   	<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiraIL"/>
+   	<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiralL"/>
          </p>
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <l n="a">namas-tuṁga-śiraḥ-cuṁbi</l>
@@ -99,16 +99,18 @@
     <lg n="2" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <!--++++-++||-\-\-\-\-\-+||+-++-+=-->
         <l n="a" enjamb="yes">śrīmad-gaṁgā-taraṁgōccaḷita-jaḷa-kaṇaśrēṇi-puḥpāḷi-śōbhā</l>  
-        <l n="b" enjamb="yes">-dhāmaṁ caṁcaj-jaṭā-pallavam am<choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā</l>
+        <l n="b" enjamb="yes">-dhāmaṁ caṁcaj-jaṭā-pallavam am<!-- questa sillaba dovrebbe essere breve --><choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā</l>
         <l n="c">-rāmaṁ gaurī-latā liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ</l>
         <l n="d">rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g></l></lg>
     
-    <p>śrīkanṭhaṁ ramadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama 
+    <lg n="2" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+        <l n="a">śrīkanṭhaṁ rāmadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama 
        
-        <lb break="no" n="4"/>maimaṁg īge saṁpattan eduṁnān<note source="bib:Fleet1899">read saṁpattan enduṁ</note> ā nākaukānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇāṁśu-jāḷa-byākīrnnāghri-dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śitaśailē dra
-        <lb break="no" n="5"/>kanyāḷōkāṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g>  
-    
-    </p>
+        <lb break="no" n="4"/>maimaṁg īge saṁpattan eduṁnān<note source="bib:Fleet1899">read saṁpattan enduṁ</note></l>
+   <l n="b">ā nākaukānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇāṁśu-jā</l>
+    <l n="c">ḷa-byākīrnnāghri-dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śitaśailē dra</l>
+       <l n="d"><lb break="no" n="5"/>kanyāḷōkāṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g></l>  
+      </lg>
     <lg n="3" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">caḷad-ugra-grāha-vaktra-ccyuta-timi-nikarātuccha-pucchāgra-ghātā</l>
         <l n="b">kuḷitāṁ<lb break="no" n="6"/>bhaḥ kuṁbhi-yūtha-prakara-sajaḷa-phūtkāra-hastābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</l>
