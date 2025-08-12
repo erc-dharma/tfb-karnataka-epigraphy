@@ -148,8 +148,8 @@
     <lg n="6" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyāna-naṁ</l>
         <l n="b">dansdiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras-ōn</l>
-        <l n="c">mada-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śakunta-nā</l>
-        <l n="d">dadin ettaṁ gaṅikā-vinōda-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadiṁd eppuguṁ <note source="bib:Fleet1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
+        <l n="c">mada<!-- dovrebbe essere breve, probabilmente la ṛ vocalica non è stata considerata consonante? -->-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śā<!-- dovrebbe essere breve. sul dizionario è śakunta -->kunta-nā</l>
+        <l n="d">dadin ettaṁ gaṅikā-vinōda<!-- dovrebbe essere breve: stessa anomalia, correzione in ṛ vocalica -->-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadi<!-- sempre in 17esima posizione dovrebbe essere breve -->ṁd eppuguṁ <note source="bib:Fleet1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
     </lg>
     <p>
         ant-aparimīta-kē
@@ -160,7 +160,7 @@
     <l n="a"><lb n="16"/>avataris-irddanalli rajat-ācaḷadiṁ girijā-samētam ut</l>
     <l n="b">savadoḷe sōmanāthan akhiḷāmara-m<choice><orig>ō</orig><reg>au</reg></choice>ḷi-vinaddha-ratna-saṁ</l>
      <l n="c">bhava-kiraṅa-prabhā-paṭala-puṁja-parāga-padābjan artthiyiṁd</l>
-     <l n="d">a<lb break="no" n="17"/>vanata-bhāktikābimata-siddhi-phaḷōdaya-kaḷpabhūruhaṁ <g type="ddanda">.</g></l>
+     <l n="d">a<lb break="no" n="17"/>vanata-bhāktikābhimata-siddhi-phaḷōdaya-kaḷpabhūruhaṁ <g type="ddanda">.</g></l>
     </lg>
    
     <lg n="8" met="kanda" xml:lang="kan-Latn">
