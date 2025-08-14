@@ -235,11 +235,15 @@
     <l n="d">y ēkāṁntada rāman eṁba pesara<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
   </lg>
    
-   <p>
-     <!--check the meter: satataṁ saṁdu śivāgamōkta-vividha-kṣētraṁgaḷoḷu śaṁbhavāyatan ānēka-nadī-nada-prakaradoḷu gaurivarāghridpa
-     <lb break="no" n="30">yāśrita-vāk-kāya-manō-nugaṁ carisuttuṁ baṁdu kaṇḍaṁ surārccitanaṁ dakṣiṇa-sōmanāthanan aghaugha-trāsiyaṁ prītiyiṁ <g type="ddanda">.</g>-->
-    </p>
-   
+    <lg n="15" met="mattēbhavikrīḍita"><!-- anomalo -->
+        <l n="a">satataṁ saṁdu śivāgamōkta-vividha-kṣētraṁgaḷoḷu śaṁbhav</l>
+        <l n="b">āyatan ānēka-nadī-nada-prakaradoḷu gaur<choice><orig>i</orig><reg>ī</reg></choice>varāghrid</l>
+        <l n="c">a<lb break="no" n="30"/>yāśrita-vāk-kāya-manō-nugaṁ cariyisuttuṁ baṁdu kaṇḍaṁ sur</l>
+        <l n="d">ārccitanaṁ dakṣiṇa-sōmanāthanan aghaugha-trāsiyaṁ prītiyiṁ <g type="ddanda">.</g></l></lg>
+    
+
+
+
    <p>
        Āntu baṁdanavara
    <lb break="no" n="31"/>ta-vinamadamara-vara-mauḷi-maṇi-kiraṇa-maṁjarī-raṁjitāṁghiyugman appa huligeṟeya sōmanāthanan ārādhisuttam ippudum ā paramēśara pratyakṣavāgi <g type="ddanda">.</g>
