@@ -247,65 +247,65 @@
    <p>
        Āntu baṁdanavara
    <lb break="no" n="31"/>ta-vinamadamara-vara-mauḷi-maṇi-kiraṇa-maṁjarī-raṁjitāṁghiyugman appa huligeṟeya sōmanāthanan ārādhisuttam ippudum ā paramēśara pratyakṣavāgi <g type="ddanda">.</g>
-   <lb n="31"/>Ātra ślōka-dvayaṁ <g type="ddanda">.</g>
+   <lb n="32"/>Ātra ślōka-dvayaṁ <g type="ddanda">.</g>
    </p>
   
   <lg n="15" met="anuṣṭubh" xml:lang="san-Latn">
       <l n="a">Ābbalūru-vara-grāmaṁ</l>
-      <l n="b">gatvā rāma mamāj̃̃neyā <g type="danda">.</g></l>
+      <l n="b">gatvā rāma mamājñ<choice><orig>e</orig><reg>a</reg></choice>yā <supplied reason="omitted"><g type="danda">.</g></supplied></l>
       <l n="c">tatra vāsaṁ kuru svasthaṁ</l>
       <l n="d">yaja māṁ bhakti-yōgataḥ <g type="ddanda">.</g></l>
   </lg>
   
    <lg n="16" met="anuṣṭubh" xml:lang="san-Latn">
-       <l n="a">jainai saha vivādaṁ ca</l>  
+       <l n="a">jainai<supplied reason="omitted">ḥ</supplied> saha vivādaṁ ca</l>  
        <l n="b">saṁkaṁ hitvā ku<lb n="33"/>ruṣv atha <g type="danda">.</g></l>
-       <l n="c">svaśirōpi paṇaṁ kritvā</l>
+       <l n="c">svaśirōpi paṇaṁ k<choice><orig>r</orig><reg>ṛ</reg></choice>itvā</l>
        <l n="d">putra tvaṁ vijayī bhava <g type="ddanda">.</g></l>
    </lg>
     
    <p>
-       eṁdu sōmanātha-dēvar besasidaḍēkāntada rāmayyan abbalūra brahmēśvara-sthānudāḷu nispriha-vrittiyiṁdam ire <g type="ddanda">.</g>
+       eṁdu sōmanātha-dēvar besasidaḍēkāntada rāmayyan abbalūra brahmēśvara-sthānudāḷu nisp<choice><orig>r</orig><reg>ṛ</reg></choice>iha-v<choice><orig>r</orig><reg>ṛ</reg></choice>ittiyiṁdam ire <choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice>
    </p>
 
 <lg n="17" met="kanda" xml:lang="kan-Latn">
     <l n="a"><lb n="34"/>yulidaḍḍi baṁdu jainar</l>
     <l n="b">palar antā saṁka-gauṇḍa-sahitaṃ piriduṁ</l>
     <l n="c">caladiṁ kaivārisidar</l>
-    <l n="d">ttolagade jina daivan endu śiva saṁnidhiyoḷu</l>
+    <l n="d">ttolagade jina daivan endu śiva saṁnidhiyoḷu<g type="ddanda">.</g></l>
 </lg>
 
 <p>
     Ādaṁ kēḷdēkāṁntada-rāmayyaṁ
-    <lb n="35"/>n atikruddhan āgi śiva-saṁnidhiyoḷ anya-dēvatā-stavanaṁ mādaḷāgad nuḍiy<supplied reason="omitted">u</supplied>ttiral iṁteṁdaṁ <g type="ddanda">.</g>
+    <lb n="35"/>n atikru<choice><orig>dhdh</orig><reg>ddh</reg></choice>an āgi śiva-saṁnidhiyoḷ anya-dēvatā-stavanaṁ mādaḷāgad eṁdaḍa<choice><orig>ḍ</orig><reg>d</reg></choice>aṁ māṇade nuḍiy<supplied reason="omitted">u</supplied>ttiral iṁteṁdaṁ <g type="ddanda">.</g>
 </p>
     
   <lg n="18" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
-   <l n="a">jamaṁ māduvan āvan āvan adan ā<lb n="36"/>pat-kāladoḷ kāvaniṁ </l>
+   <l n="a">jagamaṁ māḍuvan āvan āvan adan ā<lb n="36"/>pat-kā<supplied reason="omitted">la</supplied>doḷ kāvaniṁ </l>
    <l n="b">mige kōpaṁ tanagāge saṁharisal āvaṁ dakṣan ā śaṁbhu sar</l>
-   <l n="c">vva-gan irddante gata-prabhāva-vibhavaṁ saṁsāradoḷu biddu</l>
-   <l n="d">daṁdugadoḷu bardvu tapake sārddu<lb n="37"/>sukhamaṁ porddirppanuṁ dēvanē <g type="ddanda">.</g></l>
+   <l n="c">vvagan irddante gata-prabhāva-vibhavaṁ saṁsāradoḷu biddu</l><!-- irregolare settima sillana e ultimi due gana -->
+   <l n="d">daṁdugadoḷu bard<choice><orig>v</orig><reg>d</reg></choice>u tapak<supplied reason="omitted">k</supplied>e sārddu<lb n="37"/>sukhamaṁ porddirppanuṁ dēvanē <g type="ddanda">.</g></l><!-- irregolare 22 sillabe -->
   </lg>
     
     <lg n="19" met="kanda" xml:lang="kan-Latn">
-    <l n="a">haran antir īvanē niṁm</l>
-    <l n="b">aruhaṁ muṁ-koṭṭitāvud āvudu munaṁ</l>
+    <l n="a">haran antirīvanē niṁm</l>
+    <l n="b">aruhaṁ muṁ-koṭṭitāv<supplied reason="omitted">u</supplied>d āvudu mun<supplied reason="omitted">n</supplied>aṁ</l>
     <l n="c">haranoḷ paḍadar anēkar</l>
-    <l n="d">vvaramaṁ baṇa-diniśāḷa-bhakta-gaṇaṁgaḷu <g type="ddanda">.</g></l>
+    <l n="d">vvaramaṁ bāṇa-diniśāḷa-bhakta-gaṇaṁgaḷu <g type="ddanda">.</g></l>
     </lg>
     
     <lg n="20" met="kanda" xml:lang="kan-Latn">
     <l n="a">Ene jai<lb n="38"/>nar eṁgu nīṁ muṁ</l>
-    <l n="b">nina hitarara hēḷal ēke niṁnaya siramaṁ</l>
+    <l n="b">nina hitarara hēḷal ēke niṁnaya <choice><orig>s</orig><reg>ś</reg></choice>iramaṁ</l>
     <l n="c">janam aṟiyal aridu koṭṭā</l>
-    <l n="d">tanoḷ iṃ paḍe nīne bhaktan ātane dēvaṁ <g type="ddanda"></g></l>
+    <l n="d">tanoḷ iṃpaḍe nīne bhaktan ātane dēvaṁ <g type="ddanda"></g></l>
     </lg>
    
    <lg n="21" met="kanda" xml:lang="kan-Latn">
    <l n="a">Enal ēkāntada-rāmaṁ</l>
-   <l n="b">manasijaripugittu taleya<lb n="38>"/>nāṁ paḍedaḍe</l>
-   <l n="c">nīv enagīva paṇam adēn</l>
-   <l n="d">munid eṁdar jjinana kittu śivanaṁ nilipevu</l>
+   <l n="b">manasijaripugittu taleya<lb n="39"/>nāṁ paḍedaḍe</l>
+   <l n="c">nīv enagīva paṇam adēnn ene</l>
+   <l n="d">munid eṁdar jjinana kittu śivanaṁ nilipevu<g type="ddanda">.</g></l>
    </lg> 
   
     <lg n="22" met="kanda" xml:lang="kan-Latn"> 
