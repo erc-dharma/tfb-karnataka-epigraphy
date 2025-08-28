@@ -333,13 +333,13 @@
        <l n="a">Arida taleyēḷu-devasaṁ</l>
        <l n="b">baregaṁ meṟadiṁ baḷikkav-ittaṁ haran ā</l>
        <l n="c">daradiṁ tale kaleyillade</l>
-       <l n="d">tiravādudu lōkavaḻiye rāmaṁ paḍadaṁ <g type="ddanda">.</g></l>
+       <l n="d">tiravādudu lōkava<choice><orig>ḻ</orig><reg>ṟ</reg></choice>iye rāma<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
    </lg>
     
     
   <lg n="26" met="kanda" xml:lang="kan-Latn">  
       <l n="a">beṟa<lb n="44"/>gāgi jainar ellaṁ</l>
-      <l n="b">maṟigi jina-praḷeyav eṁbudaṁ māḍadir iṁn</l>
+      <l n="b">maṟigi jina-praḷ<choice><orig>e</orig><reg>a</reg></choice>yav eṁbudaṁ māḍadir iṁn</l>
       <l n="c">eḍ-eṟagi kāl-viḍiye māṇade</l>
       <l n="d">baṟa-siḍil aṁeṟagi jinana taleyaṁ muṟidaṁ</l>
   </lg>
