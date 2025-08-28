@@ -317,16 +317,16 @@
     
   <lg n="23" met="campakamāla" xml:lang="kan-Latn"> 
   <l n="a">Uḍugade śaṁbhu nīne śaraṅ eṁnadaḍaṁ manam anya <choice><orig>b</orig><reg>bh</reg></choice>āvadoḷ</l>
-  <l n="b">oḍardaḍam ī k<choice><orig>r</orig><reg>ṛ</reg></choice>ipāṇa-mukhadiṁ tale pōgade nilkadallad-i</l>
-  <l n="c"><lb n="41"/>rddaḍe śiva niṁna muṁnaḍiguruḷugenutaṁ kali rāman ārddu</l>
-  <l n="d">keygiḍad aridikkaluṁrayisidaṁ śiramaṁ śivan aṁghriyugmadoḷu</l>
+  <l n="b">oḍardaḍam ī k<choice><orig>r</orig><reg>ṛ</reg></choice>ipāṇa-mukhadiṁ tale pōgade nilkadallad-i</l><!-- pada tutto errato -->
+  <l n="c"><lb n="41"/>rddaḍe śiva niṁna muṁnaḍiguruḷugenutaṁ kali rāman ārddu</l><!-- dal quarto gaṇa non ci si trova -->
+  <l n="d">keygiḍad aridikkaluṁrayisidaṁ śiramaṁ śivan aṁghriyugmadoḷu</l><!-- intero verso sbagliato -->
   </lg>
    
    <lg n="24" met="mattebhavikrīḍita" xml:lang="kan-Latn">
    <l n="a">Are-gayi-goṁḍane kittu nōḍidane kūrppaṁga<lb n="42"/>ḷuki meyi-gaydanē</l>
    <l n="b">seragaṁ pārddane bāḷge bhaktar enutaṁ ballāḷu rāmaṁ svakaṁ</l>
-   <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁt</l>
-   <l n="d">īśaṁghriyoḷ ikki śaṁkara-gaṇakkānaṁda<lb n="43"/>vaṁ māḍidaṁ</l>
+   <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁtari</l>
+   <l n="d">dīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
    </lg>
     
    <lg n="25" met="kanda" xml:lang="kan-Latn">
