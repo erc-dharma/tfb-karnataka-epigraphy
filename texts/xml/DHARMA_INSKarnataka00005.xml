@@ -323,10 +323,10 @@
   </lg>
    
    <lg n="24" met="mattebhavikrīḍita" xml:lang="kan-Latn">
-   <l n="a">Are-gayi-goṁḍane kittu nōḍidane kūrppaṁga<lb n="42"/>ḷuki meyi-gaydanē</l>
+   <l n="a">Are-gayi-goṁḍane<note source="bib:Fleet1899">read <foreign>gāy-goṁḍane</foreign>. Gāy is for <foreign>gāya,ghāya</foreign>, a wound</note> kittu nōḍidane kūrppaṁga<note>°aḷuk should be °āḷuk</note><lb n="42"/>ḷuki meyi <!-- gaydanē è fuori pada --></l>
    <l n="b">seragaṁ pārddane bāḷge bhaktar enutaṁ ballāḷu rāmaṁ svakaṁ</l>
-   <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁtari</l>
-   <l n="d">dīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
+   <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁt</l>
+   <l n="d">aridīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
    </lg>
     
    <lg n="25" met="kanda" xml:lang="kan-Latn">
@@ -766,7 +766,7 @@ A very Indra to the mountains that are hostile kings; a very Agastya to the ocea
         <bibl n="Fl">
 			<ptr target="bib:Fleet1899"/>
 			<citedRange unit="page">237-260</citedRange>
-			<citedRange unit="item">F</citedRange>
+			<citedRange unit="item">E</citedRange>
 		</bibl>
     </div>
     
