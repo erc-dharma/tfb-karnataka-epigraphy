@@ -89,8 +89,8 @@
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     
 <p><milestone type="pagelike" unit="zone" n="A"/><lb 
-n="1"/><g type="SpiralL"/>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha pauvurṇṇami sōmavā<lb 
-n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="subaudible">.</supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied> <lb 
+n="1"/><g type="SpiralL"/><note>Represented by a small circle inside a bigger one</note>svasti samasta-pra<choice><orig>s</orig><reg>ś</reg></choice>asti-sahitaṁ śrī-siṁhaṇadēva-varuṣada pramāthi-saṁvatsarada ā<choice><orig>ś</orig><reg>ṣ</reg></choice>āḍha pauvurṇṇami sōmavā<lb 
+n="2" break="no"/>radalu pratāpa-vīra-siṁgaṇadēvarasaru banavase-paṁnitsāsiravan āḷuttire<supplied reason="omitted"><g type="ddanda"></g></supplied>  Alliya kaṁpanaṁ nāgarakha<supplied reason="omitted">ṁ</supplied><lb 
 n="3"/><unclear>ḍa</unclear>v-ep<supplied reason="omitted">p</supplied>attaṟa baḷiya bāḍa Abbalūra vistarav-enteṁdaḍe<g type="ddanda">.</g> 
 </p>
     <lg n="1" met="campakamālā" xml:lang="kan-Latn">
@@ -229,7 +229,7 @@ n="6"/><unclear>ke</unclear>thanav-enteṁdaḍe <g type="ddanda">.</g></l>
     
     
     <div type="translation" source="bib:Fleet1898-1899_02">
-       <p n="1-3">Om! Hail! On MOnday the full-moon day of the month <foreign>Āṣāḍha</foreign> of the <foreign>Pramāthin saṁvatsara</foreign> of the years of the glorious Siṁhaṇadēva, who was possessed of all eulogistic titiles; while the powerful and brave Siṅgaṇadēvarasa was governing the Banavase twelve-thousand,-to descrive the excellence of Abbalūru, a town that was included in the Nāgarakhaṇḍa seventy which was <foreign>kaṁpaṇa</foreign> of those parts:-
+       <p n="1-3">Om! Hail! On Monday the full-moon day of the month <foreign>Āṣāḍha</foreign> of the <foreign>Pramāthin saṁvatsara</foreign> of the years of the glorious Siṁhaṇadēva, who was possessed of all eulogistic titiles; while the powerful and brave Siṅgaṇadēvarasa was governing the Banavase twelve-thousand, to descrive the excellence of Abbalūru, a town that was included in the Nāgarakhaṇḍa seventy which was <foreign>kaṁpaṇa</foreign> of those parts:-
       </p> 
        
        <p n="3-5">Abbalūru is truly charming on the surface of the earth, in a ost exceedingly beautiful manner, by reason of a park which is pleasing with flights of parrots and numbers of cuckoos, by the sweet-smelling rice that grows luxuriantly, by a number of temples if the god Śiva, by a shrine, to which <supplied reason="subaudible">much</supplied> adoration is paid, of that same god in the form of him who carries a third eye in his forehead, and by a multitude of brave men who excel in strenght and are skilled in arts and sciences.   
