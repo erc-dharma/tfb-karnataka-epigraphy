@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace>Napoli</pubPlace>
+                <pubPlace>Naples</pubPlace>
                 <idno type="filename">DHARMA_INSKarnataka00007</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -49,7 +49,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                        <summary><p>This record is on a stone tablet outside the back of the temple of Brahmēśvara.</p>       
+                  <p>The inscriptions refers to the reign of the Dēvagiri-Yādava king Siṅghaṇa and to a time when a feudatory Siṅgaṇadēvarasa was governing the Banavāsi twelve-thousand province.</p>
+                            <p>The tablet is a <foreign>vīragal</foreign> or monumental slab, in memory of the death of two local heroes, Māca and Gōma, in battle, on the occasion of a cattle-raid at Ablūr</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
