@@ -49,7 +49,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><!--This inscription is referred to the reign of Tribhuvanamalladēva (Vikramāditya VI)and records the gift of land made by Muṇḍeyara Śrīvanta Gāvuṇḍa to Nīlakaṇṭha Paṇḍitadēva, for the benefit of the temple of Mūlasthānadēva, built by him in the centre of the southern quarter of Narayaṅgal.--></summary>
+                        <summary>This inscription is engraved on a stone tablet set against the wall on the right side inside the temple of Sōmēśvara. It does not mention the reign of any particular king, nor is it dated. 
+                            The chief interest and importance of the record lies in Ēkāntada Rāmayya, who, according to legend, brought about a revival of the worship of Śiva.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,17 +92,17 @@
    	<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiralL"/>
          </p>
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-        <l n="a">namas-tuṁga-śiraḥ-cuṁbi</l>
+        <l n="a">namas-tuṁga-śiraḥś-cuṁbi</l>
         <l n="b">candra-cāmara-cāravē</l>
         <l n="c">trai<choice><orig>ḷ</orig><reg>l</reg></choice>ōkya-nagarāṁbha</l>
-        <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē</l>
+        <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē<g type="ddanda"></g></l>
     </lg>
     <lg n="2" met="sragdharā" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <!--++++-++||-\-\-\-\-\-+||+-++-+=-->
-        <l n="a" enjamb="yes">śrīmad-gaṁgā-taraṁgōccaḷita-jaḷa-kaṇaśrēṇi-puḥpāḷi-śōbhā</l>  
-        <l n="b" enjamb="yes">-dhāmaṁ caṁcaj-jaṭā-pallavam am<!-- questa sillaba dovrebbe essere breve --><choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā</l>
-        <l n="c">-rāmaṁ gaurī-latā liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruvādaṁ</l>
-        <l n="d">rāmaṁ gīgarthiyiṁ vācchita-phaḷa-cayamaṁ saṁtatōtsāhadiṁdaṁ <g type="ddanda">.</g></l></lg>
+        <l n="a" enjamb="yes">śrīmad-gaṁgā-taraṁg'ō<lb break="no" n="2"/>ccaḷita-jaḷa-kaṇa-śrēṇi-puḥp'āḷi-śōbhā-</l>  
+        <l n="b" enjamb="yes">dhāmaṁ caṁcaj-jaṭā-pallavam am<!-- questa sillaba dovrebbe essere breve --><choice><orig>ri</orig><reg>ṛ</reg></choice>ta-karōdyat-phaḷaṁ bāhu-śākhā-</l>
+        <l n="c">rāmaṁ gaurī-lat'ā <lb break="no" n="3"/>liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruv'ādaṁ</l>
+        <l n="d">rāmaṁg'īg'artthiyiṁ vācchita-phaḷa-cayamaṁ saṁtat-ōtsāhadiṁdaṁ<g type="ddanda">.</g></l></lg>
     
     <lg n="2" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <l n="a">śrīkanṭhaṁ rāmadēvaṁg anu<choice><orig>pp</orig><reg>p</reg></choice>ama 
