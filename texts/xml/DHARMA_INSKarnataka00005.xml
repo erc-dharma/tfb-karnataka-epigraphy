@@ -89,10 +89,10 @@
 <body>
 <div type="edition" xml:lang="kan-Latn" rendition="class:kannada maturity:83215">
     <p xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-   	<lb n="1"/><milestone type="pagelike" unit="zone" n="A"/><g type="SpiralL"/>
+   	<milestone type="pagelike" unit="zone" n="A"/>
          </p>
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
-        <l n="a">namas-tuṁga-śiraḥś-cuṁbi</l>
+       <lb n="1"/><l n="a"><g type="SpiralL"/>namas-tuṁga-śiraḥś-cuṁbi</l>
         <l n="b">candra-cāmara-cāravē</l>
         <l n="c">trai<choice><orig>ḷ</orig><reg>l</reg></choice>ōkya-nagarāṁbha</l>
         <l n="d">mūla-staṁbhāya <choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē<g type="ddanda"></g></l>
