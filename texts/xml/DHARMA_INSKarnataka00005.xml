@@ -149,7 +149,7 @@
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyāna-naṁ</l>
         <l n="b">dansdiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras-ōn</l>
         <l n="c">mada<!-- dovrebbe essere breve, probabilmente la ṛ vocalica non è stata considerata consonante? -->-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śā<!-- dovrebbe essere breve. sul dizionario è śakunta -->kunta-nā</l>
-        <l n="d">dadin ettaṁ gaṅikā-vinōda<!-- dovrebbe essere breve: stessa anomalia, correzione in ṛ vocalica -->-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadi<!-- sempre in 17esima posizione dovrebbe essere breve -->ṁd eppuguṁ <note source="bib:Fleet1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
+        <l n="d">dadin ettaṁ gaṅikā-vinōda<!-- dovrebbe essere breve: stessa anomalia, correzione in ṛ vocalica -->-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadi<!-- sempre in 17esima posizione dovrebbe essere breve -->ṁd eppuguṁ <note source="bib:EI_1898-1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
     </lg>
     <p>
         ant-aparimīta-kē
@@ -323,7 +323,7 @@
   </lg>
    
    <lg n="24" met="mattebhavikrīḍita" xml:lang="kan-Latn">
-   <l n="a">Are-gayi-goṁḍane<note source="bib:Fleet1899">read <foreign>gāy-goṁḍane</foreign>. Gāy is for <foreign>gāya,ghāya</foreign>, a wound</note> kittu nōḍidane kūrppaṁga<note>°aḷuk should be °āḷuk</note><lb n="42"/>ḷuki meyi <!-- gaydanē è fuori pada --></l>
+   <l n="a">Are-gayi-goṁḍane<note source="bib:EI_1898-1899">read <foreign>gāy-goṁḍane</foreign>. Gāy is for <foreign>gāya,ghāya</foreign>, a wound</note> kittu nōḍidane kūrppaṁga<note>°aḷuk should be °āḷuk</note><lb n="42"/>ḷuki meyi <!-- gaydanē è fuori pada --></l>
    <l n="b">seragaṁ pārddane bāḷge bhaktar enutaṁ ballāḷu rāmaṁ svakaṁ</l>
    <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁt</l>
    <l n="d">aridīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
@@ -571,136 +571,136 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
         <listApp>
        
             <app loc="1">
-            <lem source="bib:Fleet1899"><choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē</lem>
+            <lem source="bib:EI_1898-1899"><choice><orig>s</orig><reg>ś</reg></choice>aṁbhavē</lem>
         </app>
             
             <app loc="2">
-       <lem source="bib:Fleet1899">am<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
+       <lem source="bib:EI_1898-1899">am<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
         </app>
        
             <app loc="3">
            <lem>dhāmaṁ</lem>
-           <rdg source="bib:Fleet1899">dhāmam</rdg>         
+           <rdg source="bib:EI_1898-1899">dhāmam</rdg>         
        </app>
             
             <app loc="3">
-                <lem source="bib:Fleet1899">anu<choice><orig>pp</orig><reg>p</reg></choice>ama</lem>
+                <lem source="bib:EI_1898-1899">anu<choice><orig>pp</orig><reg>p</reg></choice>ama</lem>
             </app>
             
           <app loc="4">
-              <lem source="bib:Fleet1899">dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan</lem>
+              <lem source="bib:EI_1898-1899">dvayāḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan</lem>
           </app> 
             
             <app loc="4">
-                <lem source="bib:Fleet1899">eduṁnān</lem>
-                <note source="bib:Fleet1899">to saṁpattan enduṁ</note>
+                <lem source="bib:EI_1898-1899">eduṁnān</lem>
+                <note source="bib:EI_1898-1899">to saṁpattan enduṁ</note>
             </app>
             <app loc="5">
-                <lem source="bib:Fleet1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ</lem>  
+                <lem source="bib:EI_1898-1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ</lem>  
             </app>
             
             <app loc="6">
-                <lem source="bib:Fleet1899">hastābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</lem>
+                <lem source="bib:EI_1898-1899">hastābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</lem>
             </app>
             
             <app loc="6">
-                <lem source="bib:Fleet1899">sutti<choice><orig>pp</orig><reg>rpp</reg></choice>ud</lem>
+                <lem source="bib:EI_1898-1899">sutti<choice><orig>pp</orig><reg>rpp</reg></choice>ud</lem>
             </app>
             
            <app loc="8">
-               <lem source="bib:Fleet1899">pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda</lem>
+               <lem source="bib:EI_1898-1899">pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda</lem>
            </app>
             
             <app loc="8">
-                <lem source="bib:Fleet1899">niśa<choice><orig>d</orig><reg>dh</reg></choice>a</lem>
+                <lem source="bib:EI_1898-1899">niśa<choice><orig>d</orig><reg>dh</reg></choice>a</lem>
             </app>
             
             <app loc="9">
-                <lem source="bib:Fleet1899">naga</lem>
+                <lem source="bib:EI_1898-1899">naga</lem>
                 <note>I read śaka</note>
             </app>
             
             <app loc="10">
-                <lem source="bib:Fleet1899">kara</lem>
+                <lem source="bib:EI_1898-1899">kara</lem>
                 <note>I read kata</note>
             </app>
             
             <app loc="11">
-                <lem source="bib:Fleet1899">nāde<choice><orig>v</orig><reg>y</reg></choice></lem>
+                <lem source="bib:EI_1898-1899">nāde<choice><orig>v</orig><reg>y</reg></choice></lem>
             </app>
             
             <app loc="12">
-                <lem source="bib:Fleet1899">sam<choice><orig>r</orig><reg>ṛ</reg></choice>iddhitin</lem>
+                <lem source="bib:EI_1898-1899">sam<choice><orig>r</orig><reg>ṛ</reg></choice>iddhitin</lem>
             </app>
            
             <app loc="13">
-                <lem source="bib:Fleet1899">pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a</lem>
+                <lem source="bib:EI_1898-1899">pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a</lem>
             </app>
             
             <app loc="14">
-                <lem source="bib:Fleet1899">bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī</lem>
+                <lem source="bib:EI_1898-1899">bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī</lem>
             </app>
             
             <app loc="14">
-                <lem source="bib:Fleet1899">k<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
+                <lem source="bib:EI_1898-1899">k<choice><orig>r</orig><reg>ṛ</reg></choice>ita</lem>
             </app>
             
                 <app loc="14">
-                <lem source="bib:Fleet1899">eppuguṁ</lem>
-                <note source="bib:Fleet1899">to read oppuguṁ</note>
+                <lem source="bib:EI_1898-1899">eppuguṁ</lem>
+                <note source="bib:EI_1898-1899">to read oppuguṁ</note>
             </app>
             
             <app loc="16">
-                <lem source="bib:Fleet1899">m<choice><orig>ō</orig><reg>au</reg></choice>ḷi</lem>
+                <lem source="bib:EI_1898-1899">m<choice><orig>ō</orig><reg>au</reg></choice>ḷi</lem>
             </app>
             
             <app loc="16">
-                <lem source="bib:Fleet1899">paṭala</lem>
+                <lem source="bib:EI_1898-1899">paṭala</lem>
                 <note>I read pataḷa</note>
             </app>
             
             <app loc="17">
-                <lem source="bib:Fleet1899"><choice><orig>p</orig><reg>v</reg></choice>ipraroḷ</lem>
+                <lem source="bib:EI_1898-1899"><choice><orig>p</orig><reg>v</reg></choice>ipraroḷ</lem>
             </app>
             
             <app loc="17">
-                <lem source="bib:Fleet1899"><choice><orig>b</orig><reg>v</reg></choice>yāsa</lem>
+                <lem source="bib:EI_1898-1899"><choice><orig>b</orig><reg>v</reg></choice>yāsa</lem>
             </app>
             
             <app loc="17">
-                <lem source="bib:Fleet1899">sad<choice><orig>r</orig><reg>ṛ</reg></choice>iśan</lem>
+                <lem source="bib:EI_1898-1899">sad<choice><orig>r</orig><reg>ṛ</reg></choice>iśan</lem>
             </app>
             
             <app loc="18">
-                <lem source="bib:Fleet1899">o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an</lem>
+                <lem source="bib:EI_1898-1899">o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an</lem>
             </app>
             
             <app loc="18">
-                <lem source="bib:Fleet1899">d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman</lem>
+                <lem source="bib:EI_1898-1899">d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman</lem>
             </app>
             
             <app loc="19">
-                <lem source="bib:Fleet1899">hita<choice><orig>b</orig><reg>v</reg></choice>ratey</lem>
+                <lem source="bib:EI_1898-1899">hita<choice><orig>b</orig><reg>v</reg></choice>ratey</lem>
             </app>
             
             <app loc="20">
-                <lem source="bib:Fleet1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>iṁda</lem>
+                <lem source="bib:EI_1898-1899">v<choice><orig>r</orig><reg>ṛ</reg></choice>iṁda</lem>
             </app>
             
             <app loc="20">
-                <lem source="bib:Fleet1899">p<choice><orig>a</orig><reg>ā</reg></choice>dāraviṁdaṁ</lem>
+                <lem source="bib:EI_1898-1899">p<choice><orig>a</orig><reg>ā</reg></choice>dāraviṁdaṁ</lem>
             </app>
             
             <app loc="22">
-                <lem source="bib:Fleet1899">dās<choice><orig>i</orig><reg>a</reg></choice></lem>
+                <lem source="bib:EI_1898-1899">dās<choice><orig>i</orig><reg>a</reg></choice></lem>
             </app>
             
             <app loc="23">
-                <lem source="bib:Fleet1899">bauddharoḷa<supplied reason="omitted">ḷ</supplied></lem>
+                <lem source="bib:EI_1898-1899">bauddharoḷa<supplied reason="omitted">ḷ</supplied></lem>
             </app>
             
             <app loc="24">
-                <lem source="bib:Fleet1899">orb<choice><orig>vi</orig><reg>ba</reg></choice>nam</lem>
+                <lem source="bib:EI_1898-1899">orb<choice><orig>vi</orig><reg>ba</reg></choice>nam</lem>
             </app>
         </listApp> 
       </div>
@@ -759,14 +759,14 @@ A very Indra to the mountains that are hostile kings; a very Agastya to the ocea
     
     <div type="bibliography">
         <p>
-		First edited in <bibl><ptr target="bib:Fleet1899"/></bibl> (EI 5-E).
+		First edited in <bibl><ptr target="bib:EI_1898-1899"/></bibl> (EI 5-E).
 	</p>
         
         <p>	Re-edited here for DHARMA (ERC n° 809994) by Antonella Santoro (2024), based on the stone in situ.
 	</p>
        
         <bibl n="Fl">
-			<ptr target="bib:Fleet1899"/>
+			<ptr target="bib:EI_1898-1899"/>
 			<citedRange unit="page">237-260</citedRange>
 			<citedRange unit="item">E</citedRange>
 		</bibl>
