@@ -103,14 +103,14 @@
         <l n="c">rāmaṁ gaurī-lat'ā <lb break="no" n="3"/>liṁgitam amara-nutaṁ śaṁbhu-kaḷpadruv'ādaṁ</l>
         <l n="d">rāmaṁgīg'artthiyiṁ vācchita-phaḷa-cayamaṁ saṁtat-ōtsāhadiṁdaṁ<g type="ddanda">.</g></l></lg>
     
-    <lg n="2" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
+    <lg n="3" met="sragdhara" xml:lang="san-Latn" rendition="class:kannada maturity:83215">
         <l n="a">śrīkaṇṭhaṁ rāmadēvaṁg' anu<choice><orig>pp</orig><reg>p</reg></choice>ama- 
 <lb break="no" n="4"/>mahimaṁgīge saṁpattan eduṁṇan<note>read saṁpattan enduṁ</note></l>
    <l n="b">ā nākauk'ānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇ-āṁśu-jāḷa-</l>
     <l n="c">byākīrnn'āghri-dvay-āḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śita-śailē<supplied reason="omitted">ṁ</supplied>dra-kanyā-ḷ</l>
        <l n="d"><lb break="no" n="5"/>ōk'āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g></l>  
       </lg>
-    <lg n="3" met="mahāsragdhara" xml:lang="kan-Latn">
+    <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">caḷad-ugra-grāha-vaktra-cc<supplied reason="omitted">y</supplied>uta-timi-nikar'ātuccha-pucch'āgra-ghāt'ā</l>
         <l n="b">kuḷit'āṁ<lb break="no" n="6"/>bhaḥ-kuṁbhi-yūtha-prakara-sajaḷa-phūtkāra-hast'ābhr<choice><orig>i</orig><reg>a</reg></choice>-māḷā</l>
         <l n="c">miḷitaṁ sutti<choice><orig>ppo</orig><reg>rppu</reg></choice>d udyan maṇi-gaṇa-kiraṇa-sphāra-mukt'āṁśa-vēḷā</l>
@@ -120,7 +120,7 @@
     </lg>
     <p>ant'anēka-jaḷacara-nivā<add place="above">sa</add>muṁ samuttuṁga-laharī-nivāsamum enisi sogayiva  <lb n="8"/>lavaṇa-samudradiṁ pariv<choice><orig>r</orig><reg>ṛ</reg></choice>itavāda jaṃbūdvīpadi teṁkalu niḷa-niśa<choice><orig>d</orig><reg>dh</reg></choice>a-himavanta-parvvataṁgaḷoḷav alli<g type="ddanda">.</g></p>
     
-    <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn">
+    <lg n="5" met="mahāsragdhara" xml:lang="kan-Latn">
     <l n="a">Eseguṁ pūrvvāpar'āṁbhōnidhi-miti<lb break="no" n="9"/>vitat'āyāmadiṁ siddha-kanyā</l>
     <l n="b">visarānaṁg'ōru-kēḷī-śrama-śama-mahimā-kaṁdaraṁ svardhunī-vāḥ-</l>
     <l n="c">prasar'ōpakṣuṇṇa-nānā-naga-ni<lb break="no" n="10"/>kara-gaḷad-gaṇḍaśaiḷ'āḷi-māḷā-</l>     
@@ -132,21 +132,21 @@
       <lb break="no" n="11"/>y'att'ippa bhāratavarṣadoḷu kuṁtaḷa-dēśav-eṁbud'adhika-śōbhev-ett'esevud'alli <g type="ddanda">.</g>
     </p>
    
-    <lg n="5" met="kanda" xml:lang="kan-Latn">
+    <lg n="6" met="kanda" xml:lang="kan-Latn">
         <l n="a">sogayipud'alandey-eṁbudu</l>
         <l n="b">nagaraṁ celuv-esedu nāḍe<choice><orig>v</orig><reg>y</reg></choice>-ama<lb break="no" n="12"/>rāvatigaṁ</l> 
         <l n="c">migil enisi vibudha-janadiṁ</l>
         <l n="d">d'agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ</l>
     </lg>
    
-    <lg n="5" met="kanda" xml:lang="kan-Latn">
+    <lg n="7" met="kanda" xml:lang="kan-Latn">
      <l n="a">prakaṭik-amarāvatiyōḷu</l>
      <l n="b">sukēśiyuṁ ṁaṁjughoṣeyuṃ tam-irbbar</l> 
      <l n="c">sa<lb break="no" n="13"/>kaḷa-vadhū-tatiyellaṁ</l>
      <l n="d">sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="6" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+    <lg n="8" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyāna-naṁ</l>
         <l n="b">dansdiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras-ōn</l>
         <l n="c">mada<!-- dovrebbe essere breve, probabilmente la ṛ vocalica non è stata considerata consonante? -->-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śā<!-- dovrebbe essere breve. sul dizionario è śakunta -->kunta-nā</l>
@@ -157,28 +157,28 @@
         <lb break="no" n="15"/>dāra-bhūmiyuṁ apāra-jaḷāśrayābhirāmamuṁ bahu-janākīrnnamum amēya-gaṇikā-nivāsamum agaṇita-vaṇigjan āśrayamum enisi śōbha-nivāsamāge <g type="ddanda">.</g>
     </p>
    
-    <lg n="7" met="campakamāla" xml:lang="kan-Latn"><!-- in sanscrito pañcakāvalī -->
+    <lg n="9" met="campakamāla" xml:lang="kan-Latn"><!-- in sanscrito pañcakāvalī -->
     <l n="a"><lb n="16"/>avataris-irddanalli rajat-ācaḷadiṁ girijā-samētam ut</l>
     <l n="b">savadoḷe sōmanāthan akhiḷāmara-m<choice><orig>ō</orig><reg>au</reg></choice>ḷi-vinaddha-ratna-saṁ</l>
      <l n="c">bhava-kiraṅa-prabhā-paṭala-puṁja-parāga-padābjan artthiyiṁd</l>
      <l n="d">a<lb break="no" n="17"/>vanata-bhāktikābhimata-siddhi-phaḷōdaya-kaḷpabhūruhaṁ <g type="ddanda">.</g></l>
     </lg>
    
-    <lg n="8" met="kanda" xml:lang="kan-Latn">
+    <lg n="10" met="kanda" xml:lang="kan-Latn">
     <l n="a">Ā sōmanātha-pura-saṁ</l>
     <l n="b">vāsitaroḷu brahmapurigaḷoḷ <choice><orig>p</orig><reg>v</reg></choice>ipraroḷ ā</l>
     <l n="c"><choice><orig>b</orig><reg>v</reg></choice>yāsa-śuka-vāmadēva-pa</l>
     <l n="d">rāsara-kapiḷādi-sad<choice><orig>r</orig><reg>ṛ</reg></choice>iśan o<lb n="18"/>r<choice><orig>bb</orig><reg>vv</reg></choice>an negaḷdaṁ <g type="ddanda"></g></l>
     </lg>
    
-    <lg n="9" met="kanda" xml:lang="kan-Latn">
+    <lg n="11" met="kanda" xml:lang="kan-Latn">
      <l n="a">śrīvatsa-gōtran urbbī</l>
      <l n="b">dēva-nutaṁ nikhiḷa-vēdāṁga-vidaṁ</l>
      <l n="c">pāvana-caritra-guṇa-sād</l>
      <l n="d">bhāvaṁ puruṣōttamaṁ d<choice><orig>p</orig><reg>v</reg></choice>ijōttaman enipaṁ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="10" met="kanda" xml:lang="kan-Latn">
+    <lg n="12" met="kanda" xml:lang="kan-Latn">
      <l n="a">Ā viprana sati sītā</l>
      <l n="b">dēvigav ā satya-<lb break="no" n="19"/>tapana-satigaṁ guṇa-sad</l>
      <l n="c">bhāvade padmāṁbike sale</l>
@@ -190,7 +190,7 @@
         <lb break="no" n="20"/>ḷidu <g type="ddanda">.</g>
     </p>
   
-    <lg n="11" met="kanda" xml:lang="kan-Latn">
+    <lg n="13" met="kanda" xml:lang="kan-Latn">
      <l n="a">pūtrārtthavāgi satya-pa</l>
      <l n="b">vitrācaraṇaṁ negaḷda puruṣōttaman ā</l>
      <l n="c">pat<supplied reason="omitted">t</supplied>rānan īśan eṁdu ka</l>
@@ -203,7 +203,7 @@
    <lb break="no" n="22"/>vinōdadiṁdam ire nāradan eṁba gaṇēśvaran inteṁda <g type="ddanda">.</g> 
 </p>
    
-   <lg n="12" met="utpalamālikā" xml:lang="kan-Latn"><!-- no in apte -->
+   <lg n="14" met="utpalamālikā" xml:lang="kan-Latn"><!-- no in apte -->
    <l n="a">ōhila dās<choice><orig>i</orig><reg>a</reg></choice> ceṁna siriyāḷa haḷāyudha bāṇan udbhaṭar</l>
    <l n="b">dēhadoḷ oṁdi baṁda maḷayēśvara kēśavarājarādiyā</l>
    <l n="c">gaihi<lb break="no" n="23"/>ka-saukhyamaṁ bisuṭ asaṁkhya-gaṇaṁ nijavāda bhakti-sad</l>
@@ -216,7 +216,7 @@
    <lb break="no" n="25"/>ttama-bhaṭṭargge svapnadoḷ tāpasa-rūpadiṁ baṁdu putraṁ para-samaya-niyāmakaṁ nimage puṭṭugum e<supplied reason="omitted">ṁ</supplied>du mattaṁm iṁteṁda <g type="ddanda">.</g>
  </p>
     
-    <lg n="13" met="anuṣṭubh" xml:lang="kan-Latn">
+    <lg n="15" met="anuṣṭubh" xml:lang="kan-Latn">
     <l n="a">jaina-mārggēṣu yē yā<lb break="no" n="26"/>tā</l>
     <l n="b">bahavō dakṣiṇāpathē</l>
     <l n="c">tē dūṣitā bhavanu sar</l>
@@ -229,14 +229,14 @@
        <lb break="no" n="28"/>ge śiva-yōga-yuktan āgi nispṛiha-v<choice><orig>r</orig><reg>ṛ</reg></choice>ittiyiṁ cariyisuttuṁ <g type="ddanda">.</g>
     </p>
     
-  <lg n="14" met="kanda" xml:lang="kan-Latn">  
+  <lg n="16" met="kanda" xml:lang="kan-Latn">  
     <l n="a">Ēkāgra-bhakti-yōgadin</l>
     <l n="b">ēkākiy enalke saṁdu śivanaṁ piridapp</l>
     <l n="c">ēkāntadoḷ ā rādhi<lb break="no" n="29"/>si</l>
     <l n="d">y ēkāṁntada rāman eṁba pesara<supplied reason="omitted">ṁ</supplied> paḍadaṁ <g type="ddanda">.</g></l>
   </lg>
    
-    <lg n="15" met="mattēbhavikrīḍita"><!-- anomalo -->
+    <lg n="17" met="mattēbhavikrīḍita"><!-- anomalo -->
         <l n="a">satataṁ saṁdu śivāgamōkta-vividha-kṣētraṁgaḷoḷu śaṁbhav</l>
         <l n="b">āyatan ānēka-nadī-nada-prakaradoḷu gaur<choice><orig>i</orig><reg>ī</reg></choice>varāghrid</l>
         <l n="c">a<lb break="no" n="30"/>yāśrita-vāk-kāya-manō-nugaṁ cariyisuttuṁ baṁdu kaṇḍaṁ sur</l>
@@ -251,14 +251,14 @@
    <lb n="32"/>Ātra ślōka-dvayaṁ <g type="ddanda">.</g>
    </p>
   
-  <lg n="15" met="anuṣṭubh" xml:lang="san-Latn">
+  <lg n="18" met="anuṣṭubh" xml:lang="san-Latn">
       <l n="a">Ābbalūru-vara-grāmaṁ</l>
       <l n="b">gatvā rāma mamājñ<choice><orig>e</orig><reg>a</reg></choice>yā <supplied reason="omitted"><g type="danda">.</g></supplied></l>
       <l n="c">tatra vāsaṁ kuru svasthaṁ</l>
       <l n="d">yaja māṁ bhakti-yōgataḥ <g type="ddanda">.</g></l>
   </lg>
   
-   <lg n="16" met="anuṣṭubh" xml:lang="san-Latn">
+   <lg n="19" met="anuṣṭubh" xml:lang="san-Latn">
        <l n="a">jainai<supplied reason="omitted">ḥ</supplied> saha vivādaṁ ca</l>  
        <l n="b">saṁkaṁ hitvā ku<lb n="33"/>ruṣv atha <g type="danda">.</g></l>
        <l n="c">svaśirōpi paṇaṁ k<choice><orig>r</orig><reg>ṛ</reg></choice>itvā</l>
@@ -269,7 +269,7 @@
        eṁdu sōmanātha-dēvar besasidaḍēkāntada rāmayyan abbalūra brahmēśvara-sthānudāḷu nisp<choice><orig>r</orig><reg>ṛ</reg></choice>iha-v<choice><orig>r</orig><reg>ṛ</reg></choice>ittiyiṁdam ire <choice><orig><g type="danda"></g></orig><reg><g type="ddanda">.</g></reg></choice>
    </p>
 
-<lg n="17" met="kanda" xml:lang="kan-Latn">
+<lg n="20" met="kanda" xml:lang="kan-Latn">
     <l n="a"><lb n="34"/>yulidaḍḍi baṁdu jainar</l>
     <l n="b">palar antā saṁka-gauṇḍa-sahitaṃ piriduṁ</l>
     <l n="c">caladiṁ kaivārisidar</l>
@@ -281,56 +281,56 @@
     <lb n="35"/>n atikru<choice><orig>dhdh</orig><reg>ddh</reg></choice>an āgi śiva-saṁnidhiyoḷ anya-dēvatā-stavanaṁ mādaḷāgad eṁdaḍa<choice><orig>ḍ</orig><reg>d</reg></choice>aṁ māṇade nuḍiy<supplied reason="omitted">u</supplied>ttiral iṁteṁdaṁ <g type="ddanda">.</g>
 </p>
     
-  <lg n="18" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
+  <lg n="21" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
    <l n="a">jagamaṁ māḍuvan āvan āvan adan ā<lb n="36"/>pat-kā<supplied reason="omitted">la</supplied>doḷ kāvaniṁ </l>
    <l n="b">mige kōpaṁ tanagāge saṁharisal āvaṁ dakṣan ā śaṁbhu sar</l>
    <l n="c">vvagan irddante gata-prabhāva-vibhavaṁ saṁsāradoḷu biddu</l><!-- irregolare settima sillana e ultimi due gana -->
    <l n="d">daṁdugadoḷu bard<choice><orig>v</orig><reg>d</reg></choice>u tapak<supplied reason="omitted">k</supplied>e sārddu<lb n="37"/>sukhamaṁ porddirppanuṁ dēvanē <g type="ddanda">.</g></l><!-- irregolare 22 sillabe -->
   </lg>
     
-    <lg n="19" met="kanda" xml:lang="kan-Latn">
+    <lg n="22" met="kanda" xml:lang="kan-Latn">
     <l n="a">haran antirīvanē niṁm</l>
     <l n="b">aruhaṁ muṁ-koṭṭitāv<supplied reason="omitted">u</supplied>d āvudu mun<supplied reason="omitted">n</supplied>aṁ</l>
     <l n="c">haranoḷ paḍadar anēkar</l>
     <l n="d">vvaramaṁ bāṇa-diniśāḷa-bhakta-gaṇaṁgaḷu <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="20" met="kanda" xml:lang="kan-Latn">
+    <lg n="23" met="kanda" xml:lang="kan-Latn">
     <l n="a">Ene jai<lb n="38"/>nar eṁgu nīṁ muṁ</l>
     <l n="b">nina hitarara hēḷal ēke niṁnaya <choice><orig>s</orig><reg>ś</reg></choice>iramaṁ</l>
     <l n="c">janam aṟiyal aridu koṭṭā</l>
     <l n="d">tanoḷ iṃpaḍe nīne bhaktan ātane dēvaṁ <g type="ddanda"></g></l>
     </lg>
    
-   <lg n="21" met="kanda" xml:lang="kan-Latn">
+   <lg n="24" met="kanda" xml:lang="kan-Latn">
    <l n="a">Enal ēkāntada-rāmaṁ</l>
    <l n="b">manasijaripugittu taleya<lb n="39"/>nāṁ paḍedaḍe</l>
    <l n="c">nīv enagīva paṇam adēnn ene<!-- ene non dovrebbe fare parte del pada --></l>
    <l n="d">munid eṁdar jjinana kittu śivanaṁ nilipevu<g type="ddanda">.</g></l>
    </lg> 
   
-    <lg n="22" met="kanda" xml:lang="kan-Latn"> 
+    <lg n="25" met="kanda" xml:lang="kan-Latn"> 
     <l n="a">Ene kuḍuvudōleyaṁ nīv</l>
     <l n="b">enageṃdittōle goṃ̇u śiramaṁ tām bhō<supplied reason="omitted">ṁ</supplied>kenal</l> 
     <l n="c">aridu kuḍuva padado<lb n="40"/>ḷu śi</l>
     <l n="d">vanaṁ sāṁnidhya-māḍi rāmaṁ nuḍiguṁ <g type="ddanda">.</g></l>    
     </lg>
     
-  <lg n="23" met="campakamāla" xml:lang="kan-Latn"> 
+  <lg n="26" met="campakamāla" xml:lang="kan-Latn"> 
   <l n="a">Uḍugade śaṁbhu nīne śaraṅ eṁnadaḍaṁ manam anya <choice><orig>b</orig><reg>bh</reg></choice>āvadoḷ</l>
   <l n="b">oḍardaḍam ī k<choice><orig>r</orig><reg>ṛ</reg></choice>ipāṇa-mukhadiṁ tale pōgade nilkadallad-i</l><!-- pada tutto errato -->
   <l n="c"><lb n="41"/>rddaḍe śiva niṁna muṁnaḍiguruḷugenutaṁ kali rāman ārddu</l><!-- dal quarto gaṇa non ci si trova -->
   <l n="d">keygiḍad aridikkaluṁrayisidaṁ śiramaṁ śivan aṁghriyugmadoḷu</l><!-- intero verso sbagliato -->
   </lg>
    
-   <lg n="24" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+   <lg n="27" met="mattebhavikrīḍita" xml:lang="kan-Latn">
    <l n="a">Are-gayi-goṁḍane<note source="bib:EI_1898-1899">read <foreign>gāy-goṁḍane</foreign>. Gāy is for <foreign>gāya,ghāya</foreign>, a wound</note> kittu nōḍidane kūrppaṁga<note>°aḷuk should be °āḷuk</note><lb n="42"/>ḷuki meyi <!-- gaydanē è fuori pada --></l>
    <l n="b">seragaṁ pārddane bāḷge bhaktar enutaṁ ballāḷu rāmaṁ svakaṁ</l>
    <l n="c">dharamaṁ cakkene hulla kaṭṭan arivaṁtaklēśadiṁdāgaḷ aṁt</l>
    <l n="d">aridīśaṁghriyoḷ i<unclear>kki śaṁkara</unclear>-gaṇak<supplied reason="omitted">k</supplied>āna<supplied reason="omitted">ṁ</supplied>da<lb n="43"/>vaṁ māḍidaṁ</l>
    </lg>
     
-   <lg n="25" met="kanda" xml:lang="kan-Latn">
+   <lg n="28" met="kanda" xml:lang="kan-Latn">
        <l n="a">Arida taleyēḷu-devasaṁ</l>
        <l n="b">baregaṁ meṟadiṁ baḷikkav-ittaṁ haran ā</l>
        <l n="c">daradiṁ tale kaleyillade</l>
@@ -338,28 +338,28 @@
    </lg>
     
     
-  <lg n="26" met="kanda" xml:lang="kan-Latn">  
+  <lg n="29" met="kanda" xml:lang="kan-Latn">  
       <l n="a">beṟa<lb n="44"/>gāgi jainar ellaṁ</l>
       <l n="b">maṟigi jina-praḷ<choice><orig>e</orig><reg>a</reg></choice>yav eṁbudaṁ māḍadir iṁn</l>
       <l n="c">eḍ-eṟagi kāl-viḍiye māṇade</l>
       <l n="d">baṟa-siḍil aṁteṟagi jinana taleyaṁ muṟidaṁ</l>
   </lg>
     
-   <lg n="27" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+   <lg n="30" met="mattebhavikrīḍita" xml:lang="kan-Latn">
        <l n="a">baḍi-goṁḍorbbane sokki bāḷe<lb n="45"/>vanamaṁ kāḍāne pokkantiru</l>
        <l n="b">kaḍagalu kāpina vīraraṁ turugamaṁ sāmantarạṁ tūḷdu</l>
        <l n="c">māmārppaḍegaḷu jainara māri bandudenutuṁ be<supplied reason="omitted">ṁ</supplied>goṭṭu pō</l>
        <l n="d">galu jinaṁ keḍeva<supplied reason="omitted">ṁ</supplied>naṃ baḍidalli kai-ko<lb n="46"/>ḷisidaṁ śrī-vīra-sōmēśanaṁ <g type="ddanda">.</g></l><!-- pada a mattebhavikrīḍita, pada b campakamāla, c-d non definito -->
    </lg>
     
-   <lg n="28" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
+   <lg n="31" met="mattebhavikrīḍita" xml:lang="kan-Latn"> 
        <l n="a">Adan ellaṁ neṟe pōgi bijjaṇa-mahīpāḷaṁge jainarkkaḷ ur</l>
        <l n="b">kkavadiṁ pēḷdu virōdhavāge piriduṁ dūṟuttiralu kōpa<!-- anomialia ultime 5 sillabe --></l>
        <l n="c">durmmadan ā bijjaṇa-bhūbhujaṁ munisiniṁ<lb n="47"/>rāmaiyanaṁ kaṁdu <!-- non definito: BHA,TA,JA,BHA,YA,RA,GALA --></l>
        <l n="d">nīn idan anyāyaman ēke māḍidey enal koṭ<supplied reason="omitted">ṭ</supplied>ōleyaṁ tōṟidaṁ <!-- non definito: BHA,JA,JA,BHA,YA,RA,RA --><g type="ddanda">.</g></l>
    </lg>
     
-    <lg n="29" met="kanda" xml:lang="kan-Latn"> 
+    <lg n="32" met="kanda" xml:lang="kan-Latn"> 
         <l n="a">Avaritta yōleyide nīn</l>
         <l n="b">avadharisuvud ikku niṁna bhaṁḍāradoḷ iṁ</l>
         <l n="c"><lb n="48"/>n avar oḍḍav iraliyinnoḍ</l>
@@ -373,14 +373,14 @@
         <lb break="no" n="51"/>rade pōgi sukhadin iriveṁdavaraṁ kaḷipi rāmayya<supplied reason="omitted">ṁ</supplied> gaḷigellaruv aṟiye jaya-patramaṁ koṭṭ<choice><orig>u</orig><reg>aṁ</reg></choice> <choice><orig><g type="danda">.</g></orig><reg><g type="ddanda"></g></reg></choice>
     </p>
    
-   <lg n="30" met="mattebhavikrīḍita" xml:lang="kan-Latn">
+   <lg n="33" met="mattebhavikrīḍita" xml:lang="kan-Latn">
        <l n="a">Ari-rāya-kṣiti<!-- dovrebbe essere breve. Forse ṛ vocalica non vale come cons.? -->bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁ nagāriy arirāy āṁhōdhi-kuṁbhōdbha<lb n="52"/>vaṁ</l>
        <l n="b">Ari-rāyēṁdhana-tī<choice><orig>b</orig><reg>v</reg></choice>ra-vahni Ari-rāyānaṁga-bhāḷēkṣaṇaṁ</l>
        <l n="c">Ari-rāyōgra-bhujaṁga-bhūri-garuḍaṁ śrī-bijjaṇaṁ vairi-rā</l>
        <l n="d">jya-ramākarṣaṇa-dōl<choice><orig>e</orig><reg>i</reg></choice>tāsi-suhṛ<!-- idem qui -->idaṁ kīrty-aṁganā-vallabhaṁ <g type="ddanda">.</g></l>
    </lg>
     
-    <lg n="31" met="utpalamāla" xml:lang="kan-Latn">
+    <lg n="34" met="utpalamāla" xml:lang="kan-Latn">
     <l n="a"><lb n="53"/>cōḷanan ikki lāḷanan adhakkarisi sthiti-hīna-māḍi nē</l>
     <l n="b">pāḷanan aṁdhranaṁ tuḷidu gurjjaranaṁ seṟeyiṭṭu cēdi-bhū</l>
     <l n="c">pāḷana maimeyaṁ muṟidu vaṁgana bīsis<supplied reason="omitted">i</supplied> kādi koṁdu baṁ</l>
@@ -388,7 +388,7 @@
     <l n="e">pāḷisidaṁ dharā-vaḷ<choice><orig>e</orig><reg>a</reg></choice>yamaṁ kali bijjaṇarāya-bhūbhujaṁ</l>
     </lg>
     
-    <lg n="32" met="kanda" xml:lang="kan-Latn"> 
+    <lg n="35" met="kanda" xml:lang="kan-Latn"> 
         <l n="a">koḍad oḷage puṭṭi kaḍalaṁ</l>
         <l n="b">kuḍidaṁ ghaṭayōni puṭ<supplied reason="omitted">ṭ</supplied>i kaḷacuryya<lb n="55"/>roḷ ō</l>
         <l n="c">gaḍisade caḷukyar anvaya</l>
@@ -406,7 +406,7 @@ giridurggamallaṁ <supplied reason="omitted"><g type="danda">.</g></supplied> c
         <lb break="no" n="61"/>śrīmad-ēkāntada-ramaiyyaṁgaḷa kālaṁ kacci dhārā-pūrbbakaṁ māḍi koṭṭu pratipāḷisidaṁ <g type="ddanda">.</g>
     </p>
     
-    <lg n="33" met="utpalamāla" xml:lang="kan-Latn">
+    <lg n="36" met="utpalamāla" xml:lang="kan-Latn">
         <l n="a"><g type="SpiraIL">.</g> śrī-nuta-kīrti-vikramadoḷ oṁdida sōma-kulaika-bhūṣaṇaṁ</l>
         <l n="b">tān enipī<lb n="62"/>caḷukya-nripar anvayadoḷu vasudhādhināthar</l>
         <l n="c">ākhyāna-parākramar kaḷiye dhātripar ābriteyāge tailapaṁ</l>
@@ -419,21 +419,21 @@ giridurggamallaṁ <supplied reason="omitted"><g type="danda">.</g></supplied> c
         <lb break="no" n="65"/>kyamalla-nūrmmaḍi-tailapan ātana magaṁ tribhuvanamalla-sōmēśvaradēvan ātana parākrama-prabhāvam eṁeṁdaḍe <g type="ddanda">.</g>
     </p>
     
-    <lg n="34" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
+    <lg n="37" met="śārdūlavikrīḍita" xml:lang="kan-Latn">
         <l n="a">kōḍuḷḷugramadēbhavoṁeraḍenalkeṁpattuvoḍāgiral</l>
         <l n="b">kōḍi<lb n="66"/>ṭṭānade taḷtu kādi geldaṁ kōḍilladoṁdāneyiṁ nā</l>
         <l n="c">ḍaṁ bīḍan ibhaṁgaḷaṁ turagamaṁ sōmēśvaraṁ billamaṁ nō</l>
         <l n="d">ḍalkā kaḷacūryyavaṁśaman adaṁ nirmūḷavaṁ māḍidaṁ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="35" met="mahāsragdhara" xml:lang="kan-Latn">
+    <lg n="38" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">da<lb n="67"/> nisāpatnavāgalu siri nija-vasadiṁ saṁdudārakke tān</l>
         <l n="b">āgaravēgalu kīrtti dik-pāḷaka-nikara-mukhādēśavāgalu</l>
         <l n="c">jayā-sauṁdari nicca<supplied reason="omitted">ṁ</supplied> tōḷa bāḷaṁ seṟe-viḍidire sāmrājyamaṁ tāḷdi</l>
         <l n="d">daṁ du<lb break="no" n="68"/>rddhara-śauryyaṁ vīra-sōmēśvaran ahita-vadhū-nētra-nīrēja-sōmaṁ <g type="ddanda">.</g></l>
     </lg>  
     
-    <lg n="36" met="kanda" xml:lang="kan-Latn">
+    <lg n="39" met="kanda" xml:lang="kan-Latn">
         <l n="a">Aṁnadha-tamavenipa kaḷacuryy<supplied reason="subaudible">a</supplied></l>
         <l n="b">āṁdhaṁ masuḷalke taṁna tējade dhareg-anubandhaṁ taṁnoḷe sale sam</l>
         <l n="c">maṁ<lb break="no" n="69"/>dhise cāḷukya-rāya-sōmaṁ negaḷdaṁ <g type="ddanda">.</g></l>
@@ -455,7 +455,7 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
         <lb break="no" n="80"/>ṟayisi parama-bhaktiyiṁ pratipāḷisidaṁ <supplied reason="omitted"><g type="ddanda">.</g></supplied>
     </p>
     
-    <lg n="37" met="kanda" xml:lang="kan-Latn">
+    <lg n="40" met="kanda" xml:lang="kan-Latn">
         <l n="a"><g type="SpiraIL">.</g> śrīkaṁṭha-padāṁ bujaman a</l>
         <l n="b">nākuḷa-cittadoḷe pūjipaṁ śiva-samaya-prā</l>
         <l n="c">kāran eḷa<supplied reason="omitted">ni</supplied>si sale negaḷ</l>
@@ -463,7 +463,7 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
        
     </lg>
     
-    <lg n="37" met="kanda" xml:lang="kan-Latn">
+    <lg n="41" met="kanda" xml:lang="kan-Latn">
         <l n="a"><g type="SpiraIL">.</g> śrīyuṁ dī<supplied reason="omitted">r</supplied>gghāyuvaṁ kīrttiyan anudinavuṁ māḷke gīrvvā</l>
         <l n="b">ṇa-vriṁda-jyāyaṁ śrī-vīra-sōmaṁ vidhrita-himakaraṁ kāmadēvaṁg</l>
         <l n="c">udāra-śrī-yuktaṁ<lb break="no" n="82"/>g adrijā-sasmita-sita-taraḷālōla-vistāra-līlā</l>
@@ -486,14 +486,14 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
        
     </p>
     
-    <lg n="38" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="42" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">bahubhir vvasudhā bhuktā</l>
         <l n="b">rājabhiḥ sagarādibhiḥ</l>
         <l n="c">yasya yasya yadā bhūmis</l>
         <l n="d">tasya tasya tadā palaṁ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="39" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="43" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">gaṇyaṁte pāṁvavō<lb n="95"/>bhūmer</l>
         <l n="b">gaṇya<supplied reason="omitted">ṁ</supplied>te vriṣṭi-biṁdanaḥ</l>
         <l n="c">na gaṅyatē vidhātrāpi</l>
@@ -501,35 +501,35 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
         
     </lg>
     
-    <lg n="40" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="44" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">svadat<supplied reason="omitted">tā</supplied>ṁ paradattaṁ vā</l>
         <l n="b">yō harēta vasuṁdharāṁ <g type="danda">.</g></l>
         <l n="c">ṣaṣṭhir-vvarṣa-saharāṇi</l>
         <l n="d">viṣṭhāyāṁ jā<lb n="96"/>yatē krimiḥ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="41" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="45" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">karmaṇā manasā vācā</l>
         <l n="b">ya<supplied reason="omitted">ḥ</supplied>samartthōpyupēkṣatē <g type="danda"></g></l>
         <l n="c">sabhyās tathaive cāṁḍāla<supplied reason="omitted">ḥ</supplied></l>
         <l n="d">sarvva-dharmma-bahiṣkritaḥ <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="42" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="46" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">kulāni tārayēt karttā</l>
         <l n="b">sapta sapta ca sapta ca <g type="danda"></g></l>
         <l n="c">adhō vapā<lb n="97"/>tayēd dhartā</l>
         <l n="d">sapta sapta ca sapta ca <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="43" met="anuṣṭubh" xml:lang="san-Latn">
+    <lg n="47" met="anuṣṭubh" xml:lang="san-Latn">
         <l n="a">Api gaṁgādi-tīrthhēṣu</l>
         <l n="b">haṁtur gāmathavā dvijaṁ</l>
         <l n="c">niṣkriti syān na d<choice><sic>e</sic><corr>ē</corr></choice>vasva</l>
         <l n="d">brahmasva-haraṇa <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="44" met="śālinī" xml:lang="san-Latn">
+    <lg n="48" met="śālinī" xml:lang="san-Latn">
         <l n="a">sāmānyōyaṁ dharmma-sētu<lb n="98"/> nripārṇāṁ</l>
         <l n="b">kālē-kālē pālanīyō bhavadbhiḥ</l>
         <l n="c">sarvvān ētānu bhāvitaḥ pārthavēṁdrā</l>
@@ -540,7 +540,7 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
     
     </p>
     
-    <lg n="45" met="śālinī" xml:lang="kan-Latn">
+    <lg n="49" met="śālinī" xml:lang="kan-Latn">
         <l n="a"><g type="SpiraIL"></g> haranoḷ tavanidhiyṁtāṁ</l>
         <l n="b">daravuvillenisi paḍedu dēgulavaṁ pura</l>
         <l n="c">harana kaiḷāsadaṁtire</l>
@@ -548,14 +548,14 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
         
     </lg>
    
-    <lg n="45" met="utpalamāla" xml:lang="kan-Latn">
+    <lg n="50" met="utpalamāla" xml:lang="kan-Latn">
         <l n="a">dēgulak endu bhakta-<lb n="100"/>janavādaradind idir-erdda koṭ<supplied reason="omitted">ṭ</supplied>aḍaṁ</l>
         <l n="b">hāgavan ādaḍaṁ kaḷadu-koḷ̣lade bēḍade nāḍe dvenyadiṁ</l>
         <l n="c">pōgi nripāḷaṁ śivan anugrahav akṣayavāge māḍidaṁ</l>
         <l n="d">dēgulaṁ harādriheṇe-<lb n="101"/>yāgire rāmanidēṁ kritārtthanō <g type="ddanda">.</g></l>
     </lg>
     
-    <lg n="46" met="kanda" xml:lang="kan-Latn">
+    <lg n="51" met="kanda" xml:lang="kan-Latn">
         <l n="a">kēśavarāja-camūpaṁ</l>
         <l n="b">śāsanavaṁ pēḷdan aṁtadaṁ tirddi nirā</l>
         <l n="c">yāsane baradan īśana dāsaṁ śiva-caraṇakamaḷa-śaraṇaṁ saraṇaṁ <g type="ddanda">.</g> <g type="SpiraIL">.</g></l>
