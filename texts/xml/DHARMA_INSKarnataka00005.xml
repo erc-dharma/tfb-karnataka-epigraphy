@@ -139,10 +139,12 @@
         <l n="d">d'agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ</l>
     </lg>
    
-    <p>
-     prakaṭik-amarāvatiyōḷu sukēśiyuṁ ṁaṁjughoṣeyuṃ tam-irbbar sa
-     <lb break="no" n="13"/>kaḷa-vadhū-tatiyellaṁ sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ <g type="ddanda">.</g>
-    </p>
+    <lg n="5" met="kanda" xml:lang="kan-Latn">
+     <l n="a">prakaṭik-amarāvatiyōḷu</l>
+     <l n="b">sukēśiyuṁ ṁaṁjughoṣeyuṃ tam-irbbar</l> 
+     <l n="c">sa<lb break="no" n="13"/>kaḷa-vadhū-tatiyellaṁ</l>
+     <l n="d">sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ <g type="ddanda">.</g></l>
+    </lg>
     
     <lg n="6" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyāna-naṁ</l>
