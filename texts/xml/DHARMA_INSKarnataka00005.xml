@@ -108,7 +108,7 @@
 <lb break="no" n="4"/>mahimaṁgīge saṁpattan eduṁṇan<note>read saṁpattan enduṁ</note></l>
    <l n="b">ā nākauk'ānika-mauḷi-prakara-maṇi-gaṇa-śrēṇi-śōṇ-āṁśu-jāḷa-</l>
     <l n="c">byākīrnn'āghri-dvay-āḷaṁk<choice><orig>r</orig><reg>ṛ</reg></choice>itan amara-varaṁ śita-śailē<supplied reason="omitted">ṁ</supplied>dra-kanyā-ḷ</l>
-       <l n="d"><lb break="no" n="5"/>ōk'āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ <g type="ddanda">.</g></l>  
+       <l n="d"><lb break="no" n="5"/>ōk'āṁśu-śrī-nivāsaṁ sakaḷa-gaṇa-v<choice><orig>r</orig><reg>ṛ</reg></choice>itaṁ vīrasōmēśan īśaṁ<g type="ddanda">.</g></l>  
       </lg>
     <lg n="4" met="mahāsragdhara" xml:lang="kan-Latn">
         <l n="a">caḷad-ugra-grāha-vaktra-cc<supplied reason="omitted">y</supplied>uta-timi-nikar'ātuccha-pucch'āgra-ghāt'ā</l>
@@ -124,7 +124,7 @@
     <l n="a">Eseguṁ pūrvvāpar'āṁbhōnidhi-miti<lb break="no" n="9"/>vitat'āyāmadiṁ siddha-kanyā</l>
     <l n="b">visarānaṁg'ōru-kēḷī-śrama-śama-mahimā-kaṁdaraṁ svardhunī-vāḥ-</l>
     <l n="c">prasar'ōpakṣuṇṇa-nānā-naga-ni<lb break="no" n="10"/>kara-gaḷad-gaṇḍaśaiḷ'āḷi-māḷā-</l>     
-    <l n="d">visaraṁ prasphāra-śītadyuti-ruci-nicaya-bhrājitaṁ śītaśailaṁ <g type="ddanda">.</g></l>
+    <l n="d">visaraṁ prasphāra-śītadyuti-ruci-nicaya-bhrājitaṁ śītaśailaṁ<g type="ddanda">.</g></l>
     </lg>
    
     <p>
@@ -136,21 +136,21 @@
         <l n="a">sogayipud'alandey-eṁbudu</l>
         <l n="b">nagaraṁ celuv-esedu nāḍe<choice><orig>v</orig><reg>y</reg></choice>-ama<lb break="no" n="12"/>rāvatigaṁ</l> 
         <l n="c">migil enisi vibudha-janadiṁ</l>
-        <l n="d">d'agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ</l>
+        <l n="d">d'agaṇita-dhana-dhānya-jaḷa-sam<choice><orig>r</orig><reg>ṛ</reg></choice>i-ddhiyin eṁduṃ<g type="ddanda"></g></l>
     </lg>
    
     <lg n="7" met="kanda" xml:lang="kan-Latn">
      <l n="a">prakaṭik-amarāvatiyōḷu</l>
      <l n="b">sukēśiyuṁ ṁaṁjughoṣeyuṃ tam-irbbar</l> 
      <l n="c">sa<lb break="no" n="13"/>kaḷa-vadhū-tatiyellaṁ</l>
-     <l n="d">sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ <g type="ddanda">.</g></l>
+     <l n="d">sukeśiyar mmaṁju-ghōṣeyar ttat-puradoḷ<g type="ddanda">.</g></l>
     </lg>
     
     <lg n="8" met="mattebhavikrīḍita" xml:lang="kan-Latn">
         <l n="a">Adu nānāvidha-gandhasāḷi-vanadiṁ savvattukedyāna-naṁ</l>
-        <l n="b">dansdiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras-ōn</l>
+        <l n="b">danadiṁ pūr<choice><orig>nn</orig><reg>ṇṇ</reg></choice>a-taṭāka-kūpa<lb break="no" n="14"/>sarasī-saṁnodōhadiṁ sāras-ōn</l>
         <l n="c">mada<!-- dovrebbe essere breve, probabilmente la ṛ vocalica non è stata considerata consonante? -->-bh<choice><orig>r</orig><reg>ṛ</reg></choice>iṁgī-pika-kōka-kēki-śuka-saṁghānīka-śā<!-- dovrebbe essere breve. sul dizionario è śakunta -->kunta-nā</l>
-        <l n="d">dadin ettaṁ gaṅikā-vinōda<!-- dovrebbe essere breve: stessa anomalia, correzione in ṛ vocalica -->-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadi<!-- sempre in 17esima posizione dovrebbe essere breve -->ṁd eppuguṁ <note source="bib:EI_1898-1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
+        <l n="d">dadin ettaṁ gaṅikā-vinōda<!-- dovrebbe essere breve: stessa anomalia, correzione in ṛ vocalica -->-k<choice><orig>r</orig><reg>ṛ</reg></choice>ita-vīṇā-nādadi<!-- sempre in 17esima posizione dovrebbe essere breve -->ṁd'eppuguṁ <note source="bib:EI_1898-1899">to read oppuguṁ</note> <g type="ddanda">.</g></l>
     </lg>
     <p>
         ant-aparimīta-kē
@@ -467,7 +467,7 @@ aṇadēvana kaiyyalu jaya-patravaṁ pūje-sahitaṁ koṇḍudumaṁ jinanan o
         <l n="a"><g type="SpiraIL">.</g> śrīyuṁ dī<supplied reason="omitted">r</supplied>gghāyuvaṁ kīrttiyan anudinavuṁ māḷke gīrvvā</l>
         <l n="b">ṇa-vriṁda-jyāyaṁ śrī-vīra-sōmaṁ vidhrita-himakaraṁ kāmadēvaṁg</l>
         <l n="c">udāra-śrī-yuktaṁ<lb break="no" n="82"/>g adrijā-sasmita-sita-taraḷālōla-vistāra-līlā</l>
-        <l n="d">nēyāḷōkōddhata-śrī-lalita-ratilaḷālāsya śailūṣa vēṣaṁ <g type="ddanda">.</g></l>
+        <l n="d">nēyāḷōkōddhata-śrī-lalita-ratilaḷālāsya śailūṣa vēṣaṁ<g type="ddanda">.</g></l>
         </lg>
     <p>
         svasti samadhigatapaṁcamahāśabda-mahāmaṁ
